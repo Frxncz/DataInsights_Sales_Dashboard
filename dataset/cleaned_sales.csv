@@ -1,0 +1,1698 @@
+ordernumber,quantityordered,priceeach,sales,orderdate,status,qtr_id,month_id,year_id,productline,customername,country,territory,dealsize
+10121,34,81.35,-0.4190810851704399,2003-05-07,Shipped,2,5,2003,Motorcycles,Reims Collectables,France,EMEA,Small
+10134,41,94.74,0.19132920186801836,2003-07-01,Shipped,3,7,2003,Motorcycles,Lyon Souveniers,France,EMEA,Medium
+10180,29,86.13,-0.5654182246357862,2003-11-11,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,France,EMEA,Small
+10188,48,100.0,1.07983081044145,2003-11-18,Shipped,4,11,2003,Motorcycles,Herkku Gifts,Norway,EMEA,Medium
+10211,41,100.0,0.6410977344208536,2004-01-15,Shipped,1,1,2004,Motorcycles,Auto Canal Petit,France,EMEA,Medium
+10223,37,100.0,0.23571116651696442,2004-02-20,Shipped,1,2,2004,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Medium
+10275,45,92.83,0.3512450831000369,2004-07-23,Shipped,3,7,2004,Motorcycles,La Rochelle Gifts,France,EMEA,Medium
+10299,23,100.0,-0.5110486806327362,2004-09-30,Shipped,3,9,2004,Motorcycles,"Toys of Finland, Co.",Finland,EMEA,Small
+10309,41,100.0,0.46969340808479815,2004-10-15,Shipped,4,10,2004,Motorcycles,Baane Mini Imports,Norway,EMEA,Medium
+10341,41,100.0,2.2945005637904567,2004-11-24,Shipped,4,11,2004,Motorcycles,Salzburg Collectables,Austria,EMEA,Large
+10361,20,72.55,-1.1367132213841562,2004-12-17,Shipped,4,12,2004,Motorcycles,Souveniers And Things Co.,Australia,APAC,Small
+10375,21,34.91,-1.5285155898277372,2005-02-03,Shipped,1,2,2005,Motorcycles,La Rochelle Gifts,France,EMEA,Small
+10403,24,100.0,-0.599916306109715,2005-04-08,Shipped,2,4,2005,Motorcycles,"UK Collectables, Ltd.",UK,EMEA,Small
+10417,66,100.0,2.1734216304730847,2005-05-13,Disputed,2,5,2005,Motorcycles,Euro Shopping Channel,Spain,EMEA,Large
+10103,26,100.0,1.0210514499804135,2003-01-29,Shipped,1,1,2003,Classic Cars,Baane Mini Imports,Norway,EMEA,Medium
+10112,29,100.0,2.0058868089250392,2003-03-24,Shipped,1,3,2003,Classic Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Large
+10126,38,100.0,2.071351844090326,2003-05-28,Shipped,2,5,2003,Classic Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Large
+10194,42,100.0,2.050230569718533,2003-11-25,Shipped,4,11,2003,Classic Cars,"Saveley & Henriot, Co.",France,EMEA,Large
+10258,32,100.0,2.263233436949113,2004-06-15,Shipped,2,6,2004,Classic Cars,"Tokyo Collectables, Ltd",Japan,Japan,Large
+10270,21,100.0,0.748587010584282,2004-07-19,Shipped,3,7,2004,Classic Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10291,37,100.0,1.9660893069304357,2004-09-08,Shipped,3,9,2004,Classic Cars,Scandinavian Gift Ideas,Sweden,EMEA,Large
+10347,30,100.0,0.22427184065565214,2004-11-29,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10391,24,100.0,-0.6097401546547351,2005-03-09,Shipped,1,3,2005,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10120,29,96.34,-0.4038213737638421,2003-04-29,Shipped,2,4,2003,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Small
+10134,27,100.0,-0.123345040109883,2003-07-01,Shipped,3,7,2003,Motorcycles,Lyon Souveniers,France,EMEA,Medium
+10180,42,100.0,0.6340900557920731,2003-11-11,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,France,EMEA,Medium
+10188,38,96.34,0.06939341064977474,2003-11-18,Shipped,4,11,2003,Motorcycles,Herkku Gifts,Norway,EMEA,Medium
+10210,23,100.0,-0.2863554336335826,2004-01-12,Shipped,1,1,2004,Motorcycles,Osaka Souveniers Co.,Japan,Japan,Medium
+10223,47,100.0,1.0307497715718028,2004-02-20,Shipped,1,2,2004,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Medium
+10275,22,100.0,-0.34347019753560215,2004-07-23,Shipped,3,7,2004,Motorcycles,La Rochelle Gifts,France,EMEA,Small
+10298,39,96.34,0.12197283114017668,2004-09-27,Shipped,3,9,2004,Motorcycles,Atelier graphique,France,EMEA,Medium
+10339,40,68.92,-0.4240475863793111,2004-11-23,Shipped,4,11,2004,Motorcycles,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10361,26,51.15,-1.2028058913175967,2004-12-17,Shipped,4,12,2004,Motorcycles,Souveniers And Things Co.,Australia,APAC,Small
+10374,39,100.0,0.957409284489592,2005-02-02,Shipped,1,2,2005,Motorcycles,"Australian Gift Network, Co",Australia,APAC,Medium
+10402,45,100.0,1.2552847454555087,2005-04-07,Shipped,2,4,2005,Motorcycles,Auto Canal Petit,France,EMEA,Medium
+10417,45,100.0,1.2845106948769436,2005-05-13,Disputed,2,5,2005,Motorcycles,Euro Shopping Channel,Spain,EMEA,Medium
+10134,31,100.0,1.9048485266395079,2003-07-01,Shipped,3,7,2003,Motorcycles,Lyon Souveniers,France,EMEA,Large
+10210,34,100.0,1.4133395531576092,2004-01-12,Shipped,1,1,2004,Motorcycles,Osaka Souveniers Co.,Japan,Japan,Medium
+10275,36,100.0,1.8382319181169997,2004-07-23,Shipped,3,7,2004,Motorcycles,La Rochelle Gifts,France,EMEA,Medium
+10299,29,100.0,1.7189376506186393,2004-09-30,Shipped,3,9,2004,Motorcycles,"Toys of Finland, Co.",Finland,EMEA,Medium
+10339,39,76.67,-0.2967032207676704,2004-11-23,Shipped,4,11,2004,Motorcycles,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10374,22,100.0,0.1640625644619515,2005-02-02,Shipped,1,2,2005,Motorcycles,"Australian Gift Network, Co",Australia,APAC,Medium
+10105,50,100.0,2.00528100493143,2003-02-11,Shipped,1,2,2003,Classic Cars,Danish Wholesale Imports,Denmark,EMEA,Large
+10119,46,100.0,0.8028419430209733,2003-04-28,Shipped,2,4,2003,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10129,33,100.0,0.47180007782834116,2003-06-12,Shipped,2,6,2003,Classic Cars,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10155,32,100.0,0.5415712332725282,2003-10-06,Shipped,4,10,2003,Classic Cars,"Toys of Finland, Co.",Finland,EMEA,Medium
+10167,44,100.0,1.3046004651515093,2003-10-23,Cancelled,4,10,2003,Classic Cars,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10178,24,100.0,-0.02253598095706867,2003-11-08,Shipped,4,11,2003,Classic Cars,Alpha Cognac,France,EMEA,Medium
+10186,26,100.0,0.17490154402329014,2003-11-14,Shipped,4,11,2003,Classic Cars,"Double Decker Gift Stores, Ltd",UK,EMEA,Medium
+10197,45,100.0,0.9772698316314405,2003-11-26,Shipped,4,11,2003,Classic Cars,Enaco Distributors,Spain,EMEA,Medium
+10273,30,100.0,-0.013629024942917052,2004-07-21,Shipped,3,7,2004,Classic Cars,Petit Auto,Belgium,EMEA,Medium
+10316,33,100.0,0.32483530359484103,2004-11-01,Shipped,4,11,2004,Classic Cars,giftsbymail.co.uk,UK,EMEA,Medium
+10325,47,64.93,-0.2630947433564296,2004-11-05,Shipped,4,11,2004,Classic Cars,Baane Mini Imports,Norway,EMEA,Medium
+10350,26,75.47,-0.8577050073183139,2004-12-02,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10359,48,54.68,-0.4961764654743031,2004-12-15,Shipped,4,12,2004,Classic Cars,Reims Collectables,France,EMEA,Small
+10373,39,100.0,0.2796947195304738,2005-01-31,Shipped,1,1,2005,Classic Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10395,32,100.0,-0.08907618176867133,2005-03-17,Shipped,1,3,2005,Classic Cars,Lyon Souveniers,France,EMEA,Medium
+10103,42,100.0,1.0175803568278399,2003-01-29,Shipped,1,1,2003,Classic Cars,Baane Mini Imports,Norway,EMEA,Medium
+10114,31,100.0,0.4210653577869486,2003-04-01,Shipped,2,4,2003,Classic Cars,"La Corne D'abondance, Co.",France,EMEA,Medium
+10126,22,100.0,-0.10153063864630242,2003-05-28,Shipped,2,5,2003,Classic Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10150,20,100.0,-0.1869653748261603,2003-09-19,Shipped,3,9,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10164,21,100.0,0.0016634326254975152,2003-10-21,Resolved,4,10,2003,Classic Cars,Mini Auto Werke,Austria,EMEA,Medium
+10175,33,100.0,0.9982437482750585,2003-11-06,Shipped,4,11,2003,Classic Cars,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10194,26,100.0,0.39839409842249673,2003-11-25,Shipped,4,11,2003,Classic Cars,"Saveley & Henriot, Co.",France,EMEA,Medium
+10217,48,100.0,1.902938333866865,2004-02-04,Shipped,1,2,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Large
+10259,26,100.0,0.27267066782078453,2004-06-15,Shipped,2,6,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Medium
+10270,32,100.0,0.4193188958233896,2004-07-19,Shipped,3,7,2004,Classic Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10291,30,100.0,0.1758075211668866,2004-09-08,Shipped,3,9,2004,Classic Cars,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10334,26,100.0,-0.1886463444660859,2004-11-19,On Hold,4,11,2004,Classic Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Medium
+10347,27,100.0,0.48804217408944117,2004-11-29,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10370,35,65.63,-0.6749650513000321,2005-01-20,Shipped,1,1,2005,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10391,37,46.9,-0.9815509913092003,2005-03-09,Shipped,1,3,2005,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10425,38,100.0,1.28865308434676,2005-05-31,In Process,2,5,2005,Classic Cars,La Rochelle Gifts,France,EMEA,Medium
+10108,33,100.0,0.944932996837416,2003-03-03,Shipped,1,3,2003,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Medium
+10122,42,100.0,2.2191680185310614,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Large
+10169,30,100.0,0.8110830604115177,2003-11-04,Shipped,4,11,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10181,27,100.0,1.0245716623757122,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Medium
+10191,21,100.0,0.1676209807127032,2003-11-20,Shipped,4,11,2003,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10203,20,100.0,0.21646733875599744,2003-12-02,Shipped,4,12,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10211,41,100.0,2.1640453128062265,2004-01-15,Shipped,1,1,2004,Classic Cars,Auto Canal Petit,France,EMEA,Large
+10225,27,100.0,0.5371122975718163,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10238,28,100.0,1.2230406914532985,2004-04-09,Shipped,2,4,2004,Classic Cars,Danish Wholesale Imports,Denmark,EMEA,Medium
+10253,24,100.0,0.21218850694527752,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10287,21,100.0,-0.055413127421069304,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10300,33,100.0,1.0850538232512195,2003-10-04,Shipped,4,10,2003,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Medium
+10310,33,100.0,1.8560785763071195,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10320,31,100.0,1.824145610842168,2004-11-03,Shipped,4,11,2004,Classic Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Medium
+10341,45,79.65,0.027549273541625313,2004-11-24,Shipped,4,11,2004,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10363,33,85.39,-0.39071745134351266,2005-01-06,Shipped,1,1,2005,Classic Cars,Suominen Souveniers,Finland,EMEA,Small
+10375,45,76.0,-0.06209334443168284,2005-02-03,Shipped,1,2,2005,Classic Cars,La Rochelle Gifts,France,EMEA,Medium
+10389,26,99.04,-0.5232466259094695,2005-03-03,Shipped,1,3,2005,Classic Cars,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10419,12,100.0,-0.8582180305201094,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Small
+10117,33,100.0,1.3647551644088491,2003-04-16,Shipped,2,4,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10153,20,100.0,0.7478283911688608,2003-09-28,Shipped,3,9,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10176,33,100.0,2.150728540334088,2003-11-06,Shipped,4,11,2003,Classic Cars,L'ordine Souveniers,Italy,EMEA,Large
+10220,32,100.0,1.990785370633889,2004-02-12,Shipped,1,2,2004,Classic Cars,"Clover Collections, Co.",Ireland,EMEA,Large
+10306,31,100.0,1.657494935663175,2004-10-14,Shipped,4,10,2004,Classic Cars,"AV Stores, Co.",UK,EMEA,Medium
+10325,42,64.0,-0.4615965185958324,2004-11-05,Shipped,4,11,2004,Classic Cars,Baane Mini Imports,Norway,EMEA,Small
+10336,33,57.22,-0.8980701094510741,2004-11-20,Shipped,4,11,2004,Classic Cars,"La Corne D'abondance, Co.",France,EMEA,Small
+10348,48,52.36,-0.5569533418061604,2004-11-01,Shipped,4,11,2004,Classic Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10359,42,100.0,0.6716826495576828,2004-12-15,Shipped,4,12,2004,Classic Cars,Reims Collectables,France,EMEA,Medium
+10395,33,69.12,-0.683746480360553,2005-03-17,Shipped,1,3,2005,Classic Cars,Lyon Souveniers,France,EMEA,Small
+10103,27,100.0,-0.07574849390926072,2003-01-29,Shipped,1,1,2003,Trucks and Buses,Baane Mini Imports,Norway,EMEA,Medium
+10126,21,100.0,-0.5971820015980177,2003-05-28,Shipped,2,5,2003,Trucks and Buses,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10150,30,100.0,0.3090843997609924,2003-09-19,Shipped,3,9,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10164,49,100.0,1.653292511563361,2003-10-21,Resolved,4,10,2003,Trucks and Buses,Mini Auto Werke,Austria,EMEA,Medium
+10174,43,100.0,1.7920052530190442,2003-11-06,Shipped,4,11,2003,Trucks and Buses,"Australian Gift Network, Co",Australia,APAC,Medium
+10194,38,100.0,0.7641578105281387,2003-11-25,Shipped,4,11,2003,Trucks and Buses,"Saveley & Henriot, Co.",France,EMEA,Medium
+10216,43,100.0,1.2146904201900313,2004-02-02,Shipped,1,2,2004,Trucks and Buses,Auto Assoc. & Cie.,France,EMEA,Medium
+10258,41,100.0,1.7106965332280946,2004-06-15,Shipped,2,6,2004,Trucks and Buses,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10270,28,100.0,0.3061481605847583,2004-07-19,Shipped,3,7,2004,Trucks and Buses,Souveniers And Things Co.,Australia,APAC,Medium
+10291,41,100.0,1.557640972896682,2004-09-08,Shipped,3,9,2004,Trucks and Buses,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10304,39,100.0,1.5621162816783023,2004-10-11,Shipped,4,10,2004,Trucks and Buses,Auto Assoc. & Cie.,France,EMEA,Medium
+10347,29,100.0,0.028739050754299878,2004-11-29,Shipped,4,11,2004,Trucks and Buses,"Australian Collectors, Co.",Australia,APAC,Medium
+10391,39,63.2,-0.5834122405540811,2005-03-09,Shipped,1,3,2005,Trucks and Buses,"Anna's Decorations, Ltd",Australia,APAC,Small
+10134,20,100.0,-0.44893466936002885,2003-07-01,Shipped,3,7,2003,Motorcycles,Lyon Souveniers,France,EMEA,Small
+10169,35,100.0,0.6033359521525239,2003-11-04,Shipped,4,11,2003,Motorcycles,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10180,40,100.0,1.7540087899243613,2003-11-11,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,France,EMEA,Medium
+10211,36,100.0,0.6756776812993246,2004-01-15,Shipped,1,1,2004,Motorcycles,Auto Canal Petit,France,EMEA,Medium
+10224,43,100.0,1.3939865715239197,2004-02-21,Shipped,1,2,2004,Motorcycles,Daedalus Designs Imports,France,EMEA,Medium
+10299,24,100.0,0.3401605073250723,2004-09-30,Shipped,3,9,2004,Motorcycles,"Toys of Finland, Co.",Finland,EMEA,Medium
+10309,26,100.0,0.6147916510947444,2004-10-15,Shipped,4,10,2004,Motorcycles,Baane Mini Imports,Norway,EMEA,Medium
+10375,49,78.92,0.1819092226520712,2005-02-03,Shipped,1,2,2005,Motorcycles,La Rochelle Gifts,France,EMEA,Medium
+10417,21,100.0,-0.046931871510535086,2005-05-13,Disputed,2,5,2005,Motorcycles,Euro Shopping Channel,Spain,EMEA,Medium
+10104,34,100.0,1.3233421850979532,2003-01-31,Shipped,1,1,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10117,43,100.0,1.2977674327190847,2003-04-16,Shipped,2,4,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10153,42,100.0,1.0150589023679515,2003-09-28,Shipped,3,9,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10165,34,100.0,0.7347408418294399,2003-10-22,Shipped,4,10,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10208,26,100.0,-0.21362075054498125,2004-01-02,Shipped,1,1,2004,Classic Cars,"Saveley & Henriot, Co.",France,EMEA,Medium
+10220,30,100.0,0.6439139043370932,2004-02-12,Shipped,1,2,2004,Classic Cars,"Clover Collections, Co.",Ireland,EMEA,Medium
+10230,43,100.0,1.9006624756206025,2004-03-15,Shipped,1,3,2004,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Large
+10247,25,100.0,0.4625274563405696,2004-05-05,Shipped,2,5,2004,Classic Cars,Suominen Souveniers,Finland,EMEA,Medium
+10293,24,100.0,0.3866600571048339,2004-09-09,Shipped,3,9,2004,Classic Cars,Amica Models & Co.,Italy,EMEA,Medium
+10306,34,100.0,0.7907804400851429,2004-10-14,Shipped,4,10,2004,Classic Cars,"AV Stores, Co.",UK,EMEA,Medium
+10314,46,100.0,1.5607736890438162,2004-10-22,Shipped,4,10,2004,Classic Cars,Heintze Collectables,Denmark,EMEA,Medium
+10336,33,100.0,0.2868333828065217,2004-11-20,Shipped,4,11,2004,Classic Cars,"La Corne D'abondance, Co.",France,EMEA,Medium
+10348,47,100.0,0.6918979467858801,2004-11-01,Shipped,4,11,2004,Classic Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10358,49,55.34,-0.4486836154527672,2004-12-10,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10372,40,100.0,1.2706754415093735,2005-01-26,Shipped,1,1,2005,Classic Cars,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10108,45,100.0,1.4171326502347146,2003-03-03,Shipped,1,3,2003,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Medium
+10122,37,99.82,0.08708725341808314,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Medium
+10170,47,100.0,1.0538358156525998,2003-11-04,Shipped,4,11,2003,Classic Cars,Mini Auto Werke,Austria,EMEA,Medium
+10181,28,100.0,-0.36730940333818407,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Small
+10191,40,100.0,1.122226174606848,2003-11-20,Shipped,4,11,2003,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10203,20,100.0,-0.6980238069126486,2003-12-02,Shipped,4,12,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10212,39,100.0,0.7711654891569197,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10225,25,99.82,-0.5666571210911859,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Small
+10238,29,100.0,-0.19996560106740335,2004-04-09,Shipped,2,4,2004,Classic Cars,Danish Wholesale Imports,Denmark,EMEA,Medium
+10253,22,100.0,-0.6172281103234948,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Small
+10266,22,100.0,-0.5890118342247428,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Small
+10287,45,100.0,0.6673274100360574,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10300,29,100.0,0.24604803826378002,2003-10-04,Shipped,4,10,2003,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Medium
+10310,24,100.0,-0.23656489459123922,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10320,35,100.0,0.7185205763428844,2004-11-03,Shipped,4,11,2004,Classic Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Medium
+10341,44,95.93,0.37502425427262137,2004-11-24,Shipped,4,11,2004,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10363,34,96.73,-0.13368736955033458,2005-01-06,Shipped,1,1,2005,Classic Cars,Suominen Souveniers,Finland,EMEA,Medium
+10389,25,72.38,-0.9410549045291731,2005-03-03,Shipped,1,3,2005,Classic Cars,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10419,10,100.0,-1.3325352690482228,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Small
+10105,29,100.0,0.563385634736109,2003-02-11,Shipped,1,2,2003,Classic Cars,Danish Wholesale Imports,Denmark,EMEA,Medium
+10117,39,100.0,1.3122303208548085,2003-04-16,Shipped,2,4,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10153,49,100.0,1.911894409123742,2003-09-28,Shipped,3,9,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Large
+10165,27,100.0,1.1053236974157772,2003-10-22,Shipped,4,10,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10176,50,100.0,2.367944747051754,2003-11-06,Shipped,4,11,2003,Classic Cars,L'ordine Souveniers,Italy,EMEA,Large
+10208,20,100.0,-0.2288804619515791,2004-01-02,Shipped,1,1,2004,Classic Cars,"Saveley & Henriot, Co.",France,EMEA,Medium
+10220,27,100.0,0.8249019406981796,2004-02-12,Shipped,1,2,2004,Classic Cars,"Clover Collections, Co.",Ireland,EMEA,Medium
+10231,49,100.0,1.8656295401703333,2004-03-19,Shipped,1,3,2004,Classic Cars,CAF Imports,Spain,EMEA,Medium
+10247,27,100.0,0.34053708818596456,2004-05-05,Shipped,2,5,2004,Classic Cars,Suominen Souveniers,Finland,EMEA,Medium
+10306,20,100.0,0.05437383776316628,2004-10-14,Shipped,4,10,2004,Classic Cars,"AV Stores, Co.",UK,EMEA,Medium
+10314,36,100.0,1.844715658156713,2004-10-22,Shipped,4,10,2004,Classic Cars,Heintze Collectables,Denmark,EMEA,Medium
+10325,24,100.0,-0.5185748401569489,2004-11-05,Shipped,4,11,2004,Classic Cars,Baane Mini Imports,Norway,EMEA,Small
+10336,49,63.38,-0.23367231696409457,2004-11-20,Shipped,4,11,2004,Classic Cars,"La Corne D'abondance, Co.",France,EMEA,Medium
+10359,49,62.09,-0.26817039843802337,2004-12-15,Shipped,4,12,2004,Classic Cars,Reims Collectables,France,EMEA,Medium
+10372,34,100.0,1.3140641059165454,2005-01-26,Shipped,1,1,2005,Classic Cars,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10108,39,89.38,-0.02617080491872602,2003-03-03,Shipped,1,3,2003,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Medium
+10122,32,63.84,-0.8136832504493516,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Small
+10169,36,63.84,-0.6743155857573337,2003-11-04,Shipped,4,11,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10181,20,81.4,-1.0401120440247922,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Small
+10191,30,64.64,-0.8702686180686673,2003-11-20,Shipped,4,11,2003,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Small
+10203,44,82.99,0.06428500940636422,2003-12-02,Shipped,4,12,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10211,28,92.57,-0.5140122082771506,2004-01-15,Shipped,1,1,2004,Classic Cars,Auto Canal Petit,France,EMEA,Small
+10225,37,77.41,-0.36544832980826647,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Small
+10238,20,74.21,-1.1185936785122301,2004-04-09,Shipped,2,4,2004,Classic Cars,Danish Wholesale Imports,Denmark,EMEA,Small
+10253,25,90.17,-0.6983239800626355,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Small
+10266,35,76.61,-0.46522588486385374,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Small
+10287,41,69.43,-0.3750211244460249,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Small
+10300,22,76.61,-1.0087739671661782,2003-10-04,Shipped,4,10,2003,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Small
+10310,49,81.4,0.24823111571822892,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10320,38,73.42,-0.4059498742819298,2004-11-03,Shipped,4,11,2004,Classic Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Small
+10341,36,93.56,-0.09038602824134072,2004-11-24,Shipped,4,11,2004,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10363,34,81.62,-0.4140709224124798,2005-01-06,Shipped,1,1,2005,Classic Cars,Suominen Souveniers,Finland,EMEA,Small
+10377,24,67.83,-1.040155705573881,2005-02-09,Shipped,1,2,2005,Classic Cars,"Toys of Finland, Co.",Finland,EMEA,Small
+10389,36,70.26,-0.5481773704392758,2005-03-03,Shipped,1,3,2005,Classic Cars,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10419,34,90.17,-0.2554157684104055,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10104,41,100.0,0.5905267451885449,2003-01-31,Shipped,1,1,2003,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10141,21,100.0,-0.760618095225335,2003-08-01,Shipped,3,8,2003,Trucks and Buses,Suominen Souveniers,Finland,EMEA,Small
+10151,24,100.0,-0.11252243362945258,2003-09-21,Shipped,3,9,2003,Trucks and Buses,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10165,48,100.0,1.796578800286115,2003-10-22,Shipped,4,10,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10175,26,100.0,0.005189102714432516,2003-11-06,Shipped,4,11,2003,Trucks and Buses,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10184,37,100.0,0.5361899473473118,2003-11-14,Shipped,4,11,2003,Trucks and Buses,"Iberia Gift Imports, Corp.",Spain,EMEA,Medium
+10246,46,100.0,0.8382405439448621,2004-05-05,Shipped,2,5,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10259,46,100.0,1.6413619932747974,2004-06-15,Shipped,2,6,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Medium
+10314,45,100.0,1.447340984510651,2004-10-22,Shipped,4,10,2004,Trucks and Buses,Heintze Collectables,Denmark,EMEA,Medium
+10336,38,100.0,1.5493452785697763,2004-11-20,Shipped,4,11,2004,Trucks and Buses,"La Corne D'abondance, Co.",France,EMEA,Medium
+10358,42,64.16,-0.4579289484723583,2004-12-10,Shipped,4,12,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10412,54,100.0,1.3194344764544899,2005-05-03,Shipped,2,5,2005,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10425,33,100.0,0.6324527477012364,2005-05-31,In Process,2,5,2005,Trucks and Buses,La Rochelle Gifts,France,EMEA,Medium
+10108,36,100.0,0.10766275842626398,2003-03-03,Shipped,1,3,2003,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Medium
+10122,20,100.0,-0.7595865911281079,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Small
+10170,41,100.0,0.4679032845721502,2003-11-04,Shipped,4,11,2003,Classic Cars,Mini Auto Werke,Austria,EMEA,Medium
+10181,36,100.0,0.514959519102796,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Medium
+10203,47,100.0,0.9071111799390892,2003-12-02,Shipped,4,12,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10212,33,100.0,0.3529315104335982,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10225,21,100.0,-0.46354491522392816,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Small
+10239,21,93.28,-0.8595278769927787,2004-04-12,Shipped,2,4,2004,Classic Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10253,41,100.0,0.751414095887793,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10266,40,100.0,0.5100912563793749,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Medium
+10277,28,100.0,-0.22152349093008628,2004-08-04,Shipped,3,8,2004,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10287,23,100.0,-0.4686205703055217,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Small
+10300,23,100.0,-0.396317045014174,2003-10-04,Shipped,4,10,2003,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Small
+10310,25,100.0,-0.5616087544777728,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Small
+10341,55,75.2,0.3286775199146711,2004-11-24,Shipped,4,11,2004,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10363,46,88.45,0.2919472417435682,2005-01-06,Shipped,1,1,2005,Classic Cars,Suominen Souveniers,Finland,EMEA,Medium
+10377,50,100.0,0.8995522742530597,2005-02-09,Shipped,1,2,2005,Classic Cars,"Toys of Finland, Co.",Finland,EMEA,Medium
+10389,47,100.0,0.9332753632306591,2005-03-03,Shipped,1,3,2005,Classic Cars,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10419,32,100.0,0.16311292576926611,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10103,35,100.0,0.21079133737443026,2003-01-29,Shipped,1,1,2003,Trucks and Buses,Baane Mini Imports,Norway,EMEA,Medium
+10126,38,100.0,0.17640786746686,2003-05-28,Shipped,2,5,2003,Trucks and Buses,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10150,34,100.0,0.6042910485388453,2003-09-19,Shipped,3,9,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10164,36,99.17,0.0198375524337845,2003-10-21,Resolved,4,10,2003,Trucks and Buses,Mini Auto Werke,Austria,EMEA,Medium
+10174,48,93.34,0.5165968271936326,2003-11-06,Shipped,4,11,2003,Trucks and Buses,"Australian Gift Network, Co",Australia,APAC,Medium
+10194,21,93.34,-0.8588402075946273,2003-11-25,Shipped,4,11,2003,Trucks and Buses,"Saveley & Henriot, Co.",France,EMEA,Small
+10258,41,100.0,1.047455771791973,2004-06-15,Shipped,2,6,2004,Trucks and Buses,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10270,43,96.84,0.34402455441944685,2004-07-19,Shipped,3,7,2004,Trucks and Buses,Souveniers And Things Co.,Australia,APAC,Medium
+10280,24,100.0,-0.40042668832217415,2004-08-17,Shipped,3,8,2004,Trucks and Buses,Amica Models & Co.,Italy,EMEA,Small
+10291,41,100.0,0.629909462466803,2004-09-08,Shipped,3,9,2004,Trucks and Buses,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10304,46,98.0,0.5317037231784193,2004-10-11,Shipped,4,10,2004,Trucks and Buses,Auto Assoc. & Cie.,France,EMEA,Medium
+10347,42,49.6,-0.7916778297085069,2004-11-29,Shipped,4,11,2004,Trucks and Buses,"Australian Collectors, Co.",Australia,APAC,Small
+10370,27,100.0,0.2061468400900901,2005-01-20,Shipped,1,1,2005,Trucks and Buses,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10391,29,85.1,-0.5817203555268833,2005-03-09,Shipped,1,3,2005,Trucks and Buses,"Anna's Decorations, Ltd",Australia,APAC,Small
+10424,54,100.0,1.991091001477512,2005-05-31,In Process,2,5,2005,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Large
+10122,34,100.0,0.8028419430209733,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Medium
+10136,25,100.0,0.060568320040165,2003-07-04,Shipped,3,7,2003,Classic Cars,Alpha Cognac,France,EMEA,Medium
+10148,23,100.0,-0.45393391673071676,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10161,28,100.0,0.1261315936909018,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Medium
+10181,44,100.0,1.028441167163723,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Medium
+10212,29,100.0,0.3563643997307191,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10225,32,100.0,0.5433176952360873,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10240,41,100.0,1.1434511451577276,2004-04-13,Shipped,2,4,2004,Classic Cars,Osaka Souveniers Co.,Japan,Japan,Medium
+10253,26,100.0,-0.2615829622192237,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10266,21,100.0,-0.5497328131255707,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Small
+10287,41,100.0,1.6185051723267174,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10301,37,100.0,1.3011184566116634,2003-10-05,Shipped,4,10,2003,Classic Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Medium
+10310,37,100.0,1.472560986803172,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10342,40,100.0,1.593989212513256,2004-11-24,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10356,43,97.6,0.36186029722229457,2004-12-09,Shipped,4,12,2004,Classic Cars,Lyon Souveniers,France,EMEA,Medium
+10377,35,100.0,1.2887131189767576,2005-02-09,Shipped,1,2,2005,Classic Cars,"Toys of Finland, Co.",Finland,EMEA,Medium
+10419,38,100.0,0.5078208558267481,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10125,32,100.0,-0.1522981048495117,2003-05-21,Shipped,2,5,2003,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10139,31,100.0,-0.1903818910423727,2003-07-16,Shipped,3,7,2003,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10173,43,100.0,0.8199572702638526,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Medium
+10193,28,100.0,-0.23298464756594303,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Medium
+10205,36,100.0,0.1102169590479691,2003-12-03,Shipped,4,12,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10227,25,100.0,-0.31655831021588327,2004-03-02,Shipped,1,3,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Small
+10244,40,100.0,0.628195746665061,2004-04-29,Shipped,2,4,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10256,34,95.55,-0.15558363641845727,2004-06-08,Shipped,2,6,2004,Vintage Cars,Danish Wholesale Imports,Denmark,EMEA,Medium
+10280,50,100.0,0.9309340126607627,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Medium
+10289,38,100.0,0.5644389696078803,2004-09-03,Shipped,3,9,2004,Vintage Cars,Herkku Gifts,Norway,EMEA,Medium
+10304,37,95.55,0.0008611516609874037,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Medium
+10332,46,95.13,0.4596512517943329,2004-11-17,Shipped,4,11,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Medium
+10356,50,50.18,-0.5592892346824209,2004-12-09,Shipped,4,12,2004,Vintage Cars,Lyon Souveniers,France,EMEA,Small
+10380,27,93.16,-0.5558399723043915,2005-02-16,Shipped,1,2,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10391,35,100.0,1.0997950537623853,2005-03-09,Shipped,1,3,2005,Vintage Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10126,42,54.99,-0.6681265611739711,2003-05-28,Shipped,2,5,2003,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10139,49,43.13,-0.775211968008326,2003-07-16,Shipped,3,7,2003,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Small
+10173,48,44.21,-0.7704583168512634,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10193,46,53.37,-0.5887498649302089,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10205,48,63.61,-0.2622378854555583,2003-12-03,Shipped,4,12,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10227,31,48.52,-1.1077219527890747,2004-03-02,Shipped,1,3,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Small
+10244,20,58.22,-1.2931307209954201,2004-04-29,Shipped,2,4,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10256,29,51.75,-1.109561195544448,2004-06-08,Shipped,2,6,2004,Vintage Cars,Danish Wholesale Imports,Denmark,EMEA,Small
+10280,27,57.68,-1.0786651918703598,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Small
+10289,24,56.07,-1.1941936507597959,2004-09-03,Shipped,3,9,2004,Vintage Cars,Herkku Gifts,Norway,EMEA,Small
+10304,37,48.52,-0.9488375756542834,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Small
+10332,27,89.89,-0.6040259494177149,2004-11-17,Shipped,4,11,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10347,21,58.95,-1.2529893843017408,2004-11-29,Shipped,4,11,2004,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Small
+10356,22,72.41,-1.0592030563639478,2004-12-09,Shipped,4,12,2004,Vintage Cars,Lyon Souveniers,France,EMEA,Small
+10391,42,100.0,0.7991307113484101,2005-03-09,Shipped,1,3,2005,Vintage Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10110,37,100.0,1.0365840460688174,2003-03-18,Shipped,1,3,2003,Classic Cars,"AV Stores, Co.",UK,EMEA,Medium
+10123,26,100.0,-0.25108235966332465,2003-05-20,Shipped,2,5,2003,Classic Cars,Atelier graphique,France,EMEA,Medium
+10137,44,99.55,0.4619543985087766,2003-07-10,Shipped,3,7,2003,Classic Cars,Reims Collectables,France,EMEA,Medium
+10148,47,100.0,1.2634057935860588,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10161,43,100.0,1.429892737955968,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Medium
+10181,42,100.0,1.0379812156396648,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Medium
+10212,38,100.0,0.5231678903315239,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10241,21,100.0,-0.5594747962660491,2004-04-13,Shipped,2,4,2004,Classic Cars,Mini Caravy,France,EMEA,Small
+10253,24,100.0,-0.08671845811786642,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10266,36,100.0,0.9075205069617984,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Medium
+10288,20,100.0,-0.3258091009291104,2004-09-01,Shipped,3,9,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Small
+10301,32,100.0,-0.059560974584522176,2003-10-05,Shipped,4,10,2003,Classic Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Medium
+10311,29,100.0,-0.3332315642742369,2004-10-16,Shipped,4,10,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10343,36,100.0,1.2635367782333256,2004-11-24,Shipped,4,11,2004,Classic Cars,Reims Collectables,France,EMEA,Medium
+10378,34,42.64,-1.1373899753950354,2005-02-10,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10419,37,100.0,0.9109806847270995,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10106,36,100.0,0.9527102102688904,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10119,43,100.0,1.8459818430802932,2003-04-28,Shipped,2,4,2003,Planes,Salzburg Collectables,Austria,EMEA,Medium
+10155,38,100.0,1.636035284285942,2003-10-06,Shipped,4,10,2003,Planes,"Toys of Finland, Co.",Finland,EMEA,Medium
+10167,43,100.0,1.217037228453564,2003-10-23,Cancelled,4,10,2003,Planes,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10178,42,100.0,1.613789725025108,2003-11-08,Shipped,4,11,2003,Planes,Alpha Cognac,France,EMEA,Medium
+10186,32,100.0,1.3486113066331995,2003-11-14,Shipped,4,11,2003,Planes,"Double Decker Gift Stores, Ltd",UK,EMEA,Medium
+10198,42,100.0,2.1559024339011317,2003-11-27,Shipped,4,11,2003,Planes,Cruz & Sons Co.,Philippines,Japan,Large
+10210,31,100.0,1.1929033071946313,2004-01-12,Shipped,1,1,2004,Planes,Osaka Souveniers Co.,Japan,Japan,Medium
+10262,49,100.0,1.6559667814450607,2004-06-24,Cancelled,2,6,2004,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10284,45,100.0,1.2083758686530381,2004-08-21,Shipped,3,8,2004,Planes,"Norway Gifts By Mail, Co.",Norway,EMEA,Medium
+10296,36,100.0,1.1696207861429337,2004-09-15,Shipped,3,9,2004,Planes,"Bavarian Collectables Imports, Co.",Germany,EMEA,Medium
+10316,27,100.0,0.09297610485145905,2004-11-01,Shipped,4,11,2004,Planes,giftsbymail.co.uk,UK,EMEA,Medium
+10327,25,100.0,-0.397877945394105,2004-11-10,Resolved,4,11,2004,Planes,Danish Wholesale Imports,Denmark,EMEA,Small
+10338,41,100.0,1.1412134907669174,2004-11-22,Shipped,4,11,2004,Planes,Royale Belge,Belgium,EMEA,Medium
+10351,39,99.52,0.18965914761536495,2004-12-03,Shipped,4,12,2004,Planes,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10373,28,57.55,-1.049171815460755,2005-01-31,Shipped,1,1,2005,Planes,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10386,25,54.57,-1.1840587136775167,2005-03-01,Resolved,1,3,2005,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10398,33,100.0,0.37184241888276215,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Medium
+10416,24,100.0,0.44665102555308983,2005-05-10,Shipped,2,5,2005,Planes,L'ordine Souveniers,Italy,EMEA,Medium
+10110,42,100.0,1.3836496997771044,2003-03-18,Shipped,1,3,2003,Vintage Cars,"AV Stores, Co.",UK,EMEA,Medium
+10173,24,100.0,-0.013629024942917052,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Medium
+10193,21,100.0,-0.21403553526132665,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Medium
+10214,30,100.0,1.3279812246886573,2004-01-26,Shipped,1,1,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10227,26,100.0,0.09770792523397709,2004-03-02,Shipped,1,3,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Medium
+10241,41,100.0,2.21774901818567,2004-04-13,Shipped,2,4,2004,Vintage Cars,Mini Caravy,France,EMEA,Large
+10280,26,100.0,0.07358491936231654,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Medium
+10288,32,100.0,1.2778795971090549,2004-09-01,Shipped,3,9,2004,Vintage Cars,Handji Gifts& Co,Singapore,APAC,Medium
+10302,43,100.0,2.060949480019877,2003-10-06,Shipped,4,10,2003,Vintage Cars,"UK Collectables, Ltd.",UK,EMEA,Large
+10344,45,100.0,2.2465110636480334,2004-11-25,Shipped,4,11,2004,Vintage Cars,Marseille Mini Autos,France,EMEA,Large
+10379,39,100.0,1.0182843993068995,2005-02-10,Shipped,1,2,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10420,37,100.0,0.9550024415960621,2005-05-29,In Process,2,5,2005,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10108,38,82.39,-0.2199189290010663,2003-03-03,Shipped,1,3,2003,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Medium
+10122,43,72.38,-0.23000474684062025,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Medium
+10170,20,63.14,-1.2394270156159772,2003-11-04,Shipped,4,11,2003,Classic Cars,Mini Auto Werke,Austria,EMEA,Small
+10181,22,73.92,-1.0410725981047497,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Small
+10203,45,85.47,0.1704862698716674,2003-12-02,Shipped,4,12,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10212,20,66.99,-1.197402774617836,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10225,47,64.68,-0.26950753337887323,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10239,46,73.92,-0.07283408550757135,2004-04-12,Shipped,2,4,2004,Classic Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10253,23,83.93,-0.875076846162091,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Small
+10266,33,74.69,-0.5834286136349897,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Small
+10287,44,82.39,0.049876698207001406,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10300,41,92.4,0.13896808912306133,2003-10-04,Shipped,4,10,2003,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Medium
+10310,20,91.63,-0.9284476322297307,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Small
+10342,55,65.45,0.03600869867761482,2004-11-24,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10363,22,100.0,0.0833760217455199,2005-01-06,Shipped,1,1,2005,Classic Cars,Suominen Souveniers,Finland,EMEA,Medium
+10377,31,67.76,-0.7822032735561986,2005-02-09,Shipped,1,2,2005,Classic Cars,"Toys of Finland, Co.",Finland,EMEA,Small
+10389,49,79.22,0.18993203229717107,2005-03-03,Shipped,1,3,2005,Classic Cars,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10405,61,73.92,0.5323149848656649,2005-04-14,Shipped,2,4,2005,Classic Cars,Mini Caravy,France,EMEA,Medium
+10419,39,83.93,-0.1421740831545048,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10122,31,100.0,0.30957013449460696,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Medium
+10136,36,100.0,0.9501560096471854,2003-07-04,Shipped,3,7,2003,Classic Cars,Alpha Cognac,France,EMEA,Medium
+10148,25,100.0,0.3810713788214448,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10161,48,100.0,1.4253683099316226,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Medium
+10181,21,100.0,-0.1351827776066322,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Medium
+10212,41,100.0,0.7133739712440209,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10240,37,100.0,1.0874715815320213,2004-04-13,Shipped,2,4,2004,Classic Cars,Osaka Souveniers Co.,Japan,Japan,Medium
+10253,33,100.0,0.5052994013668597,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10266,49,100.0,1.4570011022465874,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Medium
+10287,24,100.0,-0.009437516230375245,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10301,47,100.0,2.1581182575173976,2003-10-05,Shipped,4,10,2003,Classic Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Large
+10310,24,100.0,-0.04676814070145156,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10342,22,100.0,-0.2035895096417887,2004-11-24,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10356,27,64.69,-0.9753674244194737,2004-12-09,Shipped,4,12,2004,Classic Cars,Lyon Souveniers,France,EMEA,Small
+10366,34,100.0,0.36788559099657353,2005-01-10,Shipped,1,1,2005,Classic Cars,Royale Belge,Belgium,EMEA,Medium
+10377,36,100.0,0.4469784871712574,2005-02-09,Shipped,1,2,2005,Classic Cars,"Toys of Finland, Co.",Finland,EMEA,Medium
+10406,48,100.0,1.9841488151723643,2005-04-15,Disputed,2,4,2005,Classic Cars,Danish Wholesale Imports,Denmark,EMEA,Large
+10419,34,100.0,0.5790546731654161,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10104,24,100.0,-0.04139777016350718,2003-01-31,Shipped,1,1,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10141,39,100.0,1.312443170906617,2003-08-01,Shipped,3,8,2003,Classic Cars,Suominen Souveniers,Finland,EMEA,Medium
+10151,43,100.0,1.9522922574183188,2003-09-21,Shipped,3,9,2003,Classic Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Large
+10165,29,100.0,0.8182053506066572,2003-10-22,Shipped,4,10,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10176,20,100.0,0.07303914999870431,2003-11-06,Shipped,4,11,2003,Classic Cars,L'ordine Souveniers,Italy,EMEA,Medium
+10184,46,100.0,2.099786427934523,2003-11-14,Shipped,4,11,2003,Classic Cars,"Iberia Gift Imports, Corp.",Spain,EMEA,Large
+10230,49,100.0,2.055770128759197,2004-03-15,Shipped,1,3,2004,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Large
+10246,40,100.0,1.6457281481836952,2004-05-05,Shipped,2,5,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10259,30,100.0,1.181114688940607,2004-06-15,Shipped,2,6,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Medium
+10314,42,100.0,1.2238811762732613,2004-10-22,Shipped,4,10,2004,Classic Cars,Heintze Collectables,Denmark,EMEA,Medium
+10336,49,100.0,2.1432187538907836,2004-11-20,Shipped,4,11,2004,Classic Cars,"La Corne D'abondance, Co.",France,EMEA,Large
+10358,20,100.0,-0.6034965531350112,2004-12-10,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10412,41,100.0,1.7350869660879253,2005-05-03,Shipped,2,5,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10425,28,100.0,0.9737987384788669,2005-05-31,In Process,2,5,2005,Classic Cars,La Rochelle Gifts,France,EMEA,Medium
+10110,32,50.25,-1.0510274312970367,2003-03-18,Shipped,1,3,2003,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10173,26,57.51,-1.112557469350679,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10193,42,59.33,-0.5686437215747344,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10214,21,62.96,-1.2070301461919553,2004-01-26,Shipped,1,1,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10227,28,50.85,-1.1515581480744088,2004-03-02,Shipped,1,3,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Small
+10241,33,72.65,-0.6201698071933648,2004-04-13,Shipped,2,4,2004,Vintage Cars,Mini Caravy,France,EMEA,Small
+10280,25,62.96,-1.0695835896598525,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Small
+10288,28,61.75,-0.9849893382999573,2004-09-01,Shipped,3,9,2004,Vintage Cars,Handji Gifts& Co,Singapore,APAC,Small
+10303,46,49.04,-0.6974562067744919,2004-10-06,Shipped,4,10,2004,Vintage Cars,"Iberia Gift Imports, Corp.",Spain,EMEA,Small
+10332,38,84.25,-0.18134395038095424,2004-11-17,Shipped,4,11,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Medium
+10344,40,56.91,-0.6862351886586247,2004-11-25,Shipped,4,11,2004,Vintage Cars,Marseille Mini Autos,France,EMEA,Small
+10379,27,49.3,-1.202150968081262,2005-02-10,Shipped,1,2,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10420,36,63.57,-0.6796204639716446,2005-05-29,In Process,2,5,2005,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Small
+10104,29,100.0,0.1303503908716243,2003-01-31,Shipped,1,1,2003,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10114,39,100.0,0.3441882852285306,2003-04-01,Shipped,2,4,2003,Trucks and Buses,"La Corne D'abondance, Co.",France,EMEA,Medium
+10141,47,100.0,1.5029876288245536,2003-08-01,Shipped,3,8,2003,Trucks and Buses,Suominen Souveniers,Finland,EMEA,Medium
+10151,49,100.0,1.0253739433402222,2003-09-21,Shipped,3,9,2003,Trucks and Buses,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10165,46,100.0,1.337335711580971,2003-10-22,Shipped,4,10,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10175,48,100.0,1.2865245838286725,2003-11-06,Shipped,4,11,2003,Trucks and Buses,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10184,46,100.0,1.337335711580971,2003-11-14,Shipped,4,11,2003,Trucks and Buses,"Iberia Gift Imports, Corp.",Spain,EMEA,Medium
+10246,22,98.18,-0.7497845733576323,2004-05-05,Shipped,2,5,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10259,34,99.41,-0.08395686513798858,2004-06-15,Shipped,2,6,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Medium
+10334,46,100.0,1.244947873708693,2004-11-19,On Hold,4,11,2004,Trucks and Buses,"Volvo Model Replicas, Co",Sweden,EMEA,Medium
+10358,20,36.42,-1.5310861635303508,2004-12-10,Shipped,4,12,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10370,22,100.0,0.22661864891918482,2005-01-20,Shipped,1,1,2005,Trucks and Buses,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10383,27,100.0,0.16930740804626482,2005-02-22,Shipped,1,2,2005,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10412,56,98.18,1.0720590547036122,2005-05-03,Shipped,2,5,2005,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10425,38,99.41,0.13306286460877695,2005-05-31,In Process,2,5,2005,Trucks and Buses,La Rochelle Gifts,France,EMEA,Medium
+10101,25,100.0,0.13547516519594305,2003-01-09,Shipped,1,1,2003,Vintage Cars,"Blauer See Auto, Co.",Germany,EMEA,Medium
+10110,33,100.0,0.17787052936134068,2003-03-18,Shipped,1,3,2003,Vintage Cars,"AV Stores, Co.",UK,EMEA,Medium
+10173,31,100.0,0.5234244019324217,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Medium
+10193,44,100.0,0.6053170949424364,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Medium
+10214,27,100.0,0.0384537454265976,2004-01-26,Shipped,1,1,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10227,46,100.0,1.9014538411978401,2004-03-02,Shipped,1,3,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Large
+10280,37,100.0,0.6642165246634678,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Medium
+10288,31,100.0,0.15780804755495537,2004-09-01,Shipped,3,9,2004,Vintage Cars,Handji Gifts& Co,Singapore,APAC,Medium
+10304,24,100.0,-0.5965107052807747,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Small
+10332,35,64.69,-0.6929208633628744,2004-11-17,Shipped,4,11,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10344,30,100.0,0.2152666461560504,2004-11-25,Shipped,4,11,2004,Vintage Cars,Marseille Mini Autos,France,EMEA,Medium
+10356,29,100.0,0.052638291186879245,2004-12-09,Shipped,4,12,2004,Vintage Cars,Lyon Souveniers,France,EMEA,Medium
+10380,40,100.0,0.7628916256045585,2005-02-16,Shipped,1,2,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10409,6,100.0,-1.499846325157187,2005-04-23,Shipped,2,4,2005,Vintage Cars,Handji Gifts& Co,Singapore,APAC,Small
+10420,45,100.0,0.7876695547125533,2005-05-29,In Process,2,5,2005,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10103,22,54.09,-1.2791699406742194,2003-01-29,Shipped,1,1,2003,Trucks and Buses,Baane Mini Imports,Norway,EMEA,Small
+10114,45,68.67,-0.2421153690191756,2003-04-01,Shipped,2,4,2003,Trucks and Buses,"La Corne D'abondance, Co.",France,EMEA,Medium
+10126,43,65.02,-0.40272983503661763,2003-05-28,Shipped,2,5,2003,Trucks and Buses,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10151,39,69.28,-0.45399940905435016,2003-09-21,Shipped,3,9,2003,Trucks and Buses,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10165,31,71.1,-0.7256943136477887,2003-10-22,Shipped,4,10,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10175,41,69.28,-0.37837760603224013,2003-11-06,Shipped,4,11,2003,Trucks and Buses,"Stylish Desk Decors, Co.",UK,EMEA,Small
+10184,44,60.16,-0.4839512317293892,2003-11-14,Shipped,4,11,2003,Trucks and Buses,"Iberia Gift Imports, Corp.",Spain,EMEA,Small
+10194,45,70.49,-0.1974168581393342,2003-11-25,Shipped,4,11,2003,Trucks and Buses,"Saveley & Henriot, Co.",France,EMEA,Medium
+10217,35,61.38,-0.7561482441373507,2004-02-04,Shipped,1,2,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Small
+10246,30,61.99,-0.9136572824758393,2004-05-05,Shipped,2,5,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10259,30,49.22,-1.1227415256756832,2004-06-15,Shipped,2,6,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Small
+10291,26,57.73,-1.109435668590817,2004-09-08,Shipped,3,9,2004,Trucks and Buses,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10334,34,61.38,-0.7896475676758693,2004-11-19,On Hold,4,11,2004,Trucks and Buses,"Volvo Model Replicas, Co",Sweden,EMEA,Small
+10347,50,100.0,1.8014361476222633,2004-11-29,Shipped,4,11,2004,Trucks and Buses,"Australian Collectors, Co.",Australia,APAC,Medium
+10370,22,96.86,-0.7656337156769313,2005-01-20,Shipped,1,1,2005,Trucks and Buses,"Anna's Decorations, Ltd",Australia,APAC,Small
+10391,44,38.5,-1.0040912660263852,2005-03-09,Shipped,1,3,2005,Trucks and Buses,"Anna's Decorations, Ltd",Australia,APAC,Small
+10412,47,61.99,-0.3385091540203669,2005-05-03,Shipped,2,5,2005,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10425,19,49.22,-1.4182319745226148,2005-05-31,In Process,2,5,2005,Trucks and Buses,La Rochelle Gifts,France,EMEA,Small
+10106,34,90.39,-0.25133341357058603,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10120,29,71.81,-0.7920653259566716,2003-04-29,Shipped,2,4,2003,Planes,"Australian Collectors, Co.",Australia,APAC,Small
+10133,49,69.27,-0.07615782093196989,2003-06-27,Shipped,2,6,2003,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10210,50,76.88,0.16931286573990106,2004-01-12,Shipped,1,1,2004,Planes,Osaka Souveniers Co.,Japan,Japan,Medium
+10223,47,100.0,0.6500865558395471,2004-02-20,Shipped,1,2,2004,Planes,"Australian Collectors, Co.",Australia,APAC,Medium
+10275,35,90.39,-0.20200132079367697,2004-07-23,Shipped,3,7,2004,Planes,La Rochelle Gifts,France,EMEA,Medium
+10284,31,71.81,-0.7136819299546835,2004-08-21,Shipped,3,8,2004,Planes,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10297,25,82.79,-0.7990184276490913,2004-09-16,Shipped,3,9,2004,Planes,"Clover Collections, Co.",Ireland,EMEA,Small
+10327,45,100.0,0.6810807979990855,2004-11-10,Resolved,4,11,2004,Planes,Danish Wholesale Imports,Denmark,EMEA,Medium
+10339,27,100.0,-0.39463061768061236,2004-11-23,Shipped,4,11,2004,Planes,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10374,42,69.27,-0.34079592765390215,2005-02-02,Shipped,1,2,2005,Planes,"Australian Gift Network, Co",Australia,APAC,Small
+10386,21,74.77,-1.071673886322487,2005-03-01,Resolved,1,3,2005,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10398,34,76.88,-0.502027113052226,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Small
+10416,15,98.84,-1.11946690949401,2005-05-10,Shipped,2,5,2005,Planes,L'ordine Souveniers,Italy,EMEA,Small
+10120,46,58.15,-0.4687460972591525,2003-04-29,Shipped,2,4,2003,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Small
+10134,30,61.78,-0.9170956294665963,2003-07-01,Shipped,3,7,2003,Motorcycles,Lyon Souveniers,France,EMEA,Small
+10180,25,64.2,-1.0526647393878734,2003-11-11,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,France,EMEA,Small
+10188,32,65.42,-0.7860891514251176,2003-11-18,Shipped,4,11,2003,Motorcycles,Herkku Gifts,Norway,EMEA,Small
+10210,40,49.67,-0.8442899963607254,2004-01-12,Shipped,1,1,2004,Motorcycles,Osaka Souveniers Co.,Japan,Japan,Small
+10223,28,60.57,-1.0030215580737052,2004-02-20,Shipped,1,2,2004,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Small
+10275,37,63.6,-0.6443201015332058,2004-07-23,Shipped,3,7,2004,Motorcycles,La Rochelle Gifts,France,EMEA,Small
+10298,32,48.46,-1.082289100444745,2004-09-27,Shipped,3,9,2004,Motorcycles,Atelier graphique,France,EMEA,Small
+10339,30,62.16,-0.910873858721417,2004-11-23,Shipped,4,11,2004,Motorcycles,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10374,22,53.3,-1.2886554122138,2005-02-02,Shipped,1,2,2005,Motorcycles,"Australian Gift Network, Co",Australia,APAC,Small
+10389,39,100.0,1.8813913593914546,2005-03-03,Shipped,1,3,2005,Motorcycles,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10402,55,55.72,-0.2560597762594681,2005-04-07,Shipped,2,4,2005,Motorcycles,Auto Canal Petit,France,EMEA,Medium
+10417,36,61.18,-0.7265784600168405,2005-05-13,Disputed,2,5,2005,Motorcycles,Euro Shopping Channel,Spain,EMEA,Small
+10101,26,100.0,0.1307706332816057,2003-01-09,Shipped,1,1,2003,Vintage Cars,"Blauer See Auto, Co.",Germany,EMEA,Medium
+10110,31,100.0,0.8408220330347482,2003-03-18,Shipped,1,3,2003,Vintage Cars,"AV Stores, Co.",UK,EMEA,Medium
+10125,34,100.0,1.6098492702198275,2003-05-21,Shipped,2,5,2003,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10173,22,100.0,-0.04425760162883537,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Medium
+10193,22,100.0,0.07725248948579085,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Medium
+10205,40,100.0,2.1604978119427467,2003-12-03,Shipped,4,12,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Large
+10227,29,100.0,1.116233626994386,2004-03-02,Shipped,1,3,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Medium
+10244,43,100.0,1.3188887070908777,2004-04-29,Shipped,2,4,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10255,24,100.0,0.10491208083365837,2004-06-04,Shipped,2,6,2004,Vintage Cars,Mini Caravy,France,EMEA,Medium
+10280,22,100.0,0.5027779469069713,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Medium
+10304,20,100.0,0.02391990727360396,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Medium
+10332,24,52.67,-1.2387284308305535,2004-11-17,Shipped,4,11,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10347,21,100.0,0.6994186486164564,2004-11-29,Shipped,4,11,2004,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10356,30,100.0,0.5067074863249792,2004-12-09,Shipped,4,12,2004,Vintage Cars,Lyon Souveniers,France,EMEA,Medium
+10380,21,47.18,-1.3878871979057747,2005-02-16,Shipped,1,2,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10123,46,100.0,0.8882002714899253,2003-05-20,Shipped,2,5,2003,Classic Cars,Atelier graphique,France,EMEA,Medium
+10137,37,100.0,0.443703870989584,2003-07-10,Shipped,3,7,2003,Classic Cars,Reims Collectables,France,EMEA,Medium
+10148,27,100.0,-0.002953776190661938,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10161,23,100.0,-0.18882099066244165,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Medium
+10181,27,100.0,0.19155842500073553,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Medium
+10212,40,100.0,0.7513213150959789,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10241,44,100.0,1.8117730193690789,2004-04-13,Shipped,2,4,2004,Classic Cars,Mini Caravy,France,EMEA,Medium
+10253,37,100.0,0.896845258209543,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10266,20,100.0,-0.38693526965367975,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Small
+10287,44,100.0,0.8291261955725381,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10301,22,100.0,-0.169369770543302,2003-10-05,Shipped,4,10,2003,Classic Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Medium
+10311,43,100.0,0.9523172563270899,2004-10-16,Shipped,4,10,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10343,25,52.32,-1.2147582403807045,2004-11-24,Shipped,4,11,2004,Classic Cars,Reims Collectables,France,EMEA,Small
+10366,49,100.0,1.4249098636661888,2005-01-10,Shipped,1,1,2005,Classic Cars,Royale Belge,Belgium,EMEA,Medium
+10379,29,100.0,0.8696441131271095,2005-02-10,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10419,55,100.0,2.2713981466287514,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Large
+10103,27,83.07,-0.7045239200332705,2003-01-29,Shipped,1,1,2003,Vintage Cars,Baane Mini Imports,Norway,EMEA,Small
+10112,23,100.0,-0.5424304190404393,2003-03-24,Shipped,1,3,2003,Vintage Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Small
+10126,31,90.17,-0.4030518389611489,2003-05-28,Shipped,2,5,2003,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10139,46,100.0,1.0980813379606431,2003-07-16,Shipped,3,7,2003,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10150,47,91.18,0.41024820900015446,2003-09-19,Shipped,3,9,2003,Vintage Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10174,46,100.0,1.1234377825940673,2003-11-06,Shipped,4,11,2003,Vintage Cars,"Australian Gift Network, Co",Australia,APAC,Medium
+10193,28,93.21,-0.5042320212812195,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10244,30,100.0,-0.004460099634231801,2004-04-29,Shipped,2,4,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10270,31,96.24,-0.30035441781023625,2004-07-19,Shipped,3,7,2004,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Small
+10280,46,100.0,0.8691201745380418,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Medium
+10291,47,100.0,1.1897869641284053,2004-09-08,Shipped,3,9,2004,Vintage Cars,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10304,46,100.0,0.5894461218485929,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Medium
+10347,48,100.0,0.6989274561892052,2004-11-29,Shipped,4,11,2004,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10391,32,45.25,-1.138350529474993,2005-03-09,Shipped,1,3,2005,Vintage Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10423,10,88.14,-1.4475834508976801,2005-05-30,In Process,2,5,2005,Vintage Cars,Petit Auto,Belgium,EMEA,Small
+10103,35,57.46,-0.8310278008249483,2003-01-29,Shipped,1,1,2003,Vintage Cars,Baane Mini Imports,Norway,EMEA,Small
+10126,46,73.7,-0.07835727146732728,2003-05-28,Shipped,2,5,2003,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10139,20,71.2,-1.1514489942016863,2003-07-16,Shipped,3,7,2003,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Small
+10150,30,49.97,-1.110461714994408,2003-09-19,Shipped,3,9,2003,Vintage Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10173,28,53.72,-1.1077001220145302,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10193,24,51.84,-1.249600156553709,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10244,24,58.09,-1.167734752011875,2004-04-29,Shipped,2,4,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10269,32,63.08,-0.8269563613724011,2004-07-16,Shipped,3,7,2004,Vintage Cars,Salzburg Collectables,Austria,EMEA,Small
+10280,43,68.71,-0.3161326101122656,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Small
+10291,37,50.59,-0.9070371000952231,2004-09-08,Shipped,3,9,2004,Vintage Cars,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10304,24,64.96,-1.0777482993394913,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Small
+10332,26,100.0,-0.3027339722355856,2004-11-17,Shipped,4,11,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10347,34,64.96,-0.7232165207369892,2004-11-29,Shipped,4,11,2004,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Small
+10392,37,59.96,-0.7178243194245003,2005-03-10,Shipped,1,3,2005,Vintage Cars,Mini Auto Werke,Austria,EMEA,Small
+10423,31,53.72,-1.0197439313747838,2005-05-30,In Process,2,5,2005,Vintage Cars,Petit Auto,Belgium,EMEA,Small
+10106,41,83.44,-0.06152574429352614,2003-02-17,Shipped,1,2,2003,Ships,Rovelli Gifts,Italy,EMEA,Medium
+10119,21,89.46,-0.9033094953417515,2003-04-28,Shipped,2,4,2003,Ships,Salzburg Collectables,Austria,EMEA,Small
+10155,44,79.14,-0.028168320789546935,2003-10-06,Shipped,4,10,2003,Ships,"Toys of Finland, Co.",Finland,EMEA,Medium
+10167,46,73.12,-0.09291839808850139,2003-10-23,Cancelled,4,10,2003,Ships,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10178,41,81.72,-0.10001339981546033,2003-11-08,Shipped,4,11,2003,Ships,Alpha Cognac,France,EMEA,Medium
+10186,32,89.46,-0.3662396953855043,2003-11-14,Shipped,4,11,2003,Ships,"Double Decker Gift Stores, Ltd",UK,EMEA,Small
+10197,46,87.74,0.27412241432799295,2003-11-26,Shipped,4,11,2003,Ships,Enaco Distributors,Spain,EMEA,Medium
+10262,32,84.3,-0.4563571327051551,2004-06-24,Cancelled,2,6,2004,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10273,34,98.06,-0.10900767892778981,2004-07-21,Shipped,3,7,2004,Ships,Petit Auto,Belgium,EMEA,Medium
+10296,21,96.34,-0.8244567376870571,2004-09-15,Shipped,3,9,2004,Ships,"Bavarian Collectables Imports, Co.",Germany,EMEA,Small
+10316,21,94.62,-0.8441699271007307,2004-11-01,Shipped,4,11,2004,Ships,giftsbymail.co.uk,UK,EMEA,Small
+10327,25,45.86,-1.302899992604079,2004-11-10,Resolved,4,11,2004,Ships,Danish Wholesale Imports,Denmark,EMEA,Small
+10338,28,82.58,-0.6666748146667626,2004-11-22,Shipped,4,11,2004,Ships,Royale Belge,Belgium,EMEA,Small
+10350,43,64.97,-0.40390323916838394,2004-12-02,Shipped,4,12,2004,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10373,22,86.74,-0.8871438067915574,2005-01-31,Shipped,1,1,2005,Ships,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10386,37,93.01,-0.05043025313128962,2005-03-01,Resolved,1,3,2005,Ships,Euro Shopping Channel,Spain,EMEA,Medium
+10398,28,72.26,-0.8243803299761514,2005-03-30,Shipped,1,3,2005,Ships,Reims Collectables,France,EMEA,Small
+10103,25,100.0,-0.542643269092248,2003-01-29,Shipped,1,1,2003,Vintage Cars,Baane Mini Imports,Norway,EMEA,Small
+10126,30,97.39,-0.33405021831965526,2003-05-28,Shipped,2,5,2003,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10139,20,90.06,-0.9455847902471546,2003-07-16,Shipped,3,7,2003,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Small
+10150,26,100.0,-0.3980907954459137,2003-09-19,Shipped,3,9,2003,Vintage Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10173,31,89.01,-0.42267770527664456,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10193,23,100.0,-0.41690346540962725,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10244,29,100.0,-0.10547655114521858,2004-04-29,Shipped,2,4,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10270,38,100.0,0.6774678048119726,2004-07-19,Shipped,3,7,2004,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10280,29,100.0,-0.2878071801407913,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Medium
+10291,23,100.0,-0.36430767183831686,2004-09-08,Shipped,3,9,2004,Vintage Cars,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10304,26,85.87,-0.710128971397568,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Small
+10332,40,39.8,-1.0597597411148323,2004-11-17,Shipped,4,11,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10347,45,100.0,0.7719513970405211,2004-11-29,Shipped,4,11,2004,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10392,29,86.92,-0.5529146485154302,2005-03-10,Shipped,1,3,2005,Vintage Cars,Mini Auto Werke,Austria,EMEA,Small
+10423,21,84.82,-0.9564892621321268,2005-05-30,In Process,2,5,2005,Vintage Cars,Petit Auto,Belgium,EMEA,Small
+10105,22,100.0,-0.25581963773947863,2003-02-11,Shipped,1,2,2003,Vintage Cars,Danish Wholesale Imports,Denmark,EMEA,Medium
+10117,26,100.0,0.00958800378514703,2003-04-16,Shipped,2,4,2003,Vintage Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10128,41,100.0,1.097131699267958,2003-06-06,Shipped,2,6,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10153,31,100.0,0.058832773463878205,2003-09-28,Shipped,3,9,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10177,23,100.0,0.0774216779885106,2003-11-07,Shipped,4,11,2003,Vintage Cars,CAF Imports,Spain,EMEA,Medium
+10208,24,100.0,-0.49735532729970544,2004-01-02,Shipped,1,1,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Small
+10221,33,100.0,0.4822461034478794,2004-02-18,Shipped,1,2,2004,Vintage Cars,Petit Auto,Belgium,EMEA,Medium
+10232,22,100.0,0.03943067258746347,2004-03-20,Shipped,1,3,2004,Vintage Cars,giftsbymail.co.uk,UK,EMEA,Medium
+10273,40,100.0,0.8146305612749971,2004-07-21,Shipped,3,7,2004,Vintage Cars,Petit Auto,Belgium,EMEA,Medium
+10293,24,100.0,-0.38994791654081923,2004-09-09,Shipped,3,9,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Small
+10306,32,100.0,0.12294430060740631,2004-10-14,Shipped,4,10,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Medium
+10314,20,100.0,-0.4376918204696168,2004-10-22,Shipped,4,10,2004,Vintage Cars,Heintze Collectables,Denmark,EMEA,Small
+10325,24,69.12,-1.0232586860764465,2004-11-05,Shipped,4,11,2004,Vintage Cars,Baane Mini Imports,Norway,EMEA,Small
+10336,48,100.0,1.2249617996132134,2004-11-20,Shipped,4,11,2004,Vintage Cars,"La Corne D'abondance, Co.",France,EMEA,Medium
+10350,44,100.0,0.9045296908492031,2004-12-02,Shipped,4,12,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10372,28,100.0,0.17961699132489994,2005-01-26,Shipped,1,1,2005,Vintage Cars,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10383,24,61.52,-1.1228070179993166,2005-02-22,Shipped,1,2,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10104,23,100.0,0.5584409643017821,2003-01-31,Shipped,1,1,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10122,25,100.0,0.035326486973099536,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Medium
+10141,34,100.0,0.7109889591250356,2003-08-01,Shipped,3,8,2003,Classic Cars,Suominen Souveniers,Finland,EMEA,Medium
+10148,32,100.0,1.0288341211055239,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10151,21,100.0,0.10928369343619243,2003-09-21,Shipped,3,9,2003,Classic Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10175,29,100.0,0.48361598455054616,2003-11-06,Shipped,4,11,2003,Classic Cars,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10181,45,100.0,1.523230214520931,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Medium
+10184,28,100.0,0.4780655101226098,2003-11-14,Shipped,4,11,2003,Classic Cars,"Iberia Gift Imports, Corp.",Spain,EMEA,Medium
+10212,40,100.0,1.1027967852622524,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10225,43,100.0,1.568589106330743,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10239,47,100.0,1.937261769144438,2004-04-12,Shipped,2,4,2004,Classic Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Large
+10246,36,100.0,1.9641736564641572,2004-05-05,Shipped,2,5,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Large
+10253,40,100.0,1.768198793378279,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10259,27,100.0,0.06763057560530723,2004-06-15,Shipped,2,6,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Medium
+10266,29,100.0,0.6979177828665228,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Medium
+10287,36,100.0,1.2655015479423297,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10301,23,100.0,0.2608165572431268,2003-10-05,Shipped,4,10,2003,Classic Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Medium
+10334,20,100.0,-0.35746372401861953,2004-11-19,On Hold,4,11,2004,Classic Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Small
+10342,30,100.0,0.8163224463021952,2004-11-24,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10358,32,93.49,-0.29585727825407165,2004-12-10,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10366,34,100.0,1.496471142623024,2005-01-10,Shipped,1,1,2005,Classic Cars,Royale Belge,Belgium,EMEA,Medium
+10370,27,56.85,-1.0908958833089097,2005-01-20,Shipped,1,1,2005,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10377,39,100.0,2.036133347056429,2005-02-09,Shipped,1,2,2005,Classic Cars,"Toys of Finland, Co.",Finland,EMEA,Large
+10383,47,100.0,1.8202924791350659,2005-02-22,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10394,22,100.0,-0.09864897640642975,2005-03-15,Shipped,1,3,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10419,35,100.0,1.3060958732078067,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10425,28,100.0,0.1415659512938554,2005-05-31,In Process,2,5,2005,Classic Cars,La Rochelle Gifts,France,EMEA,Medium
+10105,38,100.0,0.4346113533918044,2003-02-11,Shipped,1,2,2003,Trains,Danish Wholesale Imports,Denmark,EMEA,Medium
+10117,21,95.8,-0.8306457622704198,2003-04-16,Shipped,2,4,2003,Trains,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10128,41,100.0,0.711360082292292,2003-06-06,Shipped,2,6,2003,Trains,Euro Shopping Channel,Spain,EMEA,Medium
+10153,29,88.74,-0.5241089415039768,2003-09-28,Shipped,3,9,2003,Trains,Euro Shopping Channel,Spain,EMEA,Small
+10165,50,100.0,0.9882397958400464,2003-10-22,Shipped,4,10,2003,Trains,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10177,29,100.0,-0.25282882162688364,2003-11-07,Shipped,4,11,2003,Trains,CAF Imports,Spain,EMEA,Medium
+10208,48,100.0,1.1356302701771646,2004-01-02,Shipped,1,1,2004,Trains,"Saveley & Henriot, Co.",France,EMEA,Medium
+10221,23,80.67,-0.9159986330457357,2004-02-18,Shipped,1,2,2004,Trains,Petit Auto,Belgium,EMEA,Small
+10232,48,95.8,0.5810412736489643,2004-03-20,Shipped,1,3,2004,Trains,giftsbymail.co.uk,UK,EMEA,Medium
+10273,47,100.0,1.0461404676256676,2004-07-21,Shipped,3,7,2004,Trains,Petit Auto,Belgium,EMEA,Medium
+10293,22,100.0,-0.6088232621238666,2004-09-09,Shipped,3,9,2004,Trains,Amica Models & Co.,Italy,EMEA,Small
+10306,40,91.76,0.07456730421681865,2004-10-14,Shipped,4,10,2004,Trains,"AV Stores, Co.",UK,EMEA,Medium
+10314,23,100.0,-0.5741887383090347,2004-10-22,Shipped,4,10,2004,Trains,Heintze Collectables,Denmark,EMEA,Small
+10326,32,100.0,0.14949052245350491,2004-11-09,Shipped,4,11,2004,Trains,"Volvo Model Replicas, Co",Sweden,EMEA,Medium
+10336,21,100.0,-0.7113351216911511,2004-11-20,Shipped,4,11,2004,Trains,"La Corne D'abondance, Co.",France,EMEA,Small
+10350,41,93.04,0.15328907722424603,2004-12-02,Shipped,4,12,2004,Trains,Euro Shopping Channel,Spain,EMEA,Medium
+10372,25,84.71,-0.7728214981957043,2005-01-26,Shipped,1,1,2005,Trains,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10383,26,100.0,-0.10549292422612705,2005-02-22,Shipped,1,2,2005,Trains,Euro Shopping Channel,Spain,EMEA,Medium
+10108,26,68.35,-0.9587378319102092,2003-03-03,Shipped,1,3,2003,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Small
+10122,21,73.17,-1.090011736939858,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Small
+10169,32,70.76,-0.6928280825710603,2003-11-04,Shipped,4,11,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10181,30,82.82,-0.5726060071545592,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Small
+10191,36,94.88,-0.06445106808248774,2003-11-20,Shipped,4,11,2003,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10203,33,86.04,-0.37901069849403024,2003-12-02,Shipped,4,12,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10211,35,78.0,-0.4386742053241189,2004-01-15,Shipped,1,1,2004,Classic Cars,Auto Canal Petit,France,EMEA,Small
+10225,37,95.69,0.003688236964498894,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10238,41,73.17,-0.2913328502297263,2004-04-09,Shipped,2,4,2004,Classic Cars,Danish Wholesale Imports,Denmark,EMEA,Small
+10252,20,76.39,-1.0947981342587372,2004-05-26,Shipped,2,5,2004,Classic Cars,Auto Canal Petit,France,EMEA,Small
+10265,45,86.84,0.2041329511383612,2004-07-02,Shipped,3,7,2004,Classic Cars,"Australian Collectables, Ltd",Australia,APAC,Medium
+10287,43,70.76,-0.2680230407098481,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10300,49,78.8,0.17870009879403126,2003-10-04,Shipped,4,10,2003,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Medium
+10310,27,80.41,-0.7437210757279004,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Small
+10342,25,66.74,-1.018008384798497,2004-11-24,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Small
+10363,46,60.3,-0.4147695071979033,2005-01-06,Shipped,1,1,2005,Classic Cars,Suominen Souveniers,Finland,EMEA,Small
+10378,22,100.0,-0.583848856044971,2005-02-10,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10103,46,100.0,0.6866039839588411,2003-01-29,Shipped,1,1,2003,Vintage Cars,Baane Mini Imports,Norway,EMEA,Medium
+10126,38,82.34,-0.2209558907919296,2003-05-28,Shipped,2,5,2003,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10139,30,100.0,-0.2392500798602114,2003-07-16,Shipped,3,7,2003,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10173,29,95.24,-0.4212314164630721,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10193,32,79.37,-0.5424577075086198,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10227,33,100.0,0.07268985760599256,2004-03-02,Shipped,1,3,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Medium
+10244,36,84.33,-0.2717342723824111,2004-04-29,Shipped,2,4,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10280,34,100.0,-0.03237074488936098,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Medium
+10304,38,100.0,0.2317816270989565,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Medium
+10323,33,91.27,-0.2848163640281963,2004-11-05,Shipped,4,11,2004,Vintage Cars,"Blauer See Auto, Co.",Germany,EMEA,Medium
+10347,26,100.0,-0.47854811502962813,2004-11-29,Shipped,4,11,2004,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Small
+10392,36,100.0,0.27407875277890403,2005-03-10,Shipped,1,3,2005,Vintage Cars,Mini Auto Werke,Austria,EMEA,Medium
+10423,21,89.29,-0.9052578919698472,2005-05-30,In Process,2,5,2005,Vintage Cars,Petit Auto,Belgium,EMEA,Small
+10108,29,100.0,0.28150121612403023,2003-03-03,Shipped,1,3,2003,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Medium
+10122,21,100.0,-0.5809071591751013,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Small
+10169,36,100.0,0.49727659172176003,2003-11-04,Shipped,4,11,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10181,22,100.0,-0.07547560922745461,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Medium
+10191,23,100.0,-0.06505141438246115,2003-11-20,Shipped,4,11,2003,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10203,32,100.0,0.8695567900289317,2003-12-02,Shipped,4,12,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10211,28,100.0,0.1154345141641022,2004-01-15,Shipped,1,1,2004,Classic Cars,Auto Canal Petit,France,EMEA,Medium
+10225,27,100.0,0.5623104690897929,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10238,49,100.0,1.6484788257763008,2004-04-09,Shipped,2,4,2004,Classic Cars,Danish Wholesale Imports,Denmark,EMEA,Medium
+10252,41,100.0,1.7552258556052163,2004-05-26,Shipped,2,5,2004,Classic Cars,Auto Canal Petit,France,EMEA,Medium
+10287,40,100.0,1.7616495610149323,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10300,23,100.0,0.13792566963856182,2003-10-04,Shipped,4,10,2003,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Medium
+10310,49,100.0,1.4912317567323463,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10320,25,100.0,-0.023343719615214777,2004-11-03,Shipped,4,11,2004,Classic Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Medium
+10330,37,100.0,0.4756095479863548,2004-11-16,Shipped,4,11,2004,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Medium
+10342,55,100.0,1.6452369557564444,2004-11-24,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10355,23,100.0,-0.19421864966856675,2004-12-07,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10363,24,100.0,0.33230142848905647,2005-01-06,Shipped,1,1,2005,Classic Cars,Suominen Souveniers,Finland,EMEA,Medium
+10378,43,96.49,0.33581072549708274,2005-02-10,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10123,34,100.0,0.9813521864712602,2003-05-20,Shipped,2,5,2003,Classic Cars,Atelier graphique,France,EMEA,Medium
+10137,31,100.0,0.8680613819726344,2003-07-10,Shipped,3,7,2003,Classic Cars,Reims Collectables,France,EMEA,Medium
+10148,28,100.0,0.0576702847193841,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10161,36,100.0,1.0971207838806856,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Medium
+10181,39,100.0,1.2287931005457713,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Medium
+10212,45,100.0,1.541158738115593,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10240,37,100.0,1.3237351390397543,2004-04-13,Shipped,2,4,2004,Classic Cars,Osaka Souveniers Co.,Japan,Japan,Medium
+10253,31,100.0,0.27048759036633563,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10266,33,100.0,0.8194005855129683,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Medium
+10287,27,100.0,0.4239415623331853,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10301,39,100.0,1.589786788413442,2003-10-05,Shipped,4,10,2003,Classic Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Medium
+10311,32,100.0,0.04522674322902525,2004-10-16,Shipped,4,10,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10343,44,84.88,0.10967118968435688,2004-11-24,Shipped,4,11,2004,Classic Cars,Reims Collectables,France,EMEA,Medium
+10379,32,70.83,-0.6916055591965691,2005-02-10,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10419,43,100.0,1.1217568129541415,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Medium
+10108,43,67.77,-0.33819260778947186,2003-03-03,Shipped,1,3,2003,Motorcycles,Cruz & Sons Co.,Philippines,Japan,Small
+10122,35,49.74,-0.9784946828729718,2003-05-08,Shipped,2,5,2003,Motorcycles,Marseille Mini Autos,France,EMEA,Small
+10169,38,68.39,-0.5102682304427706,2003-11-04,Shipped,4,11,2003,Motorcycles,"Anna's Decorations, Ltd",Australia,APAC,Small
+10180,21,50.36,-1.3514407198037506,2003-11-11,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,France,EMEA,Small
+10191,43,72.74,-0.221556237091903,2003-11-20,Shipped,4,11,2003,Motorcycles,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10211,46,54.09,-0.570673983607372,2004-01-15,Shipped,1,1,2004,Motorcycles,Auto Canal Petit,France,EMEA,Small
+10224,38,58.44,-0.7166236268245536,2004-02-21,Shipped,1,2,2004,Motorcycles,Daedalus Designs Imports,France,EMEA,Small
+10252,31,52.84,-1.0346325196141255,2004-05-26,Shipped,2,5,2004,Motorcycles,Auto Canal Petit,France,EMEA,Small
+10286,38,57.2,-0.7423402792379616,2004-08-28,Shipped,3,8,2004,Motorcycles,"La Corne D'abondance, Co.",France,EMEA,Small
+10299,39,55.95,-0.7377285281154381,2004-09-30,Shipped,3,9,2004,Motorcycles,"Toys of Finland, Co.",Finland,EMEA,Small
+10310,42,67.14,-0.38962045492265196,2004-10-16,Shipped,4,10,2004,Motorcycles,"Toms Spezialitten, Ltd",Germany,EMEA,Small
+10330,29,69.63,-0.8265688651242364,2004-11-16,Shipped,4,11,2004,Motorcycles,Cruz & Sons Co.,Philippines,Japan,Small
+10342,26,55.95,-1.1346938747387907,2004-11-24,Shipped,4,11,2004,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Small
+10355,31,53.47,-1.0239736439427787,2004-12-07,Shipped,4,12,2004,Motorcycles,Euro Shopping Channel,Spain,EMEA,Small
+10363,32,89.12,-0.3721776660616052,2005-01-06,Shipped,1,1,2005,Motorcycles,Suominen Souveniers,Finland,EMEA,Small
+10378,28,100.0,0.5871757212959661,2005-02-10,Shipped,1,2,2005,Motorcycles,Euro Shopping Channel,Spain,EMEA,Medium
+10403,36,52.22,-0.9026218259436001,2005-04-08,Shipped,2,4,2005,Motorcycles,"UK Collectables, Ltd.",UK,EMEA,Small
+10106,41,100.0,0.6773477355519777,2003-02-17,Shipped,1,2,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Medium
+10119,27,99.52,-0.46212045718490014,2003-04-28,Shipped,2,4,2003,Vintage Cars,Salzburg Collectables,Austria,EMEA,Small
+10155,29,100.0,0.0486814633006906,2003-10-06,Shipped,4,10,2003,Vintage Cars,"Toys of Finland, Co.",Finland,EMEA,Medium
+10167,34,100.0,0.0359159178858007,2003-10-23,Cancelled,4,10,2003,Vintage Cars,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10178,48,100.0,1.011194855273577,2003-11-08,Shipped,4,11,2003,Vintage Cars,Alpha Cognac,France,EMEA,Medium
+10186,46,100.0,0.7558948623630494,2003-11-14,Shipped,4,11,2003,Vintage Cars,"Double Decker Gift Stores, Ltd",UK,EMEA,Medium
+10197,22,100.0,-0.5430253076467765,2003-11-26,Shipped,4,11,2003,Vintage Cars,Enaco Distributors,Spain,EMEA,Small
+10262,34,100.0,0.31091818482272926,2004-06-24,Cancelled,2,6,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10273,50,85.75,0.4113615785019234,2004-07-21,Shipped,3,7,2004,Vintage Cars,Petit Auto,Belgium,EMEA,Medium
+10296,22,84.7,-0.911637935830474,2004-09-15,Shipped,3,9,2004,Vintage Cars,"Bavarian Collectables Imports, Co.",Germany,EMEA,Small
+10316,47,86.81,0.29815263940783937,2004-11-01,Shipped,4,11,2004,Vintage Cars,giftsbymail.co.uk,UK,EMEA,Medium
+10328,34,100.0,0.15374752348968038,2004-11-12,Shipped,4,11,2004,Vintage Cars,Rovelli Gifts,Italy,EMEA,Medium
+10338,45,100.0,1.0875425315492908,2004-11-22,Shipped,4,11,2004,Vintage Cars,Royale Belge,Belgium,EMEA,Medium
+10351,20,100.0,-0.08687127353967795,2004-12-03,Shipped,4,12,2004,Vintage Cars,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10373,50,60.49,-0.27794512774031827,2005-01-31,Shipped,1,1,2005,Vintage Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10386,22,57.55,-1.237625976716057,2005-03-01,Resolved,1,3,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10398,45,100.0,0.6975357443119944,2005-03-30,Shipped,1,3,2005,Vintage Cars,Reims Collectables,France,EMEA,Medium
+10415,51,100.0,1.460193853023719,2005-05-09,Disputed,2,5,2005,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Medium
+10104,38,100.0,0.9904228732944953,2003-01-31,Shipped,1,1,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10117,22,100.0,-0.4110691909126125,2003-04-16,Shipped,2,4,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10152,35,100.0,0.5404906099325762,2003-09-25,Shipped,3,9,2003,Classic Cars,"Australian Gift Network, Co",Australia,APAC,Medium
+10165,28,100.0,-0.10706473999333033,2003-10-22,Shipped,4,10,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10176,36,100.0,1.0906370438409723,2003-11-06,Shipped,4,11,2003,Classic Cars,L'ordine Souveniers,Italy,EMEA,Medium
+10230,42,100.0,2.021806901261608,2004-03-15,Shipped,1,3,2004,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Large
+10247,48,100.0,1.7585932525787036,2004-05-05,Shipped,2,5,2004,Classic Cars,Suominen Souveniers,Finland,EMEA,Medium
+10306,23,100.0,0.03649989110486587,2004-10-14,Shipped,4,10,2004,Classic Cars,"AV Stores, Co.",UK,EMEA,Medium
+10314,29,100.0,0.36728524469659984,2004-10-22,Shipped,4,10,2004,Classic Cars,Heintze Collectables,Denmark,EMEA,Medium
+10358,25,100.0,-0.5487831744328855,2004-12-10,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10372,48,100.0,1.9089636276411446,2005-01-26,Shipped,1,1,2005,Classic Cars,"Tokyo Collectables, Ltd",Japan,Japan,Large
+10383,38,100.0,0.9862750261310422,2005-02-22,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10394,37,100.0,1.5515174406369527,2005-03-15,Shipped,1,3,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10110,28,89.27,-0.5644412974749203,2003-03-18,Shipped,1,3,2003,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10148,34,100.0,0.035173671551288005,2003-09-11,Shipped,3,9,2003,Vintage Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10173,21,75.46,-1.063765688243746,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10193,24,97.55,-0.6508693338965525,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10213,38,94.79,0.037247595133014566,2004-01-22,Shipped,1,1,2004,Vintage Cars,"Double Decker Gift Stores, Ltd",UK,EMEA,Medium
+10227,34,100.0,0.01810200585749771,2004-03-02,Shipped,1,3,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Medium
+10241,42,90.19,0.13873886599034416,2004-04-13,Shipped,2,4,2004,Vintage Cars,Mini Caravy,France,EMEA,Medium
+10280,35,100.0,0.0929324433023701,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Medium
+10288,35,80.99,-0.38155944142209935,2004-09-01,Shipped,3,9,2004,Vintage Cars,Handji Gifts& Co,Singapore,APAC,Small
+10302,38,89.27,-0.07723298657828587,2003-10-06,Shipped,4,10,2003,Vintage Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10311,41,81.91,-0.0957618564729211,2004-10-16,Shipped,4,10,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10332,50,100.0,2.060949480019877,2004-11-17,Shipped,4,11,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Large
+10344,21,100.0,-0.7262346253177647,2004-11-25,Shipped,4,11,2004,Vintage Cars,Marseille Mini Autos,France,EMEA,Small
+10380,32,100.0,-0.08575790403790903,2005-02-16,Shipped,1,2,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10420,66,92.95,1.4195067469664275,2005-05-29,In Process,2,5,2005,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10105,41,82.5,-0.08255969556714132,2003-02-11,Shipped,1,2,2003,Vintage Cars,Danish Wholesale Imports,Denmark,EMEA,Medium
+10117,23,97.42,-0.7057409857141257,2003-04-16,Shipped,2,4,2003,Vintage Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10128,43,92.16,0.23419392768612257,2003-06-06,Shipped,2,6,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10153,22,83.38,-0.9274870781497732,2003-09-28,Shipped,3,9,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10177,35,74.6,-0.5036207595939738,2003-11-07,Shipped,4,11,2003,Vintage Cars,CAF Imports,Spain,EMEA,Small
+10197,50,100.0,0.849614377482541,2003-11-26,Shipped,4,11,2003,Vintage Cars,Enaco Distributors,Spain,EMEA,Medium
+10208,45,87.77,0.22697339900553282,2004-01-02,Shipped,1,1,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Medium
+10221,39,89.53,-0.022978054141594546,2004-02-18,Shipped,1,2,2004,Vintage Cars,Petit Auto,Belgium,EMEA,Medium
+10232,23,89.53,-0.8047817521288363,2004-03-20,Shipped,1,3,2004,Vintage Cars,giftsbymail.co.uk,UK,EMEA,Small
+10273,33,71.09,-0.6482660140321223,2004-07-21,Shipped,3,7,2004,Vintage Cars,Petit Auto,Belgium,EMEA,Small
+10293,49,100.0,0.7707834506023913,2004-09-09,Shipped,3,9,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Medium
+10306,39,90.4,-0.004460099634231801,2004-10-14,Shipped,4,10,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Medium
+10315,36,100.0,0.037324002843920207,2004-10-29,Shipped,4,10,2004,Vintage Cars,La Rochelle Gifts,France,EMEA,Medium
+10326,50,86.01,0.4184565802288823,2004-11-09,Shipped,4,11,2004,Vintage Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Medium
+10350,30,100.0,-0.27870920484937545,2004-12-02,Shipped,4,12,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10372,41,86.89,0.015673332189423152,2005-01-26,Shipped,1,1,2005,Vintage Cars,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10383,28,58.58,-1.0334318270141785,2005-02-22,Shipped,1,2,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10103,36,100.0,0.3789974552397183,2003-01-29,Shipped,1,1,2003,Trucks and Buses,Baane Mini Imports,Norway,EMEA,Medium
+10114,41,100.0,0.6995005140209981,2003-04-01,Shipped,2,4,2003,Trucks and Buses,"La Corne D'abondance, Co.",France,EMEA,Medium
+10126,50,100.0,1.9370598344799017,2003-05-28,Shipped,2,5,2003,Trucks and Buses,"Corrida Auto Replicas, Ltd",Spain,EMEA,Large
+10150,49,100.0,1.6008768218820428,2003-09-19,Shipped,3,9,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10164,45,100.0,0.8070716555889681,2003-10-21,Resolved,4,10,2003,Trucks and Buses,Mini Auto Werke,Austria,EMEA,Medium
+10175,47,100.0,0.8665823469972452,2003-11-06,Shipped,4,11,2003,Trucks and Buses,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10194,32,100.0,0.39748812127890054,2003-11-25,Shipped,4,11,2003,Trucks and Buses,"Saveley & Henriot, Co.",France,EMEA,Medium
+10217,38,100.0,0.5322931540911204,2004-02-04,Shipped,1,2,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Medium
+10259,41,100.0,0.6182736596345905,2004-06-15,Shipped,2,6,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Medium
+10270,38,100.0,1.009295577888206,2004-07-19,Shipped,3,7,2004,Trucks and Buses,Souveniers And Things Co.,Australia,APAC,Medium
+10291,48,100.0,0.9577531191886677,2004-09-08,Shipped,3,9,2004,Trucks and Buses,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10323,47,100.0,1.4568155406629595,2004-11-05,Shipped,4,11,2004,Trucks and Buses,"Blauer See Auto, Co.",Germany,EMEA,Medium
+10334,49,100.0,1.7626701497248871,2004-11-19,On Hold,4,11,2004,Trucks and Buses,"Volvo Model Replicas, Co",Sweden,EMEA,Medium
+10347,45,100.0,1.2830371175951902,2004-11-29,Shipped,4,11,2004,Trucks and Buses,"Australian Collectors, Co.",Australia,APAC,Medium
+10370,29,57.53,-1.0180793348157666,2005-01-20,Shipped,1,1,2005,Trucks and Buses,"Anna's Decorations, Ltd",Australia,APAC,Small
+10425,38,100.0,0.43191525273555975,2005-05-31,In Process,2,5,2005,Trucks and Buses,La Rochelle Gifts,France,EMEA,Medium
+10103,41,47.29,-0.8704378065713871,2003-01-29,Shipped,1,1,2003,Vintage Cars,Baane Mini Imports,Norway,EMEA,Small
+10126,43,53.83,-0.6653376797259125,2003-05-28,Shipped,2,5,2003,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10150,30,42.76,-1.2285116283437327,2003-09-19,Shipped,3,9,2003,Vintage Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10164,25,53.83,-1.194155446904343,2003-10-21,Resolved,4,10,2003,Vintage Cars,Mini Auto Werke,Austria,EMEA,Small
+10174,49,44.78,-0.7310865149602775,2003-11-06,Shipped,4,11,2003,Vintage Cars,"Australian Gift Network, Co",Australia,APAC,Small
+10194,41,44.78,-0.9266029317807213,2003-11-25,Shipped,4,11,2003,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Small
+10258,21,59.87,-1.2424451201967528,2004-06-15,Shipped,2,6,2004,Vintage Cars,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10270,44,58.36,-0.5271761653274775,2004-07-19,Shipped,3,7,2004,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Small
+10291,29,51.82,-1.108453283736315,2004-09-08,Shipped,3,9,2004,Vintage Cars,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10304,34,49.3,-1.013805960698683,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Small
+10348,29,100.0,1.9522322227883215,2004-11-01,Shipped,4,11,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Large
+10358,30,100.0,0.9654812133774167,2004-12-10,Shipped,4,12,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10370,20,100.0,-0.4386742053241189,2005-01-20,Shipped,1,1,2005,Vintage Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10424,26,59.87,-1.079069061199433,2005-05-31,In Process,2,5,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10108,44,100.0,1.1086474328401756,2003-03-03,Shipped,1,3,2003,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Medium
+10122,28,100.0,0.026954384935287908,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Medium
+10169,33,100.0,0.7513213150959789,2003-11-04,Shipped,4,11,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10180,44,100.0,1.1086474328401756,2003-11-11,Shipped,4,11,2003,Classic Cars,Daedalus Designs Imports,France,EMEA,Medium
+10191,32,100.0,0.38421501035585137,2003-11-20,Shipped,4,11,2003,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10211,41,100.0,1.1678415780175577,2004-01-15,Shipped,1,1,2004,Classic Cars,Auto Canal Petit,France,EMEA,Medium
+10225,35,100.0,0.942204150019355,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10238,44,100.0,1.5375348295412077,2004-04-09,Shipped,2,4,2004,Classic Cars,Danish Wholesale Imports,Denmark,EMEA,Medium
+10252,26,100.0,0.013986904855861543,2004-05-26,Shipped,2,5,2004,Classic Cars,Auto Canal Petit,France,EMEA,Medium
+10287,34,100.0,0.41835834174343195,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10310,40,100.0,0.9949527590124769,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10330,50,100.0,1.4011143194126956,2004-11-16,Shipped,4,11,2004,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Medium
+10342,38,100.0,1.4968750119520968,2004-11-24,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10355,25,100.0,0.36551695195849637,2004-12-07,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10363,28,58.18,-1.0395444438866355,2005-01-06,Shipped,1,1,2005,Classic Cars,Suominen Souveniers,Finland,EMEA,Small
+10378,49,67.14,-0.13311976941217787,2005-02-10,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10110,42,61.29,-0.5237159875621761,2003-03-18,Shipped,1,3,2003,Classic Cars,"AV Stores, Co.",UK,EMEA,Small
+10148,29,81.25,-0.6426555049741884,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10161,25,80.54,-0.8297179543522789,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Small
+10173,39,71.98,-0.3965298950659829,2003-11-05,Shipped,4,11,2003,Classic Cars,Rovelli Gifts,Italy,EMEA,Small
+10193,25,76.26,-0.8881152762587872,2003-11-21,Shipped,4,11,2003,Classic Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10213,25,83.39,-0.7908318871949078,2004-01-22,Shipped,1,1,2004,Classic Cars,"Double Decker Gift Stores, Ltd",UK,EMEA,Small
+10227,37,57.73,-0.762855749616145,2004-03-02,Shipped,1,3,2004,Classic Cars,"Saveley & Henriot, Co.",France,EMEA,Small
+10241,30,66.99,-0.8317918779340054,2004-04-13,Shipped,2,4,2004,Classic Cars,Mini Caravy,France,EMEA,Small
+10279,26,60.58,-1.0689941587471512,2004-08-09,Shipped,3,8,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10288,23,73.41,-1.0071312013817053,2004-09-01,Shipped,3,9,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Small
+10302,23,72.7,-1.016043615089493,2003-10-06,Shipped,4,10,2003,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Small
+10311,25,66.99,-1.0145973262759205,2004-10-16,Shipped,4,10,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10332,21,100.0,-0.03317848354750708,2004-11-17,Shipped,4,11,2004,Classic Cars,"AV Stores, Co.",UK,EMEA,Medium
+10344,26,63.43,-1.028552648903485,2004-11-25,Shipped,4,11,2004,Classic Cars,Marseille Mini Autos,France,EMEA,Small
+10380,24,100.0,0.5469852653595616,2005-02-16,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10420,36,57.73,-0.7943630149774789,2005-05-29,In Process,2,5,2005,Classic Cars,Souveniers And Things Co.,Australia,APAC,Small
+10110,36,85.25,-0.2536583910595742,2003-03-18,Shipped,1,3,2003,Classic Cars,"AV Stores, Co.",UK,EMEA,Medium
+10148,25,60.26,-1.1064230217036777,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10161,37,72.76,-0.4593479488177501,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Small
+10212,41,82.31,-0.08681123890968054,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10241,22,76.43,-1.0109352138460825,2004-04-13,Shipped,2,4,2004,Classic Cars,Mini Caravy,France,EMEA,Small
+10279,32,74.96,-0.6194766801015773,2004-08-09,Shipped,3,8,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10288,36,66.14,-0.6291258824502414,2004-09-01,Shipped,3,9,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Small
+10301,27,72.02,-0.8673542096669781,2003-10-05,Shipped,4,10,2003,Classic Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10311,26,87.45,-0.6877087659403778,2004-10-16,Shipped,4,10,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10332,23,56.84,-1.2151293635479608,2004-11-17,Shipped,4,11,2004,Classic Cars,"AV Stores, Co.",UK,EMEA,Small
+10344,29,59.53,-0.9864247117262576,2004-11-25,Shipped,4,11,2004,Classic Cars,Marseille Mini Autos,France,EMEA,Small
+10380,34,100.0,-0.050184656917663974,2005-02-16,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10420,60,64.67,0.18906971670266357,2005-05-29,In Process,2,5,2005,Classic Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10104,35,55.49,-0.8686585984460112,2003-01-31,Shipped,1,1,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10141,20,54.33,-1.3355915774844513,2003-08-01,Shipped,3,8,2003,Classic Cars,Suominen Souveniers,Finland,EMEA,Small
+10152,25,65.31,-1.037519639547634,2003-09-25,Shipped,3,9,2003,Classic Cars,"Australian Gift Network, Co",Australia,APAC,Small
+10165,25,69.36,-0.9822604914818962,2003-10-22,Shipped,4,10,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10176,27,68.78,-0.9150981135957756,2003-11-06,Shipped,4,11,2003,Classic Cars,L'ordine Souveniers,Italy,EMEA,Small
+10184,31,60.11,-0.9116324781368379,2003-11-14,Shipped,4,11,2003,Classic Cars,"Iberia Gift Imports, Corp.",Spain,EMEA,Small
+10220,26,56.07,-1.1329910743243208,2004-02-12,Shipped,1,2,2004,Classic Cars,"Clover Collections, Co.",Ireland,EMEA,Small
+10230,36,54.33,-0.8611651850836154,2004-03-15,Shipped,1,3,2004,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Small
+10246,44,52.6,-0.6654959528413601,2004-05-05,Shipped,2,5,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10259,28,46.82,-1.2131427630644123,2004-06-15,Shipped,2,6,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Small
+10314,44,53.18,-0.651567918681976,2004-10-22,Shipped,4,10,2004,Classic Cars,Heintze Collectables,Denmark,EMEA,Small
+10336,45,100.0,1.3309283792521631,2004-11-20,Shipped,4,11,2004,Classic Cars,"La Corne D'abondance, Co.",France,EMEA,Medium
+10358,44,60.76,-0.4695429205300264,2004-12-10,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10383,22,91.76,-0.8268690382742231,2005-02-22,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10394,31,50.29,-1.0777755878076718,2005-03-15,Shipped,1,3,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10412,21,52.6,-1.3257677289394314,2005-05-03,Shipped,2,5,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10425,55,46.82,-0.5232138797476528,2005-05-31,In Process,2,5,2005,Classic Cars,La Rochelle Gifts,France,EMEA,Small
+10120,35,98.05,-0.05568055440923918,2003-04-29,Shipped,2,4,2003,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Medium
+10134,35,93.54,-0.14183024845542902,2003-07-01,Shipped,3,7,2003,Motorcycles,Lyon Souveniers,France,EMEA,Medium
+10180,48,100.0,0.994166851128875,2003-11-11,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,France,EMEA,Medium
+10188,25,100.0,-0.5446899042057939,2003-11-18,Shipped,4,11,2003,Motorcycles,Herkku Gifts,Norway,EMEA,Small
+10211,25,90.16,-0.6984604224035386,2004-01-15,Shipped,1,1,2004,Motorcycles,Auto Canal Petit,France,EMEA,Small
+10223,32,91.29,-0.33427944145237215,2004-02-20,Shipped,1,2,2004,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Small
+10275,21,100.0,-0.753168343412028,2004-07-23,Shipped,3,7,2004,Motorcycles,La Rochelle Gifts,France,EMEA,Small
+10299,47,100.0,1.0489620952355427,2004-09-30,Shipped,3,9,2004,Motorcycles,"Toys of Finland, Co.",Finland,EMEA,Medium
+10309,21,100.0,-0.48199737740765747,2004-10-15,Shipped,4,10,2004,Motorcycles,Baane Mini Imports,Norway,EMEA,Small
+10339,27,84.39,-0.6850726999141306,2004-11-23,Shipped,4,11,2004,Motorcycles,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10374,38,100.0,0.36202402803137834,2005-02-02,Shipped,1,2,2005,Motorcycles,"Australian Gift Network, Co",Australia,APAC,Medium
+10389,45,100.0,0.5806319466262552,2005-03-03,Shipped,1,3,2005,Motorcycles,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10403,46,100.0,0.9572400959868719,2005-04-08,Shipped,2,4,2005,Motorcycles,"UK Collectables, Ltd.",UK,EMEA,Medium
+10417,35,100.0,0.008883961306087278,2005-05-13,Disputed,2,5,2005,Motorcycles,Euro Shopping Channel,Spain,EMEA,Medium
+10110,29,59.37,-0.9889570815734182,2003-03-18,Shipped,1,3,2003,Classic Cars,"AV Stores, Co.",UK,EMEA,Small
+10123,50,59.87,-0.2948639780122973,2003-05-20,Shipped,2,5,2003,Classic Cars,Atelier graphique,France,EMEA,Small
+10137,26,49.81,-1.2218204959458467,2003-07-10,Shipped,3,7,2003,Classic Cars,Reims Collectables,France,EMEA,Small
+10148,47,56.85,-0.47035611688180873,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10161,23,53.33,-1.259189324272376,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Small
+10181,34,53.83,-0.9297465633151277,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Small
+10212,45,53.33,-0.6188599607206954,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10241,21,40.25,-1.4673130133922623,2004-04-13,Shipped,2,4,2004,Classic Cars,Mini Caravy,France,EMEA,Small
+10266,28,48.3,-1.1905260806363216,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Small
+10288,50,52.32,-0.5008919127759127,2004-09-01,Shipped,3,9,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Small
+10301,22,51.32,-1.3124291256927485,2003-10-05,Shipped,4,10,2003,Classic Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10311,45,49.3,-0.7178352348117726,2004-10-16,Shipped,4,10,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10332,20,87.96,-0.968507103518868,2004-11-17,Shipped,4,11,2004,Classic Cars,"AV Stores, Co.",UK,EMEA,Small
+10343,27,36.21,-1.395042234262731,2004-11-24,Shipped,4,11,2004,Classic Cars,Reims Collectables,France,EMEA,Small
+10379,32,100.0,0.23838543639866439,2005-02-10,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10420,37,60.37,-0.7095449981785028,2005-05-29,In Process,2,5,2005,Classic Cars,Souveniers And Things Co.,Australia,APAC,Small
+10106,28,88.63,-0.5742214844708514,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Small
+10120,39,100.0,0.6100379999376819,2003-04-29,Shipped,2,4,2003,Planes,"Australian Collectors, Co.",Australia,APAC,Medium
+10133,41,94.1,0.1770082137668334,2003-06-27,Shipped,2,6,2003,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10210,27,98.48,-0.4774456609151314,2004-01-12,Shipped,1,1,2004,Planes,Osaka Souveniers Co.,Japan,Japan,Small
+10223,34,100.0,0.0409260806437611,2004-02-20,Shipped,1,2,2004,Planes,"Australian Collectors, Co.",Australia,APAC,Medium
+10262,34,97.38,-0.12162586661450443,2004-06-24,Cancelled,2,6,2004,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10275,25,95.2,-0.6296934825883981,2004-07-23,Shipped,3,7,2004,Planes,La Rochelle Gifts,France,EMEA,Small
+10284,22,100.0,-0.6674170610012751,2004-08-21,Shipped,3,8,2004,Planes,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10297,32,100.0,0.2881596023600996,2004-09-16,Shipped,3,9,2004,Planes,"Clover Collections, Co.",Ireland,EMEA,Medium
+10316,25,100.0,-0.3610385133502797,2004-11-01,Shipped,4,11,2004,Planes,giftsbymail.co.uk,UK,EMEA,Small
+10328,47,87.54,0.3168779862733748,2004-11-12,Shipped,4,11,2004,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10339,21,50.65,-1.348116984379352,2004-11-23,Shipped,4,11,2004,Planes,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10374,46,94.1,0.4337926993463861,2005-02-02,Shipped,1,2,2005,Planes,"Australian Gift Network, Co",Australia,APAC,Medium
+10386,33,41.71,-1.17741124282872,2005-03-01,Resolved,1,3,2005,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10398,43,100.0,1.1015742618877613,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Medium
+10416,47,88.63,0.34483775077122897,2005-05-10,Shipped,2,5,2005,Planes,L'ordine Souveniers,Italy,EMEA,Medium
+10101,45,31.2,-1.1623643814739308,2003-01-09,Shipped,1,1,2003,Vintage Cars,"Blauer See Auto, Co.",Germany,EMEA,Small
+10110,20,35.51,-1.5410191659480932,2003-03-18,Shipped,1,3,2003,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10173,31,31.53,-1.3951732189099981,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10193,26,29.21,-1.5141345670965551,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10205,32,37.17,-1.27946465613057,2003-12-03,Shipped,4,12,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10214,20,34.19,-1.5554274771474563,2004-01-26,Shipped,1,1,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10227,42,29.21,-1.2590637973187448,2004-03-02,Shipped,1,3,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Small
+10280,20,28.88,-1.6133881835630746,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Small
+10288,29,38.17,-1.3244960863222148,2004-09-01,Shipped,3,9,2004,Vintage Cars,Handji Gifts& Co,Singapore,APAC,Small
+10304,23,30.2,-1.549533168020444,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Small
+10332,45,81.91,0.08305401782098862,2004-11-17,Shipped,4,11,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Medium
+10344,20,35.18,-1.544621243747934,2004-11-25,Shipped,4,11,2004,Vintage Cars,Marseille Mini Autos,France,EMEA,Small
+10380,32,70.56,-0.6963210064981786,2005-02-16,Shipped,1,2,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10409,61,29.54,-0.9451809209180815,2005-04-23,Shipped,2,4,2005,Vintage Cars,Handji Gifts& Co,Singapore,APAC,Small
+10420,45,26.88,-1.2684619457601476,2005-05-29,In Process,2,5,2005,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Small
+10120,34,83.79,-0.37380405876516964,2003-04-29,Shipped,2,4,2003,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Small
+10134,43,83.03,0.019930333225598618,2003-07-01,Shipped,3,7,2003,Motorcycles,Lyon Souveniers,France,EMEA,Medium
+10158,22,67.03,-1.1238003182410907,2003-10-10,Shipped,4,10,2003,Motorcycles,Baane Mini Imports,Norway,EMEA,Small
+10180,28,68.55,-0.8810748514681894,2003-11-11,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,France,EMEA,Small
+10188,40,91.4,0.06670822538080254,2003-11-18,Shipped,4,11,2003,Motorcycles,Herkku Gifts,Norway,EMEA,Medium
+10210,30,61.7,-0.9184054759392657,2004-01-12,Shipped,1,1,2004,Motorcycles,Osaka Souveniers Co.,Japan,Japan,Small
+10223,38,69.31,-0.4911881334908872,2004-02-20,Shipped,1,2,2004,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Small
+10275,30,79.98,-0.6191055569343208,2004-07-23,Shipped,3,7,2004,Motorcycles,La Rochelle Gifts,France,EMEA,Small
+10297,32,65.51,-0.7845173356579143,2004-09-16,Shipped,3,9,2004,Motorcycles,"Clover Collections, Co.",Ireland,EMEA,Small
+10340,55,79.98,0.4721602856083252,2004-11-24,Shipped,4,11,2004,Motorcycles,Enaco Distributors,Spain,EMEA,Medium
+10363,21,100.0,0.033754671205896265,2005-01-06,Shipped,1,1,2005,Motorcycles,Suominen Souveniers,Finland,EMEA,Medium
+10375,23,100.0,-0.5951517395653803,2005-02-03,Shipped,1,2,2005,Motorcycles,La Rochelle Gifts,France,EMEA,Small
+10389,49,81.4,0.24823111571822892,2005-03-03,Shipped,1,3,2005,Motorcycles,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10402,59,87.6,0.8921298109079332,2005-04-07,Shipped,2,4,2005,Motorcycles,Auto Canal Petit,France,EMEA,Medium
+10416,32,87.6,-0.398723887907704,2005-05-10,Shipped,2,5,2005,Motorcycles,L'ordine Souveniers,Italy,EMEA,Small
+10105,43,100.0,1.5322135782459885,2003-02-11,Shipped,1,2,2003,Ships,Danish Wholesale Imports,Denmark,EMEA,Medium
+10117,41,100.0,0.9037983599019627,2003-04-16,Shipped,2,4,2003,Ships,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10129,45,100.0,1.3611367135281,2003-06-12,Shipped,2,6,2003,Ships,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10153,40,100.0,1.0493113876282543,2003-09-28,Shipped,3,9,2003,Ships,Euro Shopping Channel,Spain,EMEA,Medium
+10167,33,100.0,0.1519355692024877,2003-10-23,Cancelled,4,10,2003,Ships,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10177,50,100.0,1.3912904708676754,2003-11-07,Shipped,4,11,2003,Ships,CAF Imports,Spain,EMEA,Medium
+10197,41,100.0,0.5462211882505047,2003-11-26,Shipped,4,11,2003,Ships,Enaco Distributors,Spain,EMEA,Medium
+10208,35,100.0,0.41881133031523005,2004-01-02,Shipped,1,1,2004,Ships,"Saveley & Henriot, Co.",France,EMEA,Medium
+10221,49,100.0,1.7851340167311662,2004-02-18,Shipped,1,2,2004,Ships,Petit Auto,Belgium,EMEA,Medium
+10232,46,100.0,1.1565768983526012,2004-03-20,Shipped,1,3,2004,Ships,giftsbymail.co.uk,UK,EMEA,Medium
+10273,22,100.0,-0.4087878749727133,2004-07-21,Shipped,3,7,2004,Ships,Petit Auto,Belgium,EMEA,Small
+10293,21,100.0,-0.32303113486832435,2004-09-09,Shipped,3,9,2004,Ships,Amica Models & Co.,Italy,EMEA,Small
+10306,29,100.0,-0.17812391113564208,2004-10-14,Shipped,4,10,2004,Ships,"AV Stores, Co.",UK,EMEA,Medium
+10315,35,100.0,0.37182058810821766,2004-10-29,Shipped,4,10,2004,Ships,La Rochelle Gifts,France,EMEA,Medium
+10326,41,100.0,0.4363523576617272,2004-11-09,Shipped,4,11,2004,Ships,"Volvo Model Replicas, Co",Sweden,EMEA,Medium
+10350,34,50.33,-0.9946931175849827,2004-12-02,Shipped,4,12,2004,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10372,37,100.0,0.20562290150102258,2005-01-26,Shipped,1,1,2005,Ships,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10101,46,53.76,-0.5789587625470055,2003-01-09,Shipped,1,1,2003,Vintage Cars,"Blauer See Auto, Co.",Germany,EMEA,Small
+10110,39,44.35,-0.9846345882136093,2003-03-18,Shipped,1,3,2003,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10173,27,41.22,-1.3212160124469052,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10193,20,50.62,-1.3760876642644786,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10205,24,38.08,-1.4298350311930106,2003-12-03,Shipped,4,12,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10214,49,47.94,-0.6465795866985604,2004-01-26,Shipped,1,1,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10227,24,48.38,-1.2949208445080684,2004-03-02,Shipped,1,3,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Small
+10244,39,45.25,-0.9654780835508202,2004-04-29,Shipped,2,4,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10255,37,45.7,-1.005783151053583,2004-06-04,Shipped,2,6,2004,Vintage Cars,Mini Caravy,France,EMEA,Small
+10280,45,47.49,-0.7622881494779883,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Small
+10289,45,48.38,-0.7404300864653188,2004-09-03,Shipped,3,9,2004,Vintage Cars,Herkku Gifts,Norway,EMEA,Small
+10304,44,39.42,-0.9819985221873623,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Small
+10332,26,85.52,-0.7150954726064392,2004-11-17,Shipped,4,11,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10345,43,53.76,-0.6669804455103855,2004-11-25,Shipped,4,11,2004,Vintage Cars,Atelier graphique,France,EMEA,Small
+10356,26,31.86,-1.4765310579436726,2004-12-09,Shipped,4,12,2004,Vintage Cars,Lyon Souveniers,France,EMEA,Small
+10380,27,68.35,-0.9214344959073135,2005-02-16,Shipped,1,2,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10391,24,100.0,0.2774188612842108,2005-03-09,Shipped,1,3,2005,Vintage Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10103,36,100.0,0.0799595055293075,2003-01-29,Shipped,1,1,2003,Trucks and Buses,Baane Mini Imports,Norway,EMEA,Medium
+10114,21,100.0,-0.3322000601770096,2003-04-01,Shipped,2,4,2003,Trucks and Buses,"La Corne D'abondance, Co.",France,EMEA,Small
+10126,27,100.0,-0.06440194883976257,2003-05-28,Shipped,2,5,2003,Trucks and Buses,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10151,42,100.0,0.8541442632005226,2003-09-21,Shipped,3,9,2003,Trucks and Buses,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10165,32,100.0,0.6156212205274353,2003-10-22,Shipped,4,10,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10175,28,100.0,-0.3077113888317291,2003-11-06,Shipped,4,11,2003,Trucks and Buses,"Stylish Desk Decors, Co.",UK,EMEA,Small
+10184,24,100.0,-0.020440226600797647,2003-11-14,Shipped,4,11,2003,Trucks and Buses,"Iberia Gift Imports, Corp.",Spain,EMEA,Medium
+10194,49,100.0,1.2155145319290859,2003-11-25,Shipped,4,11,2003,Trucks and Buses,"Saveley & Henriot, Co.",France,EMEA,Medium
+10217,28,100.0,-0.21006233429422955,2004-02-04,Shipped,1,2,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Medium
+10246,29,100.0,-0.007188946452292932,2004-05-05,Shipped,2,5,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10259,47,100.0,0.9561048957105585,2004-06-15,Shipped,2,6,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Medium
+10291,48,100.0,1.0174821183423894,2004-09-08,Shipped,3,9,2004,Trucks and Buses,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10334,42,100.0,1.0884103048374345,2004-11-19,On Hold,4,11,2004,Trucks and Buses,"Volvo Model Replicas, Co",Sweden,EMEA,Medium
+10348,37,100.0,1.3358512189119456,2004-11-01,Shipped,4,11,2004,Trucks and Buses,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10358,41,100.0,1.173883244872745,2004-12-10,Shipped,4,12,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10425,49,100.0,1.0788593409742204,2005-05-31,In Process,2,5,2005,Trucks and Buses,La Rochelle Gifts,France,EMEA,Medium
+10108,35,58.87,-0.8040940827306851,2003-03-03,Shipped,1,3,2003,Motorcycles,Cruz & Sons Co.,Philippines,Japan,Small
+10121,32,76.88,-0.5859446104012421,2003-05-07,Shipped,2,5,2003,Motorcycles,Reims Collectables,France,EMEA,Small
+10169,38,74.11,-0.3916398015680173,2003-11-04,Shipped,4,11,2003,Motorcycles,"Anna's Decorations, Ltd",Australia,APAC,Small
+10180,35,72.03,-0.5527127138508935,2003-11-11,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,France,EMEA,Small
+10190,42,76.19,-0.18217351981364482,2003-11-19,Shipped,4,11,2003,Motorcycles,Euro Shopping Channel,Spain,EMEA,Medium
+10211,21,63.72,-1.1983196671487044,2004-01-15,Shipped,1,1,2004,Motorcycles,Auto Canal Petit,France,EMEA,Small
+10224,37,80.34,-0.3062814730990651,2004-02-21,Shipped,1,2,2004,Motorcycles,Daedalus Designs Imports,France,EMEA,Small
+10252,47,65.8,-0.24077823407832574,2004-05-26,Shipped,2,5,2004,Motorcycles,Auto Canal Petit,France,EMEA,Medium
+10299,33,66.49,-0.731113803428458,2004-09-30,Shipped,3,9,2004,Motorcycles,"Toys of Finland, Co.",Finland,EMEA,Small
+10309,24,56.1,-1.193800696817995,2004-10-15,Shipped,4,10,2004,Motorcycles,Baane Mini Imports,Norway,EMEA,Small
+10330,42,81.03,-0.07122952357855138,2004-11-16,Shipped,4,11,2004,Motorcycles,Cruz & Sons Co.,Philippines,Japan,Medium
+10341,32,100.0,-0.12365612864714205,2004-11-24,Shipped,4,11,2004,Motorcycles,Salzburg Collectables,Austria,EMEA,Medium
+10355,41,70.65,-0.34772174087814134,2004-12-07,Shipped,4,12,2004,Motorcycles,Euro Shopping Channel,Spain,EMEA,Small
+10363,43,61.23,-0.49167386822450226,2005-01-06,Shipped,1,1,2005,Motorcycles,Suominen Souveniers,Finland,EMEA,Small
+10375,20,100.0,-0.8119804500348816,2005-02-03,Shipped,1,2,2005,Motorcycles,La Rochelle Gifts,France,EMEA,Small
+10403,27,79.65,-0.7549202630692232,2005-04-08,Shipped,2,4,2005,Motorcycles,"UK Collectables, Ltd.",UK,EMEA,Small
+10110,43,78.15,-0.094593910034791,2003-03-18,Shipped,1,3,2003,Classic Cars,"AV Stores, Co.",UK,EMEA,Medium
+10148,21,73.6,-1.0850834395864397,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10161,20,100.0,-0.7581675907827161,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Small
+10212,45,88.14,0.23606045890967642,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10227,47,88.14,0.3322686823272395,2004-03-02,Shipped,1,3,2004,Classic Cars,"Saveley & Henriot, Co.",France,EMEA,Medium
+10241,47,94.5,0.4954100604982062,2004-04-13,Shipped,2,4,2004,Classic Cars,Mini Caravy,France,EMEA,Medium
+10279,49,79.97,0.20998905640992038,2004-08-09,Shipped,3,8,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10288,35,80.87,-0.3838516727492709,2004-09-01,Shipped,3,9,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Small
+10302,49,100.0,0.9633308820847842,2003-10-06,Shipped,4,10,2003,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10311,28,93.6,-0.4982722198305739,2004-10-16,Shipped,4,10,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10332,39,86.72,-0.0827889186998585,2004-11-17,Shipped,4,11,2004,Classic Cars,"AV Stores, Co.",UK,EMEA,Medium
+10380,36,37.5,-1.1918359271089911,2005-02-16,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10420,39,100.0,0.21839390460954847,2005-05-29,In Process,2,5,2005,Classic Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10104,44,39.6,-0.9776760288275534,2003-01-31,Shipped,1,1,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10114,24,30.06,-1.5348847183010919,2003-04-01,Shipped,2,4,2003,Classic Cars,"La Corne D'abondance, Co.",France,EMEA,Small
+10141,21,42.43,-1.4423276919260943,2003-08-01,Shipped,3,8,2003,Classic Cars,Suominen Souveniers,Finland,EMEA,Small
+10151,30,40.31,-1.2686256765692314,2003-09-21,Shipped,3,9,2003,Classic Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10165,27,31.82,-1.4597322769316885,2003-10-22,Shipped,4,10,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10175,37,31.12,-1.3002038919478347,2003-11-06,Shipped,4,11,2003,Classic Cars,"Stylish Desk Decors, Co.",UK,EMEA,Small
+10184,42,31.82,-1.1992365596795729,2003-11-14,Shipped,4,11,2003,Classic Cars,"Iberia Gift Imports, Corp.",Spain,EMEA,Small
+10246,49,36.07,-0.9640154216563395,2004-05-05,Shipped,2,5,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10259,31,33.24,-1.366241984944914,2004-06-15,Shipped,2,6,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Small
+10314,39,37.13,-1.13831232561954,2004-10-22,Shipped,4,10,2004,Classic Cars,Heintze Collectables,Denmark,EMEA,Small
+10358,36,82.94,-0.2990445713375669,2004-12-10,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10383,40,100.0,1.3948925486675163,2005-02-22,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10394,46,38.9,-0.9520248687377788,2005-03-15,Shipped,1,3,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10412,30,36.07,-1.3380475396207065,2005-05-03,Shipped,2,5,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10425,31,33.24,-1.366241984944914,2005-05-31,In Process,2,5,2005,Classic Cars,La Rochelle Gifts,France,EMEA,Small
+10106,49,74.68,0.06852017966799522,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10119,41,59.6,-0.5949825510626605,2003-04-28,Shipped,2,4,2003,Planes,Salzburg Collectables,Austria,EMEA,Small
+10155,23,72.62,-1.0170478307185395,2003-10-06,Shipped,4,10,2003,Planes,"Toys of Finland, Co.",Finland,EMEA,Small
+10167,21,69.88,-1.1277189422718268,2003-10-23,Cancelled,4,10,2003,Planes,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10178,34,80.84,-0.428544725935476,2003-11-08,Shipped,4,11,2003,Planes,Alpha Cognac,France,EMEA,Small
+10186,22,69.2,-1.0977452888222432,2003-11-14,Shipped,4,11,2003,Planes,"Double Decker Gift Stores, Ltd",UK,EMEA,Small
+10198,48,67.82,-0.1519488124567997,2003-11-27,Shipped,4,11,2003,Planes,Cruz & Sons Co.,Philippines,Japan,Medium
+10262,24,67.14,-1.0491936462352995,2004-06-24,Cancelled,2,6,2004,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10284,30,73.99,-0.717180311575438,2004-08-21,Shipped,3,8,2004,Planes,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10296,21,71.25,-1.112017157680703,2004-09-15,Shipped,3,9,2004,Planes,"Bavarian Collectables Imports, Co.",Germany,EMEA,Small
+10316,34,63.71,-0.7464117186905088,2004-11-01,Shipped,4,11,2004,Planes,giftsbymail.co.uk,UK,EMEA,Small
+10328,48,58.92,-0.3851014845919429,2004-11-12,Shipped,4,11,2004,Planes,Rovelli Gifts,Italy,EMEA,Small
+10339,55,100.0,1.4630318537145024,2004-11-23,Shipped,4,11,2004,Planes,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10351,25,74.68,-0.9096731661214701,2004-12-03,Shipped,4,12,2004,Planes,"Stylish Desk Decors, Co.",UK,EMEA,Small
+10373,38,70.44,-0.46775279701737843,2005-01-31,Shipped,1,1,2005,Planes,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10386,39,55.96,-0.7375156780636294,2005-03-01,Resolved,1,3,2005,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10398,28,57.55,-1.049171815460755,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Small
+10415,21,67.82,-1.1513289249416918,2005-05-09,Disputed,2,5,2005,Planes,"Australian Collectables, Ltd",Australia,APAC,Small
+10110,46,100.0,1.3144898060201629,2003-03-18,Shipped,1,3,2003,Classic Cars,"AV Stores, Co.",UK,EMEA,Medium
+10148,34,100.0,0.4684599693230344,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10161,25,100.0,-0.42243756675665517,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Small
+10173,23,100.0,-0.43974937097043487,2003-11-05,Shipped,4,11,2003,Classic Cars,Rovelli Gifts,Italy,EMEA,Small
+10213,27,100.0,-0.4056824472937599,2004-01-22,Shipped,1,1,2004,Classic Cars,"Double Decker Gift Stores, Ltd",UK,EMEA,Small
+10227,33,100.0,0.44028189707973514,2004-03-02,Shipped,1,3,2004,Classic Cars,"Saveley & Henriot, Co.",France,EMEA,Medium
+10241,28,98.65,-0.4211004318158053,2004-04-13,Shipped,2,4,2004,Classic Cars,Mini Caravy,France,EMEA,Small
+10279,48,100.0,1.1172924195597935,2004-08-09,Shipped,3,8,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10288,48,100.0,1.640183131449395,2004-09-01,Shipped,3,9,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Medium
+10302,45,100.0,1.099822342230566,2003-10-06,Shipped,4,10,2003,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10311,43,100.0,0.5794094232517638,2004-10-16,Shipped,4,10,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10332,44,42.26,-0.9137991825103785,2004-11-17,Shipped,4,11,2004,Classic Cars,"AV Stores, Co.",UK,EMEA,Small
+10380,44,36.29,-1.057161878944038,2005-02-16,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10420,55,96.3,0.9620428663866596,2005-05-29,In Process,2,5,2005,Classic Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10122,39,30.96,-1.2696408075855499,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Small
+10181,37,42.67,-1.0669693544081498,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Small
+10203,21,37.0,-1.5045617724587965,2003-12-02,Shipped,4,12,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10212,34,43.42,-1.122916171872039,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10225,42,36.63,-1.0889802328426308,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Small
+10239,20,44.56,-1.4422349111342803,2004-04-12,Shipped,2,4,2004,Classic Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10253,40,42.67,-0.9971054181721487,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Small
+10266,34,40.4,-1.1789557701277424,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Small
+10287,36,39.65,-1.1495933783654047,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Small
+10301,48,34.36,-1.028498071967124,2003-10-05,Shipped,4,10,2003,Classic Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10310,33,41.91,-1.173809165028879,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Small
+10342,39,40.4,-1.0687103586780728,2004-11-24,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Small
+10355,36,38.52,-1.1717952760771502,2004-12-07,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10378,41,100.0,1.2678647292867706,2005-02-10,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10405,47,44.56,-0.7856088743851387,2005-04-14,Shipped,2,4,2005,Classic Cars,Mini Caravy,France,EMEA,Small
+10419,15,42.67,-1.579304886805491,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Small
+10105,44,72.58,-0.18569918990257983,2003-02-11,Shipped,1,2,2003,Vintage Cars,Danish Wholesale Imports,Denmark,EMEA,Medium
+10119,35,87.62,-0.25491366059588244,2003-04-28,Shipped,2,4,2003,Vintage Cars,Salzburg Collectables,Austria,EMEA,Medium
+10129,41,94.71,0.1906579055507753,2003-06-12,Shipped,2,6,2003,Vintage Cars,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10167,20,79.66,-1.0591048178784976,2003-10-23,Cancelled,4,10,2003,Vintage Cars,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10177,45,72.58,-0.14608724949160448,2003-11-07,Shipped,4,11,2003,Vintage Cars,CAF Imports,Spain,EMEA,Medium
+10197,47,83.2,0.20555195148375294,2003-11-26,Shipped,4,11,2003,Vintage Cars,Enaco Distributors,Spain,EMEA,Medium
+10208,20,89.4,-0.9527889458468359,2004-01-02,Shipped,1,1,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Small
+10273,27,100.0,-0.40258793500207857,2004-07-21,Shipped,3,7,2004,Vintage Cars,Petit Auto,Belgium,EMEA,Small
+10306,31,84.08,-0.506087637117501,2004-10-14,Shipped,4,10,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10315,24,86.74,-0.7924637375921083,2004-10-29,Shipped,4,10,2004,Vintage Cars,La Rochelle Gifts,France,EMEA,Small
+10326,41,85.85,-0.007598273475002102,2004-11-09,Shipped,4,11,2004,Vintage Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Medium
+10350,30,100.0,-0.2798553205129611,2004-12-02,Shipped,4,12,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10373,33,57.32,-0.8962690705511538,2005-01-31,Shipped,1,1,2005,Vintage Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10110,27,73.62,-0.8437769731589299,2003-03-18,Shipped,1,3,2003,Classic Cars,"AV Stores, Co.",UK,EMEA,Small
+10148,31,73.62,-0.6830588109624016,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10161,20,77.05,-1.0875939786590558,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Small
+10212,27,79.62,-0.7553623362537494,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10227,40,79.62,-0.19045829875327833,2004-03-02,Shipped,1,3,2004,Classic Cars,"Saveley & Henriot, Co.",France,EMEA,Medium
+10241,26,81.33,-0.7745515870783551,2004-04-13,Shipped,2,4,2004,Classic Cars,Mini Caravy,France,EMEA,Small
+10279,33,71.06,-0.6488063257020982,2004-08-09,Shipped,3,8,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10288,34,68.49,-0.6577132817162499,2004-09-01,Shipped,3,9,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Small
+10302,48,74.48,0.02252273770275669,2003-10-06,Shipped,4,10,2003,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10311,25,83.04,-0.7956073691265149,2004-10-16,Shipped,4,10,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10332,45,34.19,-1.0889311135999058,2004-11-17,Shipped,4,11,2004,Classic Cars,"AV Stores, Co.",UK,EMEA,Small
+10380,44,79.06,-0.030089428949461962,2005-02-16,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10420,35,96.74,-0.0807040797308597,2005-05-29,In Process,2,5,2005,Classic Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10108,30,63.07,-0.8959743550948033,2003-03-03,Shipped,1,3,2003,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Small
+10122,34,50.21,-0.9969198565885206,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Small
+10169,34,50.21,-0.9969198565885206,2003-11-04,Shipped,4,11,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10181,23,65.52,-1.106171967796416,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Small
+10191,48,60.01,-0.35654683148775107,2003-11-20,Shipped,4,11,2003,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Small
+10203,34,64.9,-0.7243298902387582,2003-12-02,Shipped,4,12,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10211,48,48.98,-0.6454989633586081,2004-01-15,Shipped,1,1,2004,Classic Cars,Auto Canal Petit,France,EMEA,Small
+10225,24,50.21,-1.2709506540582194,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Small
+10238,47,62.45,-0.32670962037907064,2004-04-09,Shipped,2,4,2004,Classic Cars,Danish Wholesale Imports,Denmark,EMEA,Small
+10253,24,52.66,-1.2388594154778205,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Small
+10266,47,62.45,-0.32670962037907064,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Small
+10287,20,67.97,-1.186705695091036,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Small
+10300,31,58.78,-0.9341345489985701,2003-10-04,Shipped,4,10,2003,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Small
+10310,38,56.94,-0.7477324805504505,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Small
+10320,26,61.23,-1.0597706565021046,2004-11-03,Shipped,4,11,2004,Classic Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Small
+10342,48,62.45,-0.2926263236214872,2004-11-24,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Small
+10355,44,62.45,-0.4289595106518212,2004-12-07,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10363,21,100.0,-0.5927121505100335,2005-01-06,Shipped,1,1,2005,Classic Cars,Suominen Souveniers,Finland,EMEA,Small
+10378,46,41.54,-0.8857466372207101,2005-02-10,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10419,55,52.66,-0.34791276015540556,2005-05-17,Shipped,2,5,2005,Classic Cars,Salzburg Collectables,Austria,EMEA,Small
+10106,31,52.6,-1.0386930436794004,2003-02-17,Shipped,1,2,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10119,20,72.98,-1.1320196048570912,2003-04-28,Shipped,2,4,2003,Vintage Cars,Salzburg Collectables,Austria,EMEA,Small
+10155,34,55.89,-0.8915208770877274,2003-10-06,Shipped,4,10,2003,Vintage Cars,"Toys of Finland, Co.",Finland,EMEA,Small
+10167,32,63.12,-0.8262577765869775,2003-10-23,Cancelled,4,10,2003,Vintage Cars,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10178,27,73.64,-0.8434822577025793,2003-11-08,Shipped,4,11,2003,Vintage Cars,Alpha Cognac,France,EMEA,Small
+10186,21,69.04,-1.1373463138459465,2003-11-14,Shipped,4,11,2003,Vintage Cars,"Double Decker Gift Stores, Ltd",UK,EMEA,Small
+10198,27,71.67,-0.8725117301531137,2003-11-27,Shipped,4,11,2003,Vintage Cars,Cruz & Sons Co.,Philippines,Japan,Small
+10262,46,70.35,-0.1624603303999713,2004-06-24,Cancelled,2,6,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10284,39,71.67,-0.40312824667205455,2004-08-21,Shipped,3,8,2004,Vintage Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10296,31,53.92,-1.016360161320388,2004-09-15,Shipped,3,9,2004,Vintage Cars,"Bavarian Collectables Imports, Co.",Germany,EMEA,Small
+10316,47,76.93,0.04471917772086597,2004-11-01,Shipped,4,11,2004,Vintage Cars,giftsbymail.co.uk,UK,EMEA,Medium
+10328,20,72.98,-1.1320196048570912,2004-11-12,Shipped,4,11,2004,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10339,29,99.69,-0.3507998800889142,2004-11-23,Shipped,4,11,2004,Vintage Cars,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10351,38,68.38,-0.5104756228009434,2004-12-03,Shipped,4,12,2004,Vintage Cars,"Stylish Desk Decors, Co.",UK,EMEA,Small
+10361,34,100.0,0.18455074637195445,2004-12-17,Shipped,4,12,2004,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10373,46,66.0,-0.2716687800587777,2005-01-31,Shipped,1,1,2005,Vintage Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10386,35,63.76,-0.7106856561484525,2005-03-01,Resolved,1,3,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10398,34,71.67,-0.5987046981224957,2005-03-30,Shipped,1,3,2005,Vintage Cars,Reims Collectables,France,EMEA,Small
+10415,18,69.7,-1.2439023243975975,2005-05-09,Disputed,2,5,2005,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10110,37,100.0,0.10404976523915109,2003-03-18,Shipped,1,3,2003,Classic Cars,"AV Stores, Co.",UK,EMEA,Medium
+10148,27,100.0,-0.03507776093287764,2003-09-11,Shipped,3,9,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10161,30,100.0,-0.210433457461486,2003-10-17,Shipped,4,10,2003,Classic Cars,Heintze Collectables,Denmark,EMEA,Medium
+10212,46,87.81,0.2758797916788245,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10241,27,86.73,-0.6505909915211102,2004-04-13,Shipped,2,4,2004,Classic Cars,Mini Caravy,France,EMEA,Small
+10279,48,100.0,1.4376808667747147,2004-08-09,Shipped,3,8,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10288,41,100.0,0.731051440931421,2004-09-01,Shipped,3,9,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Medium
+10301,22,96.37,-0.7715171094166712,2003-10-05,Shipped,4,10,2003,Classic Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10311,46,92.09,0.3833308639867996,2004-10-16,Shipped,4,10,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10332,31,37.18,-1.2995817148733169,2004-11-17,Shipped,4,11,2004,Classic Cars,"AV Stores, Co.",UK,EMEA,Small
+10380,34,100.0,0.22889996485908382,2005-02-16,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10420,26,100.0,-0.5002588203141226,2005-05-29,In Process,2,5,2005,Classic Cars,Souveniers And Things Co.,Australia,APAC,Small
+10105,50,79.67,0.2454476919638066,2003-02-11,Shipped,1,2,2003,Vintage Cars,Danish Wholesale Imports,Denmark,EMEA,Medium
+10119,35,90.57,-0.1985629738029201,2003-04-28,Shipped,2,4,2003,Vintage Cars,Salzburg Collectables,Austria,EMEA,Medium
+10129,50,77.99,0.19960306542037962,2003-06-12,Shipped,2,6,2003,Vintage Cars,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10155,37,67.93,-0.5568823917888911,2003-10-06,Shipped,4,10,2003,Vintage Cars,"Toys of Finland, Co.",Finland,EMEA,Small
+10167,29,83.86,-0.601346221842379,2003-10-23,Cancelled,4,10,2003,Vintage Cars,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10178,21,72.12,-1.1020459514075076,2003-11-08,Shipped,4,11,2003,Vintage Cars,Alpha Cognac,France,EMEA,Small
+10186,36,85.54,-0.24796055890346255,2003-11-14,Shipped,4,11,2003,Vintage Cars,"Double Decker Gift Stores, Ltd",UK,EMEA,Medium
+10197,22,86.38,-0.8914663001513663,2003-11-26,Shipped,4,11,2003,Vintage Cars,Enaco Distributors,Spain,EMEA,Small
+10262,49,87.21,0.40360619584499363,2004-06-24,Cancelled,2,6,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10273,48,83.02,0.2462445152346805,2004-07-21,Shipped,3,7,2004,Vintage Cars,Petit Auto,Belgium,EMEA,Medium
+10296,22,77.15,-1.0022902271264649,2004-09-15,Shipped,3,9,2004,Vintage Cars,"Bavarian Collectables Imports, Co.",Germany,EMEA,Small
+10316,25,92.25,-0.6699439731547997,2004-11-01,Shipped,4,11,2004,Vintage Cars,giftsbymail.co.uk,UK,EMEA,Small
+10326,20,92.25,-0.921680092120939,2004-11-09,Shipped,4,11,2004,Vintage Cars,"Volvo Model Replicas, Co",Sweden,EMEA,Small
+10339,42,59.36,-0.5679560521765831,2004-11-23,Shipped,4,11,2004,Vintage Cars,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10350,25,60.34,-1.1053314829764531,2004-12-02,Shipped,4,12,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10373,23,100.0,-0.6218889806887431,2005-01-31,Shipped,1,1,2005,Vintage Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10108,40,100.0,1.0451635404648016,2003-03-03,Shipped,1,3,2003,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Medium
+10122,43,100.0,1.0703617119827782,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Medium
+10170,34,100.0,0.15597426249321822,2003-11-04,Shipped,4,11,2003,Classic Cars,Mini Auto Werke,Austria,EMEA,Medium
+10181,25,100.0,0.17900027194401807,2003-11-12,Shipped,4,11,2003,Classic Cars,Herkku Gifts,Norway,EMEA,Medium
+10203,47,100.0,1.889807122978355,2003-12-02,Shipped,4,12,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10212,49,100.0,1.8642924052294836,2004-01-16,Shipped,1,1,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10225,40,100.0,0.5546260364501328,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10239,29,100.0,0.5162202463327404,2004-04-12,Shipped,2,4,2004,Classic Cars,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10253,39,100.0,0.880996115890244,2004-06-01,Cancelled,2,6,2004,Classic Cars,"UK Collectables, Ltd.",UK,EMEA,Medium
+10266,24,100.0,-0.32838513232536026,2004-07-06,Shipped,3,7,2004,Classic Cars,L'ordine Souveniers,Italy,EMEA,Small
+10287,36,100.0,0.4167210336525953,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10301,50,100.0,2.286625111873532,2003-10-05,Shipped,4,10,2003,Classic Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Large
+10310,45,100.0,1.0718243738772586,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10342,42,100.0,0.807611967258944,2004-11-24,Shipped,4,11,2004,Classic Cars,"Australian Collectors, Co.",Australia,APAC,Medium
+10355,32,100.0,0.9654375518283278,2004-12-07,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10363,31,94.58,-0.32843970926172145,2005-01-06,Shipped,1,1,2005,Classic Cars,Suominen Souveniers,Finland,EMEA,Small
+10378,33,53.27,-0.9692111459979278,2005-02-10,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10106,50,64.83,-0.1595131758364652,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10119,28,70.29,-0.8544849680730018,2003-04-28,Shipped,2,4,2003,Planes,Salzburg Collectables,Austria,EMEA,Small
+10155,44,77.11,-0.07691644034739081,2003-10-06,Shipped,4,10,2003,Planes,"Toys of Finland, Co.",Finland,EMEA,Medium
+10178,30,72.33,-0.7443596258833267,2003-11-08,Shipped,4,11,2003,Planes,Alpha Cognac,France,EMEA,Small
+10198,43,66.19,-0.3752721783532865,2003-11-27,Shipped,4,11,2003,Planes,Cruz & Sons Co.,Philippines,Japan,Small
+10210,29,69.6,-0.827043684470579,2004-01-12,Shipped,1,1,2004,Planes,Osaka Souveniers Co.,Japan,Japan,Small
+10262,48,61.42,-0.3196091609584757,2004-06-24,Cancelled,2,6,2004,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10275,41,81.89,-0.09620938735108321,2004-07-23,Shipped,3,7,2004,Planes,La Rochelle Gifts,France,EMEA,Medium
+10284,21,55.96,-1.2872582426429524,2004-08-21,Shipped,3,8,2004,Planes,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10296,32,71.65,-0.6772845710953841,2004-09-15,Shipped,3,9,2004,Planes,"Bavarian Collectables Imports, Co.",Germany,EMEA,Small
+10316,30,77.79,-0.6549626041236443,2004-11-01,Shipped,4,11,2004,Planes,giftsbymail.co.uk,UK,EMEA,Small
+10328,35,76.43,-0.46866423185461065,2004-11-12,Shipped,4,11,2004,Planes,Rovelli Gifts,Italy,EMEA,Small
+10339,45,96.92,0.4516939344728667,2004-11-23,Shipped,4,11,2004,Planes,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10351,34,59.37,-0.8269454459851289,2004-12-03,Shipped,4,12,2004,Planes,"Stylish Desk Decors, Co.",UK,EMEA,Small
+10361,26,100.0,0.09671462499220275,2004-12-17,Shipped,4,12,2004,Planes,Souveniers And Things Co.,Australia,APAC,Medium
+10373,39,73.0,-0.3748191897814884,2005-01-31,Shipped,1,1,2005,Planes,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10386,41,73.32,-0.28797636864351106,2005-03-01,Resolved,1,3,2005,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10398,41,68.24,-0.4016492116966654,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Small
+10416,18,75.06,-1.1912464961962899,2005-05-10,Shipped,2,5,2005,Planes,L'ordine Souveniers,Italy,EMEA,Small
+10110,48,34.47,-1.0256164097272515,2003-03-18,Shipped,1,3,2003,Vintage Cars,"AV Stores, Co.",UK,EMEA,Small
+10173,35,33.23,-1.2938675096362968,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10193,22,41.03,-1.4359803942272844,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10214,44,34.88,-1.0910214102625406,2004-01-26,Shipped,1,1,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10227,27,43.9,-1.2817241412959248,2004-03-02,Shipped,1,3,2004,Vintage Cars,"Saveley & Henriot, Co.",France,EMEA,Small
+10280,33,41.85,-1.1748897883688316,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Small
+10288,33,40.62,-1.1970425668378517,2004-09-01,Shipped,3,9,2004,Vintage Cars,Handji Gifts& Co,Singapore,APAC,Small
+10303,24,40.21,-1.4019353013251536,2004-10-06,Shipped,4,10,2004,Vintage Cars,"Iberia Gift Imports, Corp.",Spain,EMEA,Small
+10332,41,77.24,-0.20026031652375392,2004-11-17,Shipped,4,11,2004,Vintage Cars,"AV Stores, Co.",UK,EMEA,Medium
+10380,43,95.03,0.3015473248495073,2005-02-16,Shipped,1,2,2005,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10408,15,36.93,-1.6262956290125035,2005-04-22,Shipped,2,4,2005,Vintage Cars,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10420,15,43.49,-1.5725919236330608,2005-05-29,In Process,2,5,2005,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Small
+10104,26,100.0,-0.33409387986874417,2003-01-31,Shipped,1,1,2003,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10141,40,94.62,0.13700331941405738,2003-08-01,Shipped,3,8,2003,Classic Cars,Suominen Souveniers,Finland,EMEA,Medium
+10152,23,100.0,-0.39932969190131345,2003-09-25,Shipped,3,9,2003,Classic Cars,"Australian Gift Network, Co",Australia,APAC,Small
+10165,24,99.36,-0.6271611127412374,2003-10-22,Shipped,4,10,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10176,29,100.0,-0.3373466652758731,2003-11-06,Shipped,4,11,2003,Classic Cars,L'ordine Souveniers,Italy,EMEA,Small
+10184,49,100.0,1.2345018480891552,2003-11-14,Shipped,4,11,2003,Classic Cars,"Iberia Gift Imports, Corp.",Spain,EMEA,Medium
+10220,37,100.0,0.8180907390402987,2004-02-12,Shipped,1,2,2004,Classic Cars,"Clover Collections, Co.",Ireland,EMEA,Medium
+10230,45,100.0,0.6567667728501607,2004-03-15,Shipped,1,3,2004,Classic Cars,"Blauer See Auto, Co.",Germany,EMEA,Medium
+10246,46,100.0,1.5158350396439855,2004-05-05,Shipped,2,5,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10314,38,100.0,0.25459478649794764,2004-10-22,Shipped,4,10,2004,Classic Cars,Heintze Collectables,Denmark,EMEA,Medium
+10325,44,100.0,0.9780120779659535,2004-11-05,Shipped,4,11,2004,Classic Cars,Baane Mini Imports,Norway,EMEA,Medium
+10336,31,100.0,0.5921149340366564,2004-11-20,Shipped,4,11,2004,Classic Cars,"La Corne D'abondance, Co.",France,EMEA,Medium
+10359,22,100.0,-0.5079650837283272,2004-12-15,Shipped,4,12,2004,Classic Cars,Reims Collectables,France,EMEA,Small
+10383,21,93.91,-0.852307348312189,2005-02-22,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10394,37,100.0,0.9136058353660745,2005-03-15,Shipped,1,3,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10412,31,100.0,0.3926416893300239,2005-05-03,Shipped,2,5,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10103,25,100.0,-0.3606291863275706,2003-01-29,Shipped,1,1,2003,Vintage Cars,Baane Mini Imports,Norway,EMEA,Small
+10126,34,100.0,0.023112168615457854,2003-05-28,Shipped,2,5,2003,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10139,29,100.0,-0.14061318277457377,2003-07-16,Shipped,3,7,2003,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10173,22,100.0,-0.5253751264275572,2003-11-05,Shipped,4,11,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10193,20,100.0,-0.6848161883132329,2003-11-21,Shipped,4,11,2003,Vintage Cars,"Australian Collectables, Ltd",Australia,APAC,Small
+10244,40,86.68,-0.03633303046918586,2004-04-29,Shipped,2,4,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10269,48,97.39,0.6226943914798497,2004-07-16,Shipped,3,7,2004,Vintage Cars,Salzburg Collectables,Austria,EMEA,Medium
+10280,21,78.89,-1.0244539209827574,2004-08-17,Shipped,3,8,2004,Vintage Cars,Amica Models & Co.,Italy,EMEA,Small
+10304,33,100.0,-0.10435226625617743,2004-10-11,Shipped,4,10,2004,Vintage Cars,Auto Assoc. & Cie.,France,EMEA,Medium
+10348,39,50.31,-0.8577759573355835,2004-11-01,Shipped,4,11,2004,Vintage Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10358,41,100.0,1.8082582646674163,2004-12-10,Shipped,4,12,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10423,28,78.89,-0.7230637053151777,2005-05-30,In Process,2,5,2005,Vintage Cars,Petit Auto,Belgium,EMEA,Small
+10106,26,63.76,-1.0238699477636923,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Small
+10120,29,85.49,-0.5755477040244291,2003-04-29,Shipped,2,4,2003,Planes,"Australian Collectors, Co.",Australia,APAC,Small
+10133,46,77.52,0.01754532110661325,2003-06-27,Shipped,2,6,2003,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10210,40,71.0,-0.378639575326774,2004-01-12,Shipped,1,1,2004,Planes,Osaka Souveniers Co.,Japan,Japan,Small
+10223,23,74.62,-0.9919424399923771,2004-02-20,Shipped,1,2,2004,Planes,"Australian Collectors, Co.",Australia,APAC,Small
+10275,27,62.31,-1.0104385637251954,2004-07-23,Shipped,3,7,2004,Planes,La Rochelle Gifts,France,EMEA,Small
+10284,21,71.0,-1.1148824468396672,2004-08-21,Shipped,3,8,2004,Planes,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10297,23,72.45,-1.0191817889302632,2004-09-16,Shipped,3,9,2004,Planes,"Clover Collections, Co.",Ireland,EMEA,Small
+10328,43,60.86,-0.5003570587995727,2004-11-12,Shipped,4,11,2004,Planes,Rovelli Gifts,Italy,EMEA,Small
+10340,40,84.77,-0.07802980984915975,2004-11-24,Shipped,4,11,2004,Planes,Enaco Distributors,Spain,EMEA,Medium
+10361,25,62.46,-1.0764057067050052,2004-12-17,Shipped,4,12,2004,Planes,Souveniers And Things Co.,Australia,APAC,Small
+10386,50,63.34,-0.20017299342557607,2005-03-01,Resolved,1,3,2005,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10398,45,78.25,-0.006834196365944936,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Medium
+10416,48,74.62,0.02619030782623099,2005-05-10,Shipped,2,5,2005,Planes,L'ordine Souveniers,Italy,EMEA,Medium
+10108,31,68.71,-0.7661303657978183,2003-03-03,Shipped,1,3,2003,Classic Cars,Cruz & Sons Co.,Philippines,Japan,Small
+10122,29,71.14,-0.802669624691657,2003-05-08,Shipped,2,5,2003,Classic Cars,Marseille Mini Autos,France,EMEA,Small
+10169,24,94.58,-0.6897717741348319,2003-11-04,Shipped,4,11,2003,Classic Cars,"Anna's Decorations, Ltd",Australia,APAC,Small
+10180,28,71.14,-0.8414956572190307,2003-11-11,Shipped,4,11,2003,Classic Cars,Daedalus Designs Imports,France,EMEA,Small
+10191,44,66.29,-0.3367463189758994,2003-11-20,Shipped,4,11,2003,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Small
+10211,22,92.16,-0.8220662678744356,2004-01-15,Shipped,1,1,2004,Classic Cars,Auto Canal Petit,France,EMEA,Small
+10225,46,70.33,-0.16296243821449458,2004-02-22,Shipped,1,2,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10238,22,93.77,-0.8027351170152904,2004-04-09,Shipped,2,4,2004,Classic Cars,Danish Wholesale Imports,Denmark,EMEA,Small
+10252,38,87.31,-0.11788188878012448,2004-05-26,Shipped,2,5,2004,Classic Cars,Auto Canal Petit,France,EMEA,Medium
+10287,40,88.12,-0.0048967151251214334,2004-08-30,Shipped,3,8,2004,Classic Cars,"Vida Sport, Ltd",Switzerland,EMEA,Medium
+10299,32,80.84,-0.5167847166443007,2004-09-30,Shipped,3,9,2004,Classic Cars,"Toys of Finland, Co.",Finland,EMEA,Small
+10310,49,97.01,0.6656846442515846,2004-10-16,Shipped,4,10,2004,Classic Cars,"Toms Spezialitten, Ltd",Germany,EMEA,Medium
+10343,30,100.0,-0.2374490409602912,2004-11-24,Shipped,4,11,2004,Classic Cars,Reims Collectables,France,EMEA,Medium
+10355,28,95.39,-0.4709182593263292,2004-12-07,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Small
+10363,43,100.0,0.8844944975109983,2005-01-06,Shipped,1,1,2005,Classic Cars,Suominen Souveniers,Finland,EMEA,Medium
+10378,41,100.0,0.7424634783245526,2005-02-10,Shipped,1,2,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10103,31,100.0,-0.1688949511969594,2003-01-29,Shipped,1,1,2003,Trucks and Buses,Baane Mini Imports,Norway,EMEA,Medium
+10114,32,100.0,0.07299548844961538,2003-04-01,Shipped,2,4,2003,Trucks and Buses,"La Corne D'abondance, Co.",France,EMEA,Medium
+10126,43,96.31,0.3315864706227242,2003-05-28,Shipped,2,5,2003,Trucks and Buses,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10151,27,100.0,-0.2539039872731996,2003-09-21,Shipped,3,9,2003,Trucks and Buses,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10164,24,100.0,-0.49054412564182487,2003-10-21,Resolved,4,10,2003,Trucks and Buses,Mini Auto Werke,Austria,EMEA,Small
+10175,22,100.0,-0.5987374442843127,2003-11-06,Shipped,4,11,2003,Trucks and Buses,"Stylish Desk Decors, Co.",UK,EMEA,Small
+10184,46,100.0,0.5859313671469298,2003-11-14,Shipped,4,11,2003,Trucks and Buses,"Iberia Gift Imports, Corp.",Spain,EMEA,Medium
+10194,37,97.27,0.03559391396126941,2003-11-25,Shipped,4,11,2003,Trucks and Buses,"Saveley & Henriot, Co.",France,EMEA,Medium
+10217,21,100.0,-0.7034269236124098,2004-02-04,Shipped,1,2,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Small
+10259,45,86.68,0.20020341172035303,2004-06-15,Shipped,2,6,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Medium
+10270,32,85.72,-0.43155737282261547,2004-07-19,Shipped,3,7,2004,Trucks and Buses,Souveniers And Things Co.,Australia,APAC,Small
+10291,26,83.79,-0.7396441785817172,2004-09-08,Shipped,3,9,2004,Trucks and Buses,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10348,42,100.0,1.5571716112439753,2004-11-01,Shipped,4,11,2004,Trucks and Buses,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10358,41,100.0,0.48804217408944117,2004-12-10,Shipped,4,12,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10425,41,86.68,0.010974257968722064,2005-05-31,In Process,2,5,2005,Trucks and Buses,La Rochelle Gifts,France,EMEA,Medium
+10120,22,100.0,-0.5852896871649073,2003-04-29,Shipped,2,4,2003,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Small
+10133,23,100.0,-0.48669645162835856,2003-06-27,Shipped,2,6,2003,Motorcycles,Euro Shopping Channel,Spain,EMEA,Small
+10188,44,98.89,0.4461052561894776,2003-11-18,Shipped,4,11,2003,Motorcycles,Herkku Gifts,Norway,EMEA,Medium
+10210,46,79.91,0.07754720494214143,2004-01-12,Shipped,1,1,2004,Motorcycles,Osaka Souveniers Co.,Japan,Japan,Medium
+10223,21,100.0,-0.5776980353170613,2004-02-20,Shipped,1,2,2004,Motorcycles,"Australian Collectors, Co.",Australia,APAC,Small
+10275,23,81.91,-0.900433290795515,2004-07-23,Shipped,3,7,2004,Motorcycles,La Rochelle Gifts,France,EMEA,Small
+10297,26,100.0,-0.3694269884689996,2004-09-16,Shipped,3,9,2004,Motorcycles,"Clover Collections, Co.",Ireland,EMEA,Small
+10340,55,100.0,1.6095163509080244,2004-11-24,Shipped,4,11,2004,Motorcycles,Enaco Distributors,Spain,EMEA,Medium
+10363,50,100.0,1.6606276518103091,2005-01-06,Shipped,1,1,2005,Motorcycles,Suominen Souveniers,Finland,EMEA,Medium
+10375,37,100.0,1.538795556771152,2005-02-03,Shipped,1,2,2005,Motorcycles,La Rochelle Gifts,France,EMEA,Medium
+10387,44,94.9,0.3502899867137155,2005-03-02,Shipped,1,3,2005,Motorcycles,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10416,45,100.0,0.6717481418813167,2005-05-10,Shipped,2,5,2005,Motorcycles,L'ordine Souveniers,Italy,EMEA,Medium
+10108,27,43.45,-1.288355239063813,2003-03-03,Shipped,1,3,2003,Motorcycles,Cruz & Sons Co.,Philippines,Japan,Small
+10122,31,44.66,-1.1730287148389138,2003-05-08,Shipped,2,5,2003,Motorcycles,Marseille Mini Autos,France,EMEA,Small
+10169,26,39.83,-1.3634367304159472,2003-11-04,Shipped,4,11,2003,Motorcycles,"Anna's Decorations, Ltd",Australia,APAC,Small
+10180,34,45.46,-1.085061608811895,2003-11-11,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,France,EMEA,Small
+10190,46,32.99,-1.1003977279293986,2003-11-19,Shipped,4,11,2003,Motorcycles,Euro Shopping Channel,Spain,EMEA,Small
+10211,41,42.24,-0.9834393533072986,2004-01-15,Shipped,1,1,2004,Motorcycles,Auto Canal Petit,France,EMEA,Small
+10224,43,39.43,-1.003278069674603,2004-02-21,Shipped,1,2,2004,Motorcycles,Daedalus Designs Imports,France,EMEA,Small
+10252,36,48.28,-0.9800337524783583,2004-05-26,Shipped,2,5,2004,Motorcycles,Auto Canal Petit,France,EMEA,Small
+10299,24,42.24,-1.375345417929966,2004-09-30,Shipped,3,9,2004,Motorcycles,"Toys of Finland, Co.",Finland,EMEA,Small
+10310,36,43.05,-1.0827912082592683,2004-10-16,Shipped,4,10,2004,Motorcycles,"Toms Spezialitten, Ltd",Germany,EMEA,Small
+10343,29,100.0,0.09790440220487731,2004-11-24,Shipped,4,11,2004,Motorcycles,Reims Collectables,France,EMEA,Medium
+10355,38,39.83,-1.1025808053838475,2004-12-07,Shipped,4,12,2004,Motorcycles,Euro Shopping Channel,Spain,EMEA,Small
+10364,48,48.28,-0.6638368139759789,2005-01-06,Shipped,1,1,2005,Motorcycles,Marseille Mini Autos,France,EMEA,Small
+10378,40,82.46,-0.1284588990469295,2005-02-10,Shipped,1,2,2005,Motorcycles,Euro Shopping Channel,Spain,EMEA,Medium
+10403,30,40.23,-1.2699355230419005,2005-04-08,Shipped,2,4,2005,Motorcycles,"UK Collectables, Ltd.",UK,EMEA,Small
+10104,35,47.62,-1.018990769652999,2003-01-31,Shipped,1,1,2003,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10114,28,55.73,-1.0769842222304342,2003-04-01,Shipped,2,4,2003,Trucks and Buses,"La Corne D'abondance, Co.",France,EMEA,Small
+10141,24,45.99,-1.3262261752048656,2003-08-01,Shipped,3,8,2003,Trucks and Buses,Suominen Souveniers,Finland,EMEA,Small
+10151,41,63.85,-0.4998822394532301,2003-09-21,Shipped,3,9,2003,Trucks and Buses,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10165,48,45.99,-0.7238277824242348,2003-10-22,Shipped,4,10,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10175,50,63.31,-0.2009916474709944,2003-11-06,Shipped,4,11,2003,Trucks and Buses,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10184,33,62.77,-0.7981124505054951,2003-11-14,Shipped,4,11,2003,Trucks and Buses,"Iberia Gift Imports, Corp.",Spain,EMEA,Small
+10246,35,48.7,-0.9983606877084569,2004-05-05,Shipped,2,5,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10259,40,43.83,-0.9717817197005414,2004-06-15,Shipped,2,6,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Small
+10359,36,100.0,1.5417481690282941,2004-12-15,Shipped,4,12,2004,Trucks and Buses,Reims Collectables,France,EMEA,Medium
+10383,32,53.18,-0.9998560957647543,2005-02-22,Shipped,1,2,2005,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10394,36,62.77,-0.6953386216436768,2005-03-15,Shipped,1,3,2005,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10412,19,48.7,-1.4236241758351036,2005-05-03,Shipped,2,5,2005,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10425,11,43.83,-1.6654927847071337,2005-05-31,In Process,2,5,2005,Trucks and Buses,La Rochelle Gifts,France,EMEA,Small
+10104,49,65.87,-0.16708299690976672,2003-01-31,Shipped,1,1,2003,Trains,Euro Shopping Channel,Spain,EMEA,Medium
+10116,27,63.38,-0.9946712868104381,2003-04-11,Shipped,2,4,2003,Trains,Royale Belge,Belgium,EMEA,Small
+10152,33,50.95,-1.01099524847608,2003-09-25,Shipped,3,9,2003,Trains,"Australian Gift Network, Co",Australia,APAC,Small
+10165,44,53.44,-0.6453243171622521,2003-10-22,Shipped,4,10,2003,Trains,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10176,22,64.0,-1.160181304019482,2003-11-06,Shipped,4,11,2003,Trains,L'ordine Souveniers,Italy,EMEA,Small
+10184,48,50.95,-0.5938910123354361,2003-11-14,Shipped,4,11,2003,Trains,"Iberia Gift Imports, Corp.",Spain,EMEA,Small
+10220,20,52.82,-1.3520738122655407,2004-02-12,Shipped,1,2,2004,Trains,"Clover Collections, Co.",Ireland,EMEA,Small
+10230,46,60.9,-0.3997062727622059,2004-03-15,Shipped,1,3,2004,Trains,"Blauer See Auto, Co.",Germany,EMEA,Small
+10247,40,49.71,-0.8434167653789458,2004-05-05,Shipped,2,5,2004,Trains,Suominen Souveniers,Finland,EMEA,Small
+10306,46,50.33,-0.6650702527377427,2004-10-14,Shipped,4,10,2004,Trains,"AV Stores, Co.",UK,EMEA,Small
+10314,35,66.49,-0.6585373934553042,2004-10-22,Shipped,4,10,2004,Trains,Heintze Collectables,Denmark,EMEA,Small
+10325,28,100.0,1.0061956079028884,2004-11-05,Shipped,4,11,2004,Trains,Baane Mini Imports,Norway,EMEA,Medium
+10336,31,84.71,-0.49542876144615416,2004-11-20,Shipped,4,11,2004,Trains,"La Corne D'abondance, Co.",France,EMEA,Small
+10350,27,100.0,0.47625355583541684,2004-12-02,Shipped,4,12,2004,Trains,Euro Shopping Channel,Spain,EMEA,Medium
+10359,22,100.0,0.41884953417068327,2004-12-15,Shipped,4,12,2004,Trains,Reims Collectables,France,EMEA,Medium
+10383,44,36.07,-1.0624449263838045,2005-02-22,Shipped,1,2,2005,Trains,Euro Shopping Channel,Spain,EMEA,Small
+10394,30,60.28,-0.9416552508291465,2005-03-15,Shipped,1,3,2005,Trains,Euro Shopping Channel,Spain,EMEA,Small
+10103,45,75.63,-0.07118040433582645,2003-01-29,Shipped,1,1,2003,Trucks and Buses,Baane Mini Imports,Norway,EMEA,Medium
+10126,26,62.7,-1.0389113514248451,2003-05-28,Shipped,2,5,2003,Trucks and Buses,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10150,49,58.18,-0.3727343508124896,2003-09-19,Shipped,3,9,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10164,49,54.94,-0.4593806949795668,2003-10-21,Resolved,4,10,2003,Trucks and Buses,Mini Auto Werke,Austria,EMEA,Small
+10175,29,74.98,-0.7418927483597995,2003-11-06,Shipped,4,11,2003,Trucks and Buses,"Stylish Desk Decors, Co.",UK,EMEA,Small
+10194,39,54.94,-0.7592263833481239,2003-11-25,Shipped,4,11,2003,Trucks and Buses,"Saveley & Henriot, Co.",France,EMEA,Small
+10217,39,62.05,-0.6078899965120897,2004-02-04,Shipped,1,2,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Small
+10258,20,61.41,-1.25831063559696,2004-06-15,Shipped,2,6,2004,Trucks and Buses,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10270,21,63.35,-1.2025602951039713,2004-07-19,Shipped,3,7,2004,Trucks and Buses,Souveniers And Things Co.,Australia,APAC,Small
+10291,32,71.75,-0.6755381091318251,2004-09-08,Shipped,3,9,2004,Trucks and Buses,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10304,36,73.04,-0.49355677252896435,2004-10-11,Shipped,4,10,2004,Trucks and Buses,Auto Assoc. & Cie.,France,EMEA,Small
+10348,31,100.0,-0.2149142239367424,2004-11-01,Shipped,4,11,2004,Trucks and Buses,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10358,36,100.0,1.1656912467249259,2004-12-10,Shipped,4,12,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10370,25,100.0,-0.20385693662995857,2005-01-20,Shipped,1,1,2005,Trucks and Buses,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10424,44,61.41,-0.45393391673071676,2005-05-31,In Process,2,5,2005,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10106,33,72.92,-0.6153070021635797,2003-02-17,Shipped,1,2,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10120,29,72.23,-0.7854178551078745,2003-04-29,Shipped,2,4,2003,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Small
+10133,49,57.1,-0.4016164655348487,2003-06-27,Shipped,2,6,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10144,20,81.86,-1.0350909658795597,2003-08-13,Shipped,3,8,2003,Vintage Cars,Royale Belge,Belgium,EMEA,Small
+10210,39,59.16,-0.6694036614848238,2004-01-12,Shipped,1,1,2004,Vintage Cars,Osaka Souveniers Co.,Japan,Japan,Small
+10223,20,66.04,-1.2077723925264683,2004-02-20,Shipped,1,2,2004,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Small
+10262,40,79.11,-0.2015919937709678,2004-06-24,Cancelled,2,6,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10275,28,63.97,-0.9510643146578213,2004-07-23,Shipped,3,7,2004,Vintage Cars,La Rochelle Gifts,France,EMEA,Small
+10284,50,81.86,0.3052094372793454,2004-08-21,Shipped,3,8,2004,Vintage Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Medium
+10297,28,79.8,-0.7091575019303381,2004-09-16,Shipped,3,9,2004,Vintage Cars,"Clover Collections, Co.",Ireland,EMEA,Small
+10316,24,59.16,-1.1537193947543134,2004-11-01,Shipped,4,11,2004,Vintage Cars,giftsbymail.co.uk,UK,EMEA,Small
+10328,24,81.17,-0.8654221861197908,2004-11-12,Shipped,4,11,2004,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10340,39,59.16,-0.6694036614848238,2004-11-24,Shipped,4,11,2004,Vintage Cars,Enaco Distributors,Spain,EMEA,Small
+10361,49,72.33,0.005674837448047328,2004-12-17,Shipped,4,12,2004,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10375,44,82.26,0.04675489744713958,2005-02-03,Shipped,1,2,2005,Vintage Cars,La Rochelle Gifts,France,EMEA,Medium
+10398,22,67.41,-1.1192376863612927,2005-03-30,Shipped,1,3,2005,Vintage Cars,Reims Collectables,France,EMEA,Small
+10416,26,61.22,-1.0599125565366436,2005-05-10,Shipped,2,5,2005,Vintage Cars,L'ordine Souveniers,Italy,EMEA,Small
+10108,31,100.0,0.07422892721137912,2003-03-03,Shipped,1,3,2003,Motorcycles,Cruz & Sons Co.,Philippines,Japan,Medium
+10121,25,86.74,-0.745123702992384,2003-05-07,Shipped,2,5,2003,Motorcycles,Reims Collectables,France,EMEA,Small
+10169,34,100.0,0.21127161441440906,2003-11-04,Shipped,4,11,2003,Motorcycles,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10180,22,100.0,-0.5562329262461925,2003-11-11,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,France,EMEA,Small
+10190,42,85.72,0.03627612566578469,2003-11-19,Shipped,4,11,2003,Motorcycles,Euro Shopping Channel,Spain,EMEA,Medium
+10211,37,100.0,0.2763000340888059,2004-01-15,Shipped,1,1,2004,Motorcycles,Auto Canal Petit,France,EMEA,Medium
+10224,30,100.0,-0.10744677854785878,2004-02-21,Shipped,1,2,2004,Motorcycles,Daedalus Designs Imports,France,EMEA,Medium
+10252,25,100.0,-0.3830057302356718,2004-05-26,Shipped,2,5,2004,Motorcycles,Auto Canal Petit,France,EMEA,Small
+10299,38,100.0,0.46302410646145664,2004-09-30,Shipped,3,9,2004,Motorcycles,"Toys of Finland, Co.",Finland,EMEA,Medium
+10309,50,84.7,0.3827086869122815,2004-10-15,Shipped,4,10,2004,Motorcycles,Baane Mini Imports,Norway,EMEA,Medium
+10341,31,71.02,-0.7270478216695471,2004-11-24,Shipped,4,11,2004,Motorcycles,Salzburg Collectables,Austria,EMEA,Small
+10355,40,100.0,0.43281031449188395,2004-12-07,Shipped,4,12,2004,Motorcycles,Euro Shopping Channel,Spain,EMEA,Medium
+10375,41,100.0,0.6375174873955577,2005-02-03,Shipped,1,2,2005,Motorcycles,La Rochelle Gifts,France,EMEA,Medium
+10403,45,100.0,0.90359096754379,2005-04-08,Shipped,2,4,2005,Motorcycles,"UK Collectables, Ltd.",UK,EMEA,Medium
+10106,39,40.15,-1.074031609973292,2003-02-17,Shipped,1,2,2003,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10120,49,50.62,-0.5749091538690028,2003-04-29,Shipped,2,4,2003,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Small
+10133,27,50.19,-1.1890361302736603,2003-06-27,Shipped,2,6,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10156,20,41.02,-1.480875382078026,2003-10-08,Shipped,4,10,2003,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10210,43,41.02,-0.9659638182844351,2004-01-12,Shipped,1,1,2004,Vintage Cars,Osaka Souveniers Co.,Japan,Japan,Small
+10223,41,46.26,-0.8934856467967314,2004-02-20,Shipped,1,2,2004,Vintage Cars,"Australian Collectors, Co.",Australia,APAC,Small
+10262,49,37.97,-0.9132042939040412,2004-06-24,Cancelled,2,6,2004,Vintage Cars,Euro Shopping Channel,Spain,EMEA,Small
+10275,38,45.39,-0.9872706542398565,2004-07-23,Shipped,3,7,2004,Vintage Cars,La Rochelle Gifts,France,EMEA,Small
+10284,33,51.93,-0.9933450672568604,2004-08-21,Shipped,3,8,2004,Vintage Cars,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10296,26,48.44,-1.2412608006777142,2004-09-15,Shipped,3,9,2004,Vintage Cars,"Bavarian Collectables Imports, Co.",Germany,EMEA,Small
+10316,34,47.57,-1.045908114666354,2004-11-01,Shipped,4,11,2004,Vintage Cars,giftsbymail.co.uk,UK,EMEA,Small
+10328,34,51.93,-0.9650032642044777,2004-11-12,Shipped,4,11,2004,Vintage Cars,Rovelli Gifts,Italy,EMEA,Small
+10340,40,50.62,-0.8235507605434608,2004-11-24,Shipped,4,11,2004,Vintage Cars,Enaco Distributors,Spain,EMEA,Small
+10361,33,82.59,-0.4411465405412824,2004-12-17,Shipped,4,12,2004,Vintage Cars,Souveniers And Things Co.,Australia,APAC,Small
+10375,49,65.8,-0.1689549858269568,2005-02-03,Shipped,1,2,2005,Vintage Cars,La Rochelle Gifts,France,EMEA,Medium
+10398,49,36.66,-0.94823722935431,2005-03-30,Shipped,1,3,2005,Vintage Cars,Reims Collectables,France,EMEA,Small
+10416,37,51.93,-0.8799778550473288,2005-05-10,Shipped,2,5,2005,Vintage Cars,L'ordine Souveniers,Italy,EMEA,Small
+10104,33,100.0,0.09358190884506844,2003-01-31,Shipped,1,1,2003,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10141,44,100.0,1.0733470704017367,2003-08-01,Shipped,3,8,2003,Trucks and Buses,Suominen Souveniers,Finland,EMEA,Medium
+10151,26,100.0,-0.1711926402177669,2003-09-21,Shipped,3,9,2003,Trucks and Buses,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10165,48,94.92,0.5579879757299839,2003-10-22,Shipped,4,10,2003,Trucks and Buses,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10176,23,100.0,-0.22861303496340923,2003-11-06,Shipped,4,11,2003,Trucks and Buses,L'ordine Souveniers,Italy,EMEA,Medium
+10184,45,100.0,0.7719513970405211,2003-11-14,Shipped,4,11,2003,Trucks and Buses,"Iberia Gift Imports, Corp.",Spain,EMEA,Medium
+10220,37,100.0,0.2452020957501812,2004-02-12,Shipped,1,2,2004,Trucks and Buses,"Clover Collections, Co.",Ireland,EMEA,Medium
+10230,34,100.0,0.240775906211286,2004-03-15,Shipped,1,3,2004,Trucks and Buses,"Blauer See Auto, Co.",Germany,EMEA,Medium
+10246,22,100.0,-0.33038264819618096,2004-05-05,Shipped,2,5,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10259,29,100.0,-0.26153384297649857,2004-06-15,Shipped,2,6,2004,Trucks and Buses,Handji Gifts& Co,Singapore,APAC,Medium
+10314,28,100.0,-0.07130593128945727,2004-10-22,Shipped,4,10,2004,Trucks and Buses,Heintze Collectables,Denmark,EMEA,Medium
+10325,38,100.0,0.9041476522946746,2004-11-05,Shipped,4,11,2004,Trucks and Buses,Baane Mini Imports,Norway,EMEA,Medium
+10336,23,100.0,-0.2140519083422349,2004-11-20,Shipped,4,11,2004,Trucks and Buses,"La Corne D'abondance, Co.",France,EMEA,Medium
+10350,31,71.4,-0.7206186585661949,2004-12-02,Shipped,4,12,2004,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Small
+10359,46,100.0,0.7438442748144914,2004-12-15,Shipped,4,12,2004,Trucks and Buses,Reims Collectables,France,EMEA,Medium
+10383,29,100.0,-0.24380725404637343,2005-02-22,Shipped,1,2,2005,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10395,46,100.0,1.1784185882843627,2005-03-17,Shipped,1,3,2005,Trucks and Buses,Lyon Souveniers,France,EMEA,Medium
+10412,26,100.0,-0.039793208234487204,2005-05-03,Shipped,2,5,2005,Trucks and Buses,Euro Shopping Channel,Spain,EMEA,Medium
+10425,18,100.0,-0.8938786007385322,2005-05-31,In Process,2,5,2005,Trucks and Buses,La Rochelle Gifts,France,EMEA,Small
+10104,32,53.31,-0.9975856952121275,2003-01-31,Shipped,1,1,2003,Trains,Euro Shopping Channel,Spain,EMEA,Small
+10117,21,49.21,-1.3646210499349856,2003-04-16,Shipped,2,4,2003,Trains,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10153,31,57.41,-0.9573133738711813,2003-09-28,Shipped,3,9,2003,Trains,Euro Shopping Channel,Spain,EMEA,Small
+10165,38,66.78,-0.5436584001085668,2003-10-22,Shipped,4,10,2003,Trains,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10176,38,64.44,-0.5921882119209659,2003-11-06,Shipped,4,11,2003,Trains,L'ordine Souveniers,Italy,EMEA,Small
+10208,30,65.61,-0.8543867295875516,2004-01-02,Shipped,1,1,2004,Trains,"Saveley & Henriot, Co.",France,EMEA,Small
+10220,30,68.54,-0.806413602526037,2004-02-12,Shipped,1,2,2004,Trains,"Clover Collections, Co.",Ireland,EMEA,Small
+10230,43,52.14,-0.704998739379613,2004-03-15,Shipped,1,3,2004,Trains,"Blauer See Auto, Co.",Germany,EMEA,Small
+10247,49,63.85,-0.22110324852010488,2004-05-05,Shipped,2,5,2004,Trains,Suominen Souveniers,Finland,EMEA,Medium
+10306,34,60.34,-0.8089459723731977,2004-10-14,Shipped,4,10,2004,Trains,"AV Stores, Co.",UK,EMEA,Small
+10314,38,61.51,-0.6529541728655511,2004-10-22,Shipped,4,10,2004,Trains,Heintze Collectables,Denmark,EMEA,Small
+10325,44,100.0,1.309403235551297,2004-11-05,Shipped,4,11,2004,Trains,Baane Mini Imports,Norway,EMEA,Medium
+10350,44,100.0,1.6138988788978303,2004-12-02,Shipped,4,12,2004,Trains,Euro Shopping Channel,Spain,EMEA,Medium
+10359,25,64.93,-1.0427044485019503,2004-12-15,Shipped,4,12,2004,Trains,Reims Collectables,France,EMEA,Small
+10372,24,58.58,-1.1613165042957954,2005-01-26,Shipped,1,1,2005,Trains,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10383,38,60.06,-0.6830260648005847,2005-02-22,Shipped,1,2,2005,Trains,Euro Shopping Channel,Spain,EMEA,Small
+10108,34,82.99,-0.3886489854554223,2003-03-03,Shipped,1,3,2003,Motorcycles,Cruz & Sons Co.,Philippines,Japan,Small
+10121,44,74.85,-0.13118774586499063,2003-05-07,Shipped,2,5,2003,Motorcycles,Reims Collectables,France,EMEA,Medium
+10169,48,80.55,0.18153809948481497,2003-11-04,Shipped,4,11,2003,Motorcycles,"Anna's Decorations, Ltd",Australia,APAC,Medium
+10180,21,93.56,-0.8563187531347388,2003-11-11,Shipped,4,11,2003,Motorcycles,Daedalus Designs Imports,France,EMEA,Small
+10190,40,66.72,-0.47207529037718704,2003-11-19,Shipped,4,11,2003,Motorcycles,Euro Shopping Channel,Spain,EMEA,Small
+10211,40,80.55,-0.17015567842690363,2004-01-15,Shipped,1,1,2004,Motorcycles,Auto Canal Petit,France,EMEA,Medium
+10224,50,77.29,0.1805011376939517,2004-02-21,Shipped,1,2,2004,Motorcycles,Daedalus Designs Imports,France,EMEA,Medium
+10252,48,72.41,-0.031704906265754174,2004-05-26,Shipped,2,5,2004,Motorcycles,Auto Canal Petit,France,EMEA,Medium
+10299,44,80.55,0.005691210528955556,2004-09-30,Shipped,3,9,2004,Motorcycles,"Toys of Finland, Co.",Finland,EMEA,Medium
+10309,28,88.68,-0.5734574073617943,2004-10-15,Shipped,4,10,2004,Motorcycles,Baane Mini Imports,Norway,EMEA,Small
+10341,38,100.0,0.6268640694178468,2004-11-24,Shipped,4,11,2004,Motorcycles,Salzburg Collectables,Austria,EMEA,Medium
+10356,26,100.0,0.22045145511036657,2004-12-09,Shipped,4,12,2004,Motorcycles,Lyon Souveniers,France,EMEA,Medium
+10375,49,100.0,1.0221648194821824,2005-02-03,Shipped,1,2,2005,Motorcycles,La Rochelle Gifts,France,EMEA,Medium
+10403,31,68.34,-0.7723903403984508,2005-04-08,Shipped,2,4,2005,Motorcycles,"UK Collectables, Ltd.",UK,EMEA,Small
+10105,41,70.67,-0.3472742099999795,2003-02-11,Shipped,1,2,2003,Ships,Danish Wholesale Imports,Denmark,EMEA,Small
+10119,25,76.67,-0.8825211402817619,2003-04-28,Shipped,2,4,2003,Ships,Salzburg Collectables,Austria,EMEA,Small
+10129,31,60.0,-0.9134935516667557,2003-06-12,Shipped,2,6,2003,Ships,"Stylish Desk Decors, Co.",UK,EMEA,Small
+10153,43,64.67,-0.41094366395898174,2003-09-28,Shipped,3,9,2003,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10167,43,75.34,-0.16053922224005626,2003-10-23,Cancelled,4,10,2003,Ships,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10177,24,76.0,-0.9331412487567958,2003-11-07,Shipped,4,11,2003,Ships,CAF Imports,Spain,EMEA,Small
+10197,23,64.67,-1.116841758855035,2003-11-26,Shipped,4,11,2003,Ships,Enaco Distributors,Spain,EMEA,Small
+10208,38,74.67,-0.3800258295103491,2004-01-02,Shipped,1,1,2004,Ships,"Saveley & Henriot, Co.",France,EMEA,Small
+10273,21,65.34,-1.1797525933986164,2004-07-21,Shipped,3,7,2004,Ships,Petit Auto,Belgium,EMEA,Small
+10306,50,54.0,-0.4550472862324857,2004-10-14,Shipped,4,10,2004,Ships,"AV Stores, Co.",UK,EMEA,Small
+10315,41,62.0,-0.5412788456832174,2004-10-29,Shipped,4,10,2004,Ships,La Rochelle Gifts,France,EMEA,Small
+10326,39,60.0,-0.6515242571328871,2004-11-09,Shipped,4,11,2004,Ships,"Volvo Model Replicas, Co",Sweden,EMEA,Small
+10339,22,100.0,-0.391497901533478,2004-11-23,Shipped,4,11,2004,Ships,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10350,46,76.67,-0.0037942610106247465,2004-12-02,Shipped,4,12,2004,Ships,Euro Shopping Channel,Spain,EMEA,Medium
+10373,44,100.0,0.5971523852627975,2005-01-31,Shipped,1,1,2005,Ships,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10106,31,100.0,-0.12050703941909952,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10120,47,82.21,0.18015730299487595,2003-04-29,Shipped,2,4,2003,Planes,"Australian Collectors, Co.",Australia,APAC,Medium
+10133,24,77.64,-0.9116597666050187,2003-06-27,Shipped,2,6,2003,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10156,48,100.0,0.775160520898561,2003-10-08,Shipped,4,10,2003,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10210,21,78.55,-1.0283507142389487,2004-01-12,Shipped,1,1,2004,Planes,Osaka Souveniers Co.,Japan,Japan,Small
+10223,25,100.0,-0.545235673569406,2004-02-20,Shipped,1,2,2004,Planes,"Australian Collectors, Co.",Australia,APAC,Small
+10262,40,84.03,-0.09418458301208184,2004-06-24,Cancelled,2,6,2004,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10275,32,89.51,-0.3653664644037246,2004-07-23,Shipped,3,7,2004,Planes,La Rochelle Gifts,France,EMEA,Small
+10284,24,83.12,-0.8398801799027386,2004-08-21,Shipped,3,8,2004,Planes,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10296,42,100.0,0.41632807971079483,2004-09-15,Shipped,3,9,2004,Planes,"Bavarian Collectables Imports, Co.",Germany,EMEA,Medium
+10316,34,82.21,-0.4031227889784186,2004-11-01,Shipped,4,11,2004,Planes,giftsbymail.co.uk,UK,EMEA,Small
+10328,27,100.0,-0.4211550087521665,2004-11-12,Shipped,4,11,2004,Planes,Rovelli Gifts,Italy,EMEA,Small
+10340,30,88.6,-0.4779695995041992,2004-11-24,Shipped,4,11,2004,Planes,Enaco Distributors,Spain,EMEA,Small
+10361,20,60.54,-1.2678070225238132,2004-12-17,Shipped,4,12,2004,Planes,Souveniers And Things Co.,Australia,APAC,Small
+10375,37,81.87,-0.27538546942497694,2005-02-03,Shipped,1,2,2005,Planes,La Rochelle Gifts,France,EMEA,Medium
+10398,47,87.69,0.32072566028684113,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Medium
+10416,23,91.34,-0.7820613735216593,2005-05-10,Shipped,2,5,2005,Planes,L'ordine Souveniers,Italy,EMEA,Small
+10105,29,70.15,-0.818338663120964,2003-02-11,Shipped,1,2,2003,Ships,Danish Wholesale Imports,Denmark,EMEA,Small
+10117,38,79.68,-0.2761222580658534,2003-04-16,Shipped,2,4,2003,Ships,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10128,32,97.0,-0.2345564633331463,2003-06-06,Shipped,2,6,2003,Ships,Euro Shopping Channel,Spain,EMEA,Medium
+10153,31,87.48,-0.4485635461927724,2003-09-28,Shipped,3,9,2003,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10177,31,88.34,-0.4340133349588705,2003-11-07,Shipped,4,11,2003,Ships,CAF Imports,Spain,EMEA,Small
+10208,40,80.55,-0.17015567842690363,2004-01-02,Shipped,1,1,2004,Ships,"Saveley & Henriot, Co.",France,EMEA,Medium
+10221,23,97.0,-0.7110131177666198,2004-02-18,Shipped,1,2,2004,Ships,Petit Auto,Belgium,EMEA,Small
+10232,26,88.34,-0.6750796628663908,2004-03-20,Shipped,1,3,2004,Ships,giftsbymail.co.uk,UK,EMEA,Small
+10273,21,100.0,-0.7572943598009366,2004-07-21,Shipped,3,7,2004,Ships,Petit Auto,Belgium,EMEA,Small
+10293,29,71.89,-0.7907991410330911,2004-09-09,Shipped,3,9,2004,Ships,Amica Models & Co.,Italy,EMEA,Small
+10306,38,91.81,-0.02455532760243381,2004-10-14,Shipped,4,10,2004,Ships,"AV Stores, Co.",UK,EMEA,Medium
+10314,23,76.22,-0.9718581274114472,2004-10-22,Shipped,4,10,2004,Ships,Heintze Collectables,Denmark,EMEA,Small
+10327,20,100.0,-0.03524149174196141,2004-11-10,Resolved,4,11,2004,Ships,Danish Wholesale Imports,Denmark,EMEA,Medium
+10350,28,100.0,-0.33262030258699105,2004-12-02,Shipped,4,12,2004,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10372,44,100.0,0.5255911063059624,2005-01-26,Shipped,1,1,2005,Ships,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10397,32,80.55,-0.5218494563386222,2005-03-28,Shipped,1,3,2005,Ships,Alpha Cognac,France,EMEA,Small
+10106,30,100.0,-0.19455156898037004,2003-02-17,Shipped,1,2,2003,Ships,Rovelli Gifts,Italy,EMEA,Medium
+10119,29,94.14,-0.4386414591623022,2003-04-28,Shipped,2,4,2003,Ships,Salzburg Collectables,Austria,EMEA,Small
+10155,32,91.43,-0.3318343947033894,2003-10-06,Shipped,4,10,2003,Ships,"Toys of Finland, Co.",Finland,EMEA,Small
+10167,29,100.0,-0.32405172357827916,2003-10-23,Cancelled,4,10,2003,Ships,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10178,34,96.86,-0.13127506896316873,2003-11-08,Shipped,4,11,2003,Ships,Alpha Cognac,France,EMEA,Medium
+10186,24,99.57,-0.6244104351486318,2003-11-14,Shipped,4,11,2003,Ships,"Double Decker Gift Stores, Ltd",UK,EMEA,Small
+10197,24,90.52,-0.7429515409252072,2003-11-26,Shipped,4,11,2003,Ships,Enaco Distributors,Spain,EMEA,Small
+10262,44,94.14,0.3320394591945223,2004-06-24,Cancelled,2,6,2004,Ships,Euro Shopping Channel,Spain,EMEA,Medium
+10296,34,100.0,-0.03051512905307936,2004-09-15,Shipped,3,9,2004,Ships,"Bavarian Collectables Imports, Co.",Germany,EMEA,Medium
+10316,45,93.24,0.36131452785868234,2004-11-01,Shipped,4,11,2004,Ships,giftsbymail.co.uk,UK,EMEA,Medium
+10328,41,100.0,0.3399094534178107,2004-11-12,Shipped,4,11,2004,Ships,Rovelli Gifts,Italy,EMEA,Medium
+10339,55,71.25,0.21010912566991496,2004-11-23,Shipped,4,11,2004,Ships,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10361,24,45.39,-1.3340852540408816,2004-12-17,Shipped,4,12,2004,Ships,Souveniers And Things Co.,Australia,APAC,Small
+10373,32,84.41,-0.45443602454524007,2005-01-31,Shipped,1,1,2005,Ships,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10386,29,85.76,-0.5712743299073454,2005-03-01,Resolved,1,3,2005,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10398,36,100.0,0.205508289934664,2005-03-30,Shipped,1,3,2005,Ships,Reims Collectables,France,EMEA,Medium
+10415,32,95.95,-0.25289431395051704,2005-05-09,Disputed,2,5,2005,Ships,"Australian Collectables, Ltd",Australia,APAC,Medium
+10106,34,100.0,0.1253566011945724,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10120,24,100.0,-0.517919916920614,2003-04-29,Shipped,2,4,2003,Planes,"Australian Collectors, Co.",Australia,APAC,Small
+10155,20,100.0,-0.6442109476604833,2003-10-06,Shipped,4,10,2003,Planes,"Toys of Finland, Co.",Finland,EMEA,Small
+10178,22,87.75,-0.8750168115320938,2003-11-08,Shipped,4,11,2003,Planes,Alpha Cognac,France,EMEA,Small
+10198,42,100.0,0.6771840047428944,2003-11-27,Shipped,4,11,2003,Planes,Cruz & Sons Co.,Philippines,Japan,Medium
+10210,26,99.72,-0.5135974235608054,2004-01-12,Shipped,1,1,2004,Planes,Osaka Souveniers Co.,Japan,Japan,Small
+10262,33,90.75,-0.29418176630778203,2004-06-24,Cancelled,2,6,2004,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10275,39,100.0,0.5123398261574577,2004-07-23,Shipped,3,7,2004,Planes,La Rochelle Gifts,France,EMEA,Medium
+10284,45,100.0,0.5693345207994821,2004-08-21,Shipped,3,8,2004,Planes,"Norway Gifts By Mail, Co.",Norway,EMEA,Medium
+10296,24,100.0,-0.5963797206335077,2004-09-15,Shipped,3,9,2004,Planes,"Bavarian Collectables Imports, Co.",Germany,EMEA,Small
+10316,23,100.0,-0.4515489046117314,2004-11-01,Shipped,4,11,2004,Planes,giftsbymail.co.uk,UK,EMEA,Small
+10328,37,100.0,0.2662033008619797,2004-11-12,Shipped,4,11,2004,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10340,55,87.75,0.7053948231480103,2004-11-24,Shipped,4,11,2004,Planes,Enaco Distributors,Spain,EMEA,Medium
+10361,26,100.0,-0.425193702042897,2004-12-17,Shipped,4,12,2004,Planes,Souveniers And Things Co.,Australia,APAC,Small
+10375,33,100.0,0.17624959435141246,2005-02-03,Shipped,1,2,2005,Planes,La Rochelle Gifts,France,EMEA,Medium
+10386,37,83.84,-0.23560434051128182,2005-03-01,Resolved,1,3,2005,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10398,22,86.76,-0.886903668271568,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Small
+10416,22,100.0,-0.5875710031048066,2005-05-10,Shipped,2,5,2005,Planes,L'ordine Souveniers,Italy,EMEA,Small
+10105,31,65.77,-0.8158717855974368,2003-02-11,Shipped,1,2,2003,Ships,Danish Wholesale Imports,Denmark,EMEA,Small
+10119,38,65.77,-0.5646050282840038,2003-04-28,Shipped,2,4,2003,Ships,Salzburg Collectables,Austria,EMEA,Small
+10129,45,85.29,0.16606553802640842,2003-06-12,Shipped,2,6,2003,Ships,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10167,46,70.11,-0.16848562417425023,2003-10-23,Cancelled,4,10,2003,Ships,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10177,32,76.62,-0.5904854115064957,2003-11-07,Shipped,4,11,2003,Ships,CAF Imports,Spain,EMEA,Small
+10197,50,78.79,0.22143383996486865,2003-11-26,Shipped,4,11,2003,Ships,Enaco Distributors,Spain,EMEA,Medium
+10208,46,74.45,-0.05952822842270547,2004-01-02,Shipped,1,1,2004,Ships,"Saveley & Henriot, Co.",France,EMEA,Medium
+10273,42,62.16,-0.5037735750157853,2004-07-21,Shipped,3,7,2004,Ships,Petit Auto,Belgium,EMEA,Small
+10306,43,75.17,-0.1645287962880616,2004-10-14,Shipped,4,10,2004,Ships,"AV Stores, Co.",UK,EMEA,Medium
+10316,48,74.45,0.021736829819155055,2004-11-01,Shipped,4,11,2004,Ships,giftsbymail.co.uk,UK,EMEA,Medium
+10327,21,96.31,-0.8248005723861328,2004-11-10,Resolved,4,11,2004,Ships,Danish Wholesale Imports,Denmark,EMEA,Small
+10339,50,74.35,0.10027304124295446,2004-11-23,Shipped,4,11,2004,Ships,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10350,29,75.35,-0.7360366430882402,2004-12-02,Shipped,4,12,2004,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10373,41,70.33,-0.3548822349287337,2005-01-31,Shipped,1,1,2005,Ships,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10386,37,100.0,0.8098114177943012,2005-03-01,Resolved,1,3,2005,Ships,Euro Shopping Channel,Spain,EMEA,Medium
+10397,22,66.5,-1.1301639890208095,2005-03-28,Shipped,1,3,2005,Ships,Alpha Cognac,France,EMEA,Small
+10103,42,100.0,0.5059543246031942,2003-01-29,Shipped,1,1,2003,Classic Cars,Baane Mini Imports,Norway,EMEA,Medium
+10114,42,100.0,0.6682443025669261,2003-04-01,Shipped,2,4,2003,Classic Cars,"La Corne D'abondance, Co.",France,EMEA,Medium
+10126,45,100.0,0.5803863504126298,2003-05-28,Shipped,2,5,2003,Classic Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Medium
+10150,20,100.0,-0.7803258269453724,2003-09-19,Shipped,3,9,2003,Classic Cars,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10164,39,81.93,-0.18474409351625842,2003-10-21,Resolved,4,10,2003,Classic Cars,Mini Auto Werke,Austria,EMEA,Medium
+10175,42,85.98,0.04223592711643024,2003-11-06,Shipped,4,11,2003,Classic Cars,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10194,26,89.01,-0.6655723605522657,2003-11-25,Shipped,4,11,2003,Classic Cars,"Saveley & Henriot, Co.",France,EMEA,Small
+10217,31,88.0,-0.43976574405134333,2004-02-04,Shipped,1,2,2004,Classic Cars,Handji Gifts& Co,Singapore,APAC,Small
+10258,45,80.92,0.05873999267206409,2004-06-15,Shipped,2,6,2004,Classic Cars,"Tokyo Collectables, Ltd",Japan,Japan,Medium
+10270,46,88.0,0.2806498159167952,2004-07-19,Shipped,3,7,2004,Classic Cars,Souveniers And Things Co.,Australia,APAC,Medium
+10291,28,100.0,-0.15107558147502018,2004-09-08,Shipped,3,9,2004,Classic Cars,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10304,40,100.0,0.3679729140947514,2004-10-11,Shipped,4,10,2004,Classic Cars,Auto Assoc. & Cie.,France,EMEA,Medium
+10348,32,82.83,-0.48203012356947417,2004-11-01,Shipped,4,11,2004,Classic Cars,"Corrida Auto Replicas, Ltd",Spain,EMEA,Small
+10358,27,100.0,0.12421594322462276,2004-12-10,Shipped,4,12,2004,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10424,46,80.92,0.10290364957556547,2005-05-31,In Process,2,5,2005,Classic Cars,Euro Shopping Channel,Spain,EMEA,Medium
+10106,32,100.0,0.24711774621646,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10120,24,100.0,-0.0636651601988861,2003-04-29,Shipped,2,4,2003,Planes,"Australian Collectors, Co.",Australia,APAC,Medium
+10133,27,99.67,-0.45991009126227056,2003-06-27,Shipped,2,6,2003,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10188,29,100.0,0.23101209229626332,2003-11-18,Shipped,4,11,2003,Planes,Herkku Gifts,Norway,EMEA,Medium
+10210,25,100.0,-0.390646501326243,2004-01-12,Shipped,1,1,2004,Planes,Osaka Souveniers Co.,Japan,Japan,Small
+10223,29,100.0,-0.18223901213727825,2004-02-20,Shipped,1,2,2004,Planes,"Australian Collectors, Co.",Australia,APAC,Medium
+10275,48,100.0,1.5526853870750832,2004-07-23,Shipped,3,7,2004,Planes,La Rochelle Gifts,France,EMEA,Medium
+10297,35,100.0,0.2470850000546433,2004-09-16,Shipped,3,9,2004,Planes,"Clover Collections, Co.",Ireland,EMEA,Medium
+10328,33,100.0,0.293857434516211,2004-11-12,Shipped,4,11,2004,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10340,29,100.0,0.30603354901839996,2004-11-24,Shipped,4,11,2004,Planes,Enaco Distributors,Spain,EMEA,Medium
+10361,44,72.42,-0.1895414062224099,2004-12-17,Shipped,4,12,2004,Planes,Souveniers And Things Co.,Australia,APAC,Medium
+10375,25,66.73,-1.0181448271394,2005-02-03,Shipped,1,2,2005,Planes,La Rochelle Gifts,France,EMEA,Small
+10398,23,100.0,-0.3945596676633427,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Small
+10416,41,100.0,1.1510591700864818,2005-05-10,Shipped,2,5,2005,Planes,L'ordine Souveniers,Italy,EMEA,Medium
+10106,44,74.4,-0.1419939792645128,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10120,43,76.0,-0.14505028770074122,2003-04-29,Shipped,2,4,2003,Planes,"Australian Collectors, Co.",Australia,APAC,Medium
+10155,43,86.4,0.09901777170664623,2003-10-06,Shipped,4,10,2003,Planes,"Toys of Finland, Co.",Finland,EMEA,Medium
+10210,31,86.4,-0.46683590448650975,2004-01-12,Shipped,1,1,2004,Planes,Osaka Souveniers Co.,Japan,Japan,Small
+10223,26,67.2,-0.9750563358822147,2004-02-20,Shipped,1,2,2004,Planes,"Australian Collectors, Co.",Australia,APAC,Small
+10262,27,76.0,-0.8087058338532083,2004-06-24,Cancelled,2,6,2004,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10275,43,73.6,-0.20137368602552286,2004-07-23,Shipped,3,7,2004,Planes,La Rochelle Gifts,France,EMEA,Medium
+10284,25,69.6,-0.9789858753002229,2004-08-21,Shipped,3,8,2004,Planes,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10296,22,80.8,-0.9584649472284031,2004-09-15,Shipped,3,9,2004,Planes,"Bavarian Collectables Imports, Co.",Germany,EMEA,Small
+10316,48,75.2,0.041384526909195196,2004-11-01,Shipped,4,11,2004,Planes,giftsbymail.co.uk,UK,EMEA,Medium
+10328,33,64.0,-0.7759596720364746,2004-11-12,Shipped,4,11,2004,Planes,Rovelli Gifts,Italy,EMEA,Small
+10341,34,100.0,0.060224485341089234,2004-11-24,Shipped,4,11,2004,Planes,Salzburg Collectables,Austria,EMEA,Medium
+10361,44,100.0,0.80127012725377,2004-12-17,Shipped,4,12,2004,Planes,Souveniers And Things Co.,Australia,APAC,Medium
+10375,44,100.0,0.9141352316487785,2005-02-03,Shipped,1,2,2005,Planes,La Rochelle Gifts,France,EMEA,Medium
+10386,32,94.34,-0.28101235156381893,2005-03-01,Resolved,1,3,2005,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10398,29,65.6,-0.8903529306495972,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Small
+10416,39,67.2,-0.4982722198305739,2005-05-10,Shipped,2,5,2005,Planes,L'ordine Souveniers,Italy,EMEA,Small
+10105,39,81.14,-0.2015592476091511,2003-02-11,Shipped,1,2,2003,Ships,Danish Wholesale Imports,Denmark,EMEA,Medium
+10118,36,100.0,0.3740855309672082,2003-04-21,Shipped,2,4,2003,Ships,Enaco Distributors,Spain,EMEA,Medium
+10129,42,91.15,0.1607442867311892,2003-06-12,Shipped,2,6,2003,Ships,"Stylish Desk Decors, Co.",UK,EMEA,Medium
+10153,50,88.15,0.47685390213539053,2003-09-28,Shipped,3,9,2003,Ships,Euro Shopping Channel,Spain,EMEA,Medium
+10167,24,100.0,-0.39348450201702645,2003-10-23,Cancelled,4,10,2003,Ships,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10177,44,92.16,0.2844920322366253,2003-11-07,Shipped,4,11,2003,Ships,CAF Imports,Spain,EMEA,Medium
+10197,27,92.16,-0.5705757451219217,2003-11-26,Shipped,4,11,2003,Ships,Enaco Distributors,Spain,EMEA,Small
+10208,37,100.0,0.49863009974351813,2004-01-02,Shipped,1,1,2004,Ships,"Saveley & Henriot, Co.",France,EMEA,Medium
+10232,48,96.16,0.590472168252184,2004-03-20,Shipped,1,3,2004,Ships,giftsbymail.co.uk,UK,EMEA,Medium
+10273,40,86.15,-0.047903340977764955,2004-07-21,Shipped,3,7,2004,Ships,Petit Auto,Belgium,EMEA,Medium
+10306,32,90.15,-0.3541891078369462,2004-10-14,Shipped,4,10,2004,Ships,"AV Stores, Co.",UK,EMEA,Small
+10315,31,86.15,-0.47106561705450445,2004-10-29,Shipped,4,10,2004,Ships,La Rochelle Gifts,France,EMEA,Small
+10327,43,80.0,-0.05117795715943831,2004-11-10,Resolved,4,11,2004,Ships,Danish Wholesale Imports,Denmark,EMEA,Medium
+10350,31,77.34,-0.6201206879506397,2004-12-02,Shipped,4,12,2004,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10373,34,96.34,-0.14092427131183283,2005-01-31,Shipped,1,1,2005,Ships,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10386,45,92.08,0.3328253670781242,2005-03-01,Resolved,1,3,2005,Ships,Euro Shopping Channel,Spain,EMEA,Medium
+10397,48,100.0,0.905359260281894,2005-03-28,Shipped,1,3,2005,Ships,Alpha Cognac,France,EMEA,Medium
+10105,22,100.0,-0.5335398361071961,2003-02-11,Shipped,1,2,2003,Ships,Danish Wholesale Imports,Denmark,EMEA,Small
+10117,45,83.42,0.12013904607843953,2003-04-16,Shipped,2,4,2003,Ships,"Dragon Souveniers, Ltd.",Singapore,Japan,Medium
+10129,30,85.41,-0.5301997276018892,2003-06-12,Shipped,2,6,2003,Ships,"Stylish Desk Decors, Co.",UK,EMEA,Small
+10153,20,100.0,-0.7254214289659826,2003-09-28,Shipped,3,9,2003,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10167,28,100.0,-0.28967916905798113,2003-10-23,Cancelled,4,10,2003,Ships,Scandinavian Gift Ideas,Sweden,EMEA,Medium
+10177,24,100.0,-0.5497491862064792,2003-11-07,Shipped,4,11,2003,Ships,CAF Imports,Spain,EMEA,Small
+10197,35,93.35,-0.1454596147234504,2003-11-26,Shipped,4,11,2003,Ships,Enaco Distributors,Spain,EMEA,Medium
+10208,33,85.41,-0.3903572435635284,2004-01-02,Shipped,1,1,2004,Ships,"Saveley & Henriot, Co.",France,EMEA,Small
+10232,35,82.43,-0.35405266549604314,2004-03-20,Shipped,1,3,2004,Ships,giftsbymail.co.uk,UK,EMEA,Small
+10273,26,100.0,-0.3079842735135352,2004-07-21,Shipped,3,7,2004,Ships,Petit Auto,Belgium,EMEA,Small
+10306,30,100.0,-0.00986321633399289,2004-10-14,Shipped,4,10,2004,Ships,"AV Stores, Co.",UK,EMEA,Medium
+10315,37,91.37,-0.08354753811527942,2004-10-29,Shipped,4,10,2004,Ships,La Rochelle Gifts,France,EMEA,Medium
+10327,37,86.61,-0.17966843843466462,2004-11-10,Resolved,4,11,2004,Ships,Danish Wholesale Imports,Denmark,EMEA,Medium
+10350,25,100.0,-0.37058947721349367,2004-12-02,Shipped,4,12,2004,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10373,37,100.0,0.2684245821718813,2005-01-31,Shipped,1,1,2005,Ships,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10386,30,95.48,-0.36532280285463564,2005-03-01,Resolved,1,3,2005,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10397,36,100.0,0.13968850468302932,2005-03-28,Shipped,1,3,2005,Ships,Alpha Cognac,France,EMEA,Medium
+10106,48,61.44,-0.31908522236940795,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Small
+10119,26,59.22,-1.0882925634444796,2003-04-28,Shipped,2,4,2003,Planes,Salzburg Collectables,Austria,EMEA,Small
+10155,44,85.87,0.13344490316330568,2003-10-06,Shipped,4,10,2003,Planes,"Toys of Finland, Co.",Finland,EMEA,Medium
+10178,45,76.25,-0.05595343909104529,2003-11-08,Shipped,4,11,2003,Planes,Alpha Cognac,France,EMEA,Medium
+10198,40,63.67,-0.5386591527378787,2003-11-27,Shipped,4,11,2003,Planes,Cruz & Sons Co.,Philippines,Japan,Small
+10210,42,70.33,-0.3164982755858859,2004-01-12,Shipped,1,1,2004,Planes,Osaka Souveniers Co.,Japan,Japan,Small
+10262,35,71.07,-0.5710505644682644,2004-06-24,Cancelled,2,6,2004,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10275,31,72.55,-0.701161980753419,2004-07-23,Shipped,3,7,2004,Planes,La Rochelle Gifts,France,EMEA,Small
+10284,32,64.41,-0.8037284172570648,2004-08-21,Shipped,3,8,2004,Planes,"Norway Gifts By Mail, Co.",Norway,EMEA,Small
+10296,47,86.62,0.29327891899078207,2004-09-15,Shipped,3,9,2004,Planes,"Bavarian Collectables Imports, Co.",Germany,EMEA,Medium
+10316,44,62.19,-0.43520311217154506,2004-11-01,Shipped,4,11,2004,Planes,giftsbymail.co.uk,UK,EMEA,Small
+10328,39,85.87,-0.10088117310360384,2004-11-12,Shipped,4,11,2004,Planes,Rovelli Gifts,Italy,EMEA,Medium
+10339,50,57.86,-0.349713799055326,2004-11-23,Shipped,4,11,2004,Planes,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10361,35,100.0,0.40582201946125945,2004-12-17,Shipped,4,12,2004,Planes,Souveniers And Things Co.,Australia,APAC,Medium
+10373,45,55.62,-0.5626184278004555,2005-01-31,Shipped,1,1,2005,Planes,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10386,44,86.4,0.14617224472274262,2005-03-01,Resolved,1,3,2005,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10398,36,87.36,-0.2122017501995895,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Medium
+10416,43,62.19,-0.4691445088945895,2005-05-10,Shipped,2,5,2005,Planes,L'ordine Souveniers,Italy,EMEA,Small
+10106,48,52.64,-0.5496182015592124,2003-02-17,Shipped,1,2,2003,Planes,Rovelli Gifts,Italy,EMEA,Small
+10119,28,48.17,-1.1925126811198703,2003-04-28,Shipped,2,4,2003,Planes,Salzburg Collectables,Austria,EMEA,Small
+10155,34,49.16,-1.016403822869477,2003-10-06,Shipped,4,10,2003,Planes,"Toys of Finland, Co.",Finland,EMEA,Small
+10167,40,41.71,-1.0180629617348582,2003-10-23,Cancelled,4,10,2003,Planes,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10178,45,51.15,-0.6723999352910548,2003-11-08,Shipped,4,11,2003,Planes,Alpha Cognac,France,EMEA,Small
+10186,28,52.14,-1.131844958660735,2003-11-14,Shipped,4,11,2003,Planes,"Double Decker Gift Stores, Ltd",UK,EMEA,Small
+10197,29,41.71,-1.268467403453784,2003-11-26,Shipped,4,11,2003,Planes,Enaco Distributors,Spain,EMEA,Small
+10262,21,57.11,-1.2740779125117174,2004-06-24,Cancelled,2,6,2004,Planes,Euro Shopping Channel,Spain,EMEA,Small
+10296,21,45.19,-1.4106948996111297,2004-09-15,Shipped,3,9,2004,Planes,"Bavarian Collectables Imports, Co.",Germany,EMEA,Small
+10316,34,43.7,-1.1177204475304507,2004-11-01,Shipped,4,11,2004,Planes,giftsbymail.co.uk,UK,EMEA,Small
+10339,27,76.31,-0.804137744279774,2004-11-23,Shipped,4,11,2004,Planes,"Tokyo Collectables, Ltd",Japan,Japan,Small
+10361,23,95.2,-0.7336079694201659,2004-12-17,Shipped,4,12,2004,Planes,Souveniers And Things Co.,Australia,APAC,Small
+10373,25,64.97,-1.042158679138338,2005-01-31,Shipped,1,1,2005,Planes,"Oulu Toy Supplies, Inc.",Finland,EMEA,Small
+10386,50,87.15,0.4495654339547792,2005-03-01,Resolved,1,3,2005,Planes,Euro Shopping Channel,Spain,EMEA,Medium
+10398,34,40.22,-1.1822958786330493,2005-03-30,Shipped,1,3,2005,Planes,Reims Collectables,France,EMEA,Small
+10415,42,57.61,-0.6080701004020818,2005-05-09,Disputed,2,5,2005,Planes,"Australian Collectables, Ltd",Australia,APAC,Small
+10105,25,56.78,-1.1539049563379413,2003-02-11,Shipped,1,2,2003,Ships,Danish Wholesale Imports,Denmark,EMEA,Small
+10117,50,43.68,-0.7366642778563944,2003-04-16,Shipped,2,4,2003,Ships,"Dragon Souveniers, Ltd.",Singapore,Japan,Small
+10129,32,64.97,-0.7939482302611337,2003-06-12,Shipped,2,6,2003,Ships,"Stylish Desk Decors, Co.",UK,EMEA,Small
+10153,50,60.06,-0.28967916905798113,2003-09-28,Shipped,3,9,2003,Ships,Euro Shopping Channel,Spain,EMEA,Medium
+10167,38,48.59,-0.9209050996246096,2003-10-23,Cancelled,4,10,2003,Ships,Scandinavian Gift Ideas,Sweden,EMEA,Small
+10177,40,50.23,-0.8320647626158115,2003-11-07,Shipped,4,11,2003,Ships,CAF Imports,Spain,EMEA,Small
+10197,42,50.23,-0.7772367723473274,2003-11-26,Shipped,4,11,2003,Ships,Enaco Distributors,Spain,EMEA,Small
+10208,42,63.88,-0.464347196188438,2004-01-02,Shipped,1,1,2004,Ships,"Saveley & Henriot, Co.",France,EMEA,Small
+10232,24,49.69,-1.2777618557161,2004-03-20,Shipped,1,3,2004,Ships,giftsbymail.co.uk,UK,EMEA,Small
+10273,37,45.86,-1.0025521964209987,2004-07-21,Shipped,3,7,2004,Ships,Petit Auto,Belgium,EMEA,Small
+10293,32,60.06,-0.8796995126718866,2004-09-09,Shipped,3,9,2004,Ships,Amica Models & Co.,Italy,EMEA,Small
+10306,35,59.51,-0.7918688489857711,2004-10-14,Shipped,4,10,2004,Ships,"AV Stores, Co.",UK,EMEA,Small
+10315,40,55.69,-0.7128687336029014,2004-10-29,Shipped,4,10,2004,Ships,La Rochelle Gifts,France,EMEA,Small
+10327,37,86.74,-0.17704328779568984,2004-11-10,Resolved,4,11,2004,Ships,Danish Wholesale Imports,Denmark,EMEA,Medium
+10350,20,100.0,-0.7036998082942159,2004-12-02,Shipped,4,12,2004,Ships,Euro Shopping Channel,Spain,EMEA,Small
+10373,29,100.0,0.24272430283938173,2005-01-31,Shipped,1,1,2005,Ships,"Oulu Toy Supplies, Inc.",Finland,EMEA,Medium
+10386,43,100.0,1.0281191632391917,2005-03-01,Resolved,1,3,2005,Ships,Euro Shopping Channel,Spain,EMEA,Medium
+10397,34,62.24,-0.7736892714838479,2005-03-28,Shipped,1,3,2005,Ships,Alpha Cognac,France,EMEA,Small
