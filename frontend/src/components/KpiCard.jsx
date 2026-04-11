@@ -1,11 +1,12 @@
 import React from 'react'
 
-const KpiCard = ({ title, value }) => {
+const KpiCard = ({ title, value, helper }) => {
   return (
-    <div style={{ border: '1px solid #ccc', padding: '1rem', margin: '1rem', borderRadius: '8px', flex: 1 }}>
-      <h4>{title}</h4>
-      <h2>{value}</h2>
-    </div>
+    <article className="kpi-card">
+      <p className="kpi-title">{title}</p>
+      <p className="kpi-value">{value}</p>
+      <p className="kpi-helper">{helper}</p>
+    </article>
   )
 }
 
