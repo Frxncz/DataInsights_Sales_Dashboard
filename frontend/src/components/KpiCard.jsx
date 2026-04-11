@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const KpiCard = ({ title, value, helper }) => {
   return (
@@ -7,7 +7,7 @@ const KpiCard = ({ title, value, helper }) => {
       <p className="kpi-value">{value}</p>
       <p className="kpi-helper">{helper}</p>
     </article>
-  )
-}
+  );
+};
 
-export default KpiCard
+export default KpiCard;

@@ -1,11 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600&display=swap");
 
 .dashboard-page {
   min-height: 100vh;
   padding: 2.25rem 1.25rem 3rem;
   background:
-    radial-gradient(circle at 95% -10%, rgba(14, 165, 233, 0.18), transparent 38%),
-    radial-gradient(circle at -10% 20%, rgba(20, 184, 166, 0.12), transparent 36%),
+    radial-gradient(
+      circle at 95% -10%,
+      rgba(14, 165, 233, 0.18),
+      transparent 38%
+    ),
+    radial-gradient(
+      circle at -10% 20%,
+      rgba(20, 184, 166, 0.12),
+      transparent 36%
+    ),
     #f1f5f9;
   box-sizing: border-box;
 }
@@ -31,7 +39,9 @@
 
 .dashboard-eyebrow {
   margin: 0;
-  font: 700 0.73rem/1.1 'Manrope', sans-serif;
+  font:
+    700 0.73rem/1.1 "Manrope",
+    sans-serif;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: #0369a1;
@@ -39,14 +49,18 @@
 
 .dashboard-header h1 {
   margin: 0.18rem 0 0;
-  font: 800 1.65rem/1.22 'Manrope', sans-serif;
+  font:
+    800 1.65rem/1.22 "Manrope",
+    sans-serif;
   color: #0f172a;
 }
 
 .dashboard-subtitle {
   margin: 0.45rem 0 0;
   color: #334155;
-  font: 500 0.93rem/1.4 'Plus Jakarta Sans', sans-serif;
+  font:
+    500 0.93rem/1.4 "Plus Jakarta Sans",
+    sans-serif;
 }
 
 .refresh-button {
@@ -55,10 +69,14 @@
   background: linear-gradient(135deg, #0284c7, #2563eb);
   color: #ffffff;
   padding: 0.72rem 1.1rem;
-  font: 700 0.88rem/1 'Manrope', sans-serif;
+  font:
+    700 0.88rem/1 "Manrope",
+    sans-serif;
   cursor: pointer;
   box-shadow: 0 10px 22px -12px rgba(37, 99, 235, 0.95);
-  transition: transform 0.2s ease, filter 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    filter 0.2s ease;
 }
 
 .refresh-button:hover {
@@ -73,7 +91,9 @@
   background: #e0f2fe;
   border: 1px solid #7dd3fc;
   color: #0c4a6e;
-  font: 600 0.86rem/1.4 'Plus Jakarta Sans', sans-serif;
+  font:
+    600 0.86rem/1.4 "Plus Jakarta Sans",
+    sans-serif;
 }
 
 .dashboard-status.error {
@@ -99,7 +119,9 @@
 .kpi-title {
   margin: 0;
   color: #475569;
-  font: 600 0.81rem/1.25 'Manrope', sans-serif;
+  font:
+    600 0.81rem/1.25 "Manrope",
+    sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.07em;
 }
@@ -107,14 +129,18 @@
 .kpi-value {
   margin: 0.55rem 0 0;
   color: #0f172a;
-  font: 800 1.5rem/1.15 'Manrope', sans-serif;
+  font:
+    800 1.5rem/1.15 "Manrope",
+    sans-serif;
   overflow-wrap: anywhere;
 }
 
 .kpi-helper {
   margin: 0.3rem 0 0;
   color: #64748b;
-  font: 500 0.82rem/1.35 'Plus Jakarta Sans', sans-serif;
+  font:
+    500 0.82rem/1.35 "Plus Jakarta Sans",
+    sans-serif;
 }
 
 .chart-grid {
@@ -143,13 +169,17 @@
 .panel-head h2 {
   margin: 0;
   color: #0f172a;
-  font: 700 1.08rem/1.2 'Manrope', sans-serif;
+  font:
+    700 1.08rem/1.2 "Manrope",
+    sans-serif;
 }
 
 .panel-head p {
   margin: 0.4rem 0 0;
   color: #64748b;
-  font: 500 0.85rem/1.35 'Plus Jakarta Sans', sans-serif;
+  font:
+    500 0.85rem/1.35 "Plus Jakarta Sans",
+    sans-serif;
 }
 
 .chart-panel canvas {
