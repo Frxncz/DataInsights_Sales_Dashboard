@@ -147,7 +147,9 @@ function App() {
               <h2>Revenue by Product Line</h2>
               <p>Identify which categories drive total revenue.</p>
             </div>
-            <SalesBarChart data={productLineArray} />
+            <div className="chart-canvas-wrap chart-canvas-wrap-wide">
+              <SalesBarChart data={productLineArray} />
+            </div>
           </article>
 
           <article className="chart-panel">
@@ -155,7 +157,9 @@ function App() {
               <h2>Monthly Sales Trend</h2>
               <p>View sales direction month over month.</p>
             </div>
-            <MonthlyLineChart data={monthlyData} />
+            <div className="chart-canvas-wrap">
+              <MonthlyLineChart data={monthlyData} />
+            </div>
           </article>
 
           <article className="chart-panel">
@@ -163,7 +167,9 @@ function App() {
               <h2>Deal Size Distribution</h2>
               <p>Understand order mix by deal category.</p>
             </div>
-            <DealSizePieChart data={dealSizeData} />
+            <div className="chart-canvas-wrap">
+              <DealSizePieChart data={dealSizeData} />
+            </div>
           </article>
         </section>
       </div>

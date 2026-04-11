@@ -159,6 +159,7 @@
   display: grid;
   grid-template-rows: auto 1fr;
   gap: 0.8rem;
+  overflow: hidden;
 }
 
 .chart-panel.span-2 {
@@ -182,8 +183,20 @@
     sans-serif;
 }
 
-.chart-panel canvas {
-  max-height: 100%;
+.chart-canvas-wrap {
+  position: relative;
+  min-height: 0;
+  height: 300px;
+}
+
+.chart-canvas-wrap-wide {
+  height: 340px;
+}
+
+.chart-canvas-wrap canvas {
+  display: block;
+  height: 100% !important;
+  width: 100% !important;
 }
 
 @media (max-width: 1080px) {
@@ -198,6 +211,10 @@
   .chart-panel.span-2 {
     grid-column: span 1;
     min-height: 380px;
+  }
+
+  .chart-canvas-wrap-wide {
+    height: 300px;
   }
 }
 
@@ -219,5 +236,10 @@
   .chart-panel {
     min-height: 320px;
     padding: 0.95rem;
+  }
+
+  .chart-canvas-wrap,
+  .chart-canvas-wrap-wide {
+    height: 260px;
   }
 }
