@@ -204,7 +204,7 @@ Navigate to the frontend directory and install npm dependencies:
 
 ```bash
 cd frontend
-npm install
+npm ci
 ```
 
 This will install:
@@ -235,14 +235,13 @@ pip install pandas
 
 ### Step 4: Configure Environment Variables
 
-Create a `.env.local` file in the `frontend/` directory with your Supabase credentials:
+Create a `.env` file in the `frontend/` directory with your Supabase credentials (recommended: copy from `.env.example`):
 
 ```bash
 cd frontend
-# Create the environment file
-touch .env.local  # macOS/Linux
+copy .env.example .env  # Windows
 # or
-type nul > .env.local  # Windows
+cp .env.example .env    # macOS/Linux
 ```
 
 Then add your Supabase credentials:
@@ -252,7 +251,7 @@ VITE_SUPABASE_URL=your_supabase_url_here
 VITE_SUPABASE_ANON_KEY=your_anon_key_here
 ```
 
-**⚠️ Important**: Never commit `.env.local` to version control. It contains sensitive credentials.
+**⚠️ Important**: Never commit `.env` to version control. It contains sensitive credentials.
 
 ---
 
@@ -279,7 +278,7 @@ VITE_SUPABASE_ANON_KEY=your_anon_key_here
 
 Variables prefixed with `VITE_` are automatically exposed to the client-side code during build time. Other variables remain private.
 
-### .env.local Structure
+### .env Structure
 
 ```
 # Supabase Configuration
@@ -311,7 +310,7 @@ VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 2. Copy:
    - **Project URL** → `VITE_SUPABASE_URL`
    - **anon public** key → `VITE_SUPABASE_ANON_KEY`
-3. Store these in `.env.local`
+3. Store these in `.env`
 
 ### Step 3: Create Database Table
 
@@ -822,7 +821,7 @@ Set VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY in .env
 
 **Solutions**:
 
-1. ✅ Create `.env.local` file in `frontend/` directory
+1. ✅ Create `frontend/.env` from `frontend/.env.example`
 2. ✅ Add both `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY`
 3. ✅ Restart dev server: `npm run dev`
 4. ✅ Verify credentials in Supabase Dashboard → Settings → API
@@ -830,12 +829,12 @@ Set VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY in .env
 **Verification**:
 
 ```bash
-# Check if .env.local exists
-ls -la frontend/.env.local  # macOS/Linux
-dir frontend\.env.local     # Windows
+# Check if frontend/.env exists
+ls -la frontend/.env  # macOS/Linux
+dir frontend\.env     # Windows
 
 # Verify file contents (check for typos)
-cat frontend/.env.local
+cat frontend/.env
 ```
 
 ---
@@ -850,12 +849,12 @@ Error: Cannot find module 'react'
 
 **Solutions**:
 
-1. ✅ Install dependencies: `npm install`
+1. ✅ Install dependencies: `npm ci`
 2. ✅ Delete `node_modules` and reinstall:
    ```bash
-   rm -rf node_modules package-lock.json  # macOS/Linux
-   rmdir /s node_modules                   # Windows
-   npm install
+   rm -rf node_modules   # macOS/Linux
+   rmdir /s node_modules # Windows
+   npm ci
    ```
 3. ✅ Check Node version: `node --version` (should be v16+)
 
@@ -885,7 +884,7 @@ Error: Cannot find module 'react'
    - Verify it has data: `SELECT COUNT(*) FROM sales;`
 
 3. ✅ **Check API credentials**:
-   - Verify `.env.local` has correct credentials
+   - Verify `frontend/.env` has correct credentials
    - Compare with Supabase Dashboard → Settings → API
 
 4. ✅ **Check browser console**:
@@ -1068,8 +1067,8 @@ If issues persist:
 
 ⚠️ **Environment Variables**
 
-- Never commit `.env.local` to git
-- Add `.env.local` to `.gitignore`
+- Never commit `.env` / `.env.local` to git
+- Ensure `.env` is ignored by `.gitignore`
 - Keep credentials confidential
 - Rotate keys periodically
 

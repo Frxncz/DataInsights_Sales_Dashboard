@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("raw_sales.csv", encoding='latin1')
+df = pd.read_csv("dataset/raw_sales.csv", encoding="latin1")
 
 # Select only needed columns
 df = df[[
@@ -13,4 +13,4 @@ df = df[[
 df.columns = [col.lower().strip() for col in df.columns]
 
 # Save cleaned version
-df.to_csv("cleaned_for_supabase.csv", index=False)
+df.to_csv("dataset/cleaned_for_supabase.csv", index=False)

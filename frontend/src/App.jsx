@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from "react";
-import { supabase } from "./supabaseClient";
+import { supabase, supabaseConfigured } from "./supabaseClient";
 import KpiCard from "./components/KpiCard";
 import SalesBarChart from "./components/SalesBarChart";
 import MonthlyLineChart from "./components/MonthlyLineChart";
@@ -20,10 +20,25 @@ function App() {
   const [error, setError] = useState("");
 
   useEffect(() => {
+    if (!supabaseConfigured) {
+      setLoading(false);
+      setError(
+        "Missing Supabase config. Create frontend/.env from frontend/.env.example and set VITE_SUPABASE_URL + VITE_SUPABASE_ANON_KEY.",
+      );
+      return;
+    }
     fetchData();
   }, []);
 
   const fetchData = async () => {
+    if (!supabaseConfigured || !supabase) {
+      setLoading(false);
+      setError(
+        "Missing Supabase config. Create frontend/.env from frontend/.env.example and set VITE_SUPABASE_URL + VITE_SUPABASE_ANON_KEY.",
+      );
+      return;
+    }
+
     setLoading(true);
     setError("");
 
@@ -104,7 +119,17 @@ function App() {
               Track revenue, orders, and sales mix in one place.
             </p>
           </div>
-          <button className="refresh-button" onClick={fetchData} type="button">
+          <button
+            className="refresh-button"
+            onClick={fetchData}
+            type="button"
+            disabled={!supabaseConfigured || loading}
+            title={
+              !supabaseConfigured
+                ? "Set Supabase env vars in frontend/.env to enable data refresh"
+                : undefined
+            }
+          >
             Refresh Data
           </button>
         </header>
