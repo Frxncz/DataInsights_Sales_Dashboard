@@ -354,6 +354,18 @@ CREATE INDEX idx_sales_productline ON public.sales(productline);
    - This allows public read-only access
 5. Click **Review** → **Save**
 
+**Note**: If RLS is enabled and you do not have a `SELECT` policy for your client key (`anon`), the dashboard will connect successfully but return **0 rows** (all metrics will show `0`/`N/A`).
+
+Development-only SQL example:
+
+```sql
+create policy "Public read"
+on public.sales
+for select
+to anon, authenticated
+using (true);
+```
+
 ### Step 5: Load Data into Supabase
 
 See the [Data Loading Guide](#data-loading-guide) section below for detailed instructions.
