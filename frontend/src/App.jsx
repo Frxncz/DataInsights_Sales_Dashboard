@@ -23,7 +23,7 @@ function App() {
     if (!supabaseConfigured) {
       setLoading(false);
       setError(
-        "Missing Supabase config. Create frontend/.env from frontend/.env.example and set VITE_SUPABASE_URL + VITE_SUPABASE_ANON_KEY.",
+        "Missing Supabase config. Create frontend/.env from frontend/.env.example and set VITE_SUPABASE_URL + VITE_SUPABASE_ANON_KEY (or VITE_SUPABASE_PUBLISHABLE_KEY).",
       );
       return;
     }
@@ -34,7 +34,7 @@ function App() {
     if (!supabaseConfigured || !supabase) {
       setLoading(false);
       setError(
-        "Missing Supabase config. Create frontend/.env from frontend/.env.example and set VITE_SUPABASE_URL + VITE_SUPABASE_ANON_KEY.",
+        "Missing Supabase config. Create frontend/.env from frontend/.env.example and set VITE_SUPABASE_URL + VITE_SUPABASE_ANON_KEY (or VITE_SUPABASE_PUBLISHABLE_KEY).",
       );
       return;
     }
