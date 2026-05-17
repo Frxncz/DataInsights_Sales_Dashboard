@@ -4,6 +4,7 @@ import KpiCard from "./components/KpiCard";
 import SalesBarChart from "./components/SalesBarChart";
 import MonthlyLineChart from "./components/MonthlyLineChart";
 import DealSizePieChart from "./components/DealSizePieChart";
+import { geminiConfigured, generateGeminiText } from "./ai/gemini";
 import "./App.css";
 
 const parseNumber = (value) => {
@@ -51,6 +52,10 @@ function App() {
   const [salesData, setSalesData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+  const [aiQuestion, setAiQuestion] = useState("");
+  const [aiAnswer, setAiAnswer] = useState("");
+  const [aiLoading, setAiLoading] = useState(false);
+  const [aiError, setAiError] = useState("");
 
   useEffect(() => {
     if (!supabaseConfigured) {
@@ -148,6 +153,62 @@ function App() {
 
   const topProductLine = productLineArray[0];
 
+  const handleGenerateInsight = async () => {
+    setAiLoading(true);
+    setAiError("");
+    setAiAnswer("");
+
+    try {
+      const topProductLines = productLineArray.slice(0, 5).map((row) => ({
+        productline: row.productline,
+        revenue: Math.round(row.total_sales),
+      }));
+
+      const monthlyTrend = monthlyData.slice(0, 12).map((row) => ({
+        month_id: row.month_id,
+        revenue: Math.round(row.monthly_sales),
+      }));
+
+      const dealMix = dealSizeData
+        .slice()
+        .sort((a, b) => b.count - a.count)
+        .map((row) => ({ dealsize: row.dealsize, count: row.count }));
+
+      const context = {
+        table: supabaseSalesTable,
+        rows: salesData.length,
+        kpis: {
+          totalRevenue: Math.round(totalSales),
+          averageOrderValue: Math.round(avgSales),
+          totalOrders: salesData.length,
+        },
+        topProductLines,
+        monthlyTrend,
+        dealMix,
+      };
+
+      const prompt = `You are a business analyst for a sales dashboard.
+Use ONLY the JSON data below as your context; do not invent extra facts.
+Return:
+1) 4-6 bullet insights grounded in the data
+2) 2 actionable recommendations
+3) A 1-sentence executive summary
+
+JSON:
+${JSON.stringify(context, null, 2)}
+
+User question (optional):
+${aiQuestion || "(none)"}`;
+
+      const text = await generateGeminiText({ prompt });
+      setAiAnswer(text);
+    } catch (err) {
+      setAiError(err?.message || "AI request failed.");
+    } finally {
+      setAiLoading(false);
+    }
+  };
+
   return (
     <main className="dashboard-page">
       <div className="dashboard-shell">
@@ -240,6 +301,83 @@ function App() {
             </div>
             <div className="chart-canvas-wrap">
               <DealSizePieChart data={dealSizeData} />
+            </div>
+          </article>
+        </section>
+
+        <section className="chart-grid" aria-label="AI insights">
+          <article className="chart-panel span-2">
+            <div className="panel-head">
+              <h2>AI Insights</h2>
+              <p>
+                Generate a natural-language summary based on your live dataset
+                from Supabase.
+              </p>
+            </div>
+
+            {!geminiConfigured && (
+              <p className="dashboard-status error">
+                Missing AI config. Set <code>VITE_GEMINI_API_KEY</code> in{" "}
+                <code>frontend/.env</code> to enable AI insights.
+              </p>
+            )}
+
+            <div style={{ display: "grid", gap: 12 }}>
+              <label style={{ display: "grid", gap: 6 }}>
+                <span style={{ fontWeight: 600 }}>Ask a question (optional)</span>
+                <input
+                  value={aiQuestion}
+                  onChange={(e) => setAiQuestion(e.target.value)}
+                  placeholder="e.g., Which product lines should we prioritize next quarter?"
+                  style={{
+                    width: "100%",
+                    padding: "12px 14px",
+                    borderRadius: 12,
+                    border: "1px solid rgba(15, 23, 42, 0.15)",
+                  }}
+                />
+              </label>
+
+              <div style={{ display: "flex", gap: 12, alignItems: "center" }}>
+                <button
+                  className="refresh-button"
+                  type="button"
+                  onClick={handleGenerateInsight}
+                  disabled={!geminiConfigured || aiLoading || loading || !!error}
+                  title={
+                    !geminiConfigured
+                      ? "Set VITE_GEMINI_API_KEY in frontend/.env"
+                      : undefined
+                  }
+                >
+                  {aiLoading ? "Generating..." : "Generate Insight"}
+                </button>
+
+                {aiError && (
+                  <p className="dashboard-status error" style={{ margin: 0 }}>
+                    {aiError}
+                  </p>
+                )}
+              </div>
+
+              {aiAnswer && (
+                <pre
+                  style={{
+                    whiteSpace: "pre-wrap",
+                    margin: 0,
+                    padding: 16,
+                    borderRadius: 16,
+                    background: "rgba(15, 23, 42, 0.04)",
+                    border: "1px solid rgba(15, 23, 42, 0.08)",
+                    fontFamily:
+                      "ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+                    fontSize: 13,
+                    lineHeight: 1.5,
+                  }}
+                >
+                  {aiAnswer}
+                </pre>
+              )}
             </div>
           </article>
         </section>

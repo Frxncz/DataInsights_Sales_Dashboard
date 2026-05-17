@@ -585,6 +585,22 @@ npm run dev
 
 Open your browser and navigate to `http://localhost:5173/`
 
+### AI Insights (Gemini - Free Tier)
+
+This dashboard includes an **AI Insights** panel that generates a short, data-driven narrative using your live Supabase data.
+
+1. Get a free API key from **Google AI Studio** (Gemini free tier)
+2. Add it to `frontend/.env`:
+
+```env
+VITE_GEMINI_API_KEY=your_gemini_api_key
+VITE_GEMINI_MODEL=gemini-1.5-flash
+```
+
+Then restart the dev server (`npm run dev`) and click **Generate Insight** in the dashboard.
+
+**Note**: This is a client-side demo integration (for coursework). Do not expose production secrets in a frontend app.
+
 ### Features in Development Mode
 
 - 🔥 **Hot Module Replacement (HMR)**: Changes automatically reload
