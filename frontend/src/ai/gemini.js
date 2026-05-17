@@ -1,4 +1,5 @@
 const geminiApiKey = import.meta.env.VITE_GEMINI_API_KEY;
+console.log("Gemini key set?", Boolean(import.meta.env.VITE_GEMINI_API_KEY));
 const geminiModel = import.meta.env.VITE_GEMINI_MODEL || "gemini-1.5-flash";
 
 export const geminiConfigured = Boolean(geminiApiKey);
