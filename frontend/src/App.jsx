@@ -15,15 +15,26 @@ const parseNumber = (value) => {
   return Number.isFinite(parsed) ? parsed : 0;
 };
 
+const pickFirst = (row, keys) => {
+  for (const key of keys) {
+    if (row && Object.prototype.hasOwnProperty.call(row, key)) return row[key];
+  }
+  return undefined;
+};
+
 const getRowRevenue = (row) => {
-  const salesValue = parseNumber(row?.sales);
+  const salesValue = parseNumber(pickFirst(row, ["sales", "SALES", "Sales", "total_sales", "TOTAL_SALES"]));
 
   // Heuristic: normalized/z-score sales often sit in a small range like -5..5.
   // If sales looks normalized, fall back to `priceeach * quantityordered` when available.
   if (Math.abs(salesValue) >= 10) return salesValue;
 
-  const priceEach = parseNumber(row?.priceeach);
-  const quantity = parseNumber(row?.quantityordered);
+  const priceEach = parseNumber(
+    pickFirst(row, ["priceeach", "PRICEEACH", "PriceEach", "price_each"]),
+  );
+  const quantity = parseNumber(
+    pickFirst(row, ["quantityordered", "QUANTITYORDERED", "QuantityOrdered", "quantity_ordered"]),
+  );
   const computed = priceEach && quantity ? priceEach * quantity : salesValue;
   return Number.isFinite(computed) ? computed : 0;
 };
@@ -90,7 +101,9 @@ function App() {
 
   const monthlyData = useMemo(() => {
     const months = salesData.reduce((acc, item) => {
-      const key = Number(item.month_id);
+      const key = parseNumber(
+        pickFirst(item, ["month_id", "MONTH_ID", "MonthId", "month"]),
+      );
       if (!Number.isFinite(key)) return acc;
       acc[key] = (acc[key] || 0) + getRowRevenue(item);
       return acc;
@@ -106,7 +119,9 @@ function App() {
 
   const dealSizeData = useMemo(() => {
     const deals = salesData.reduce((acc, item) => {
-      const key = item.dealsize || "Unknown";
+      const key =
+        pickFirst(item, ["dealsize", "DEALSIZE", "DealSize", "deal_size"]) ||
+        "Unknown";
       acc[key] = (acc[key] || 0) + 1;
       return acc;
     }, {});
@@ -119,7 +134,9 @@ function App() {
 
   const productLineArray = useMemo(() => {
     const productLineData = salesData.reduce((acc, item) => {
-      const key = item.productline || "Unspecified";
+      const key =
+        pickFirst(item, ["productline", "PRODUCTLINE", "ProductLine", "product_line"]) ||
+        "Unspecified";
       acc[key] = (acc[key] || 0) + getRowRevenue(item);
       return acc;
     }, {});
@@ -160,6 +177,12 @@ function App() {
         {loading && <p className="dashboard-status">Loading sales data...</p>}
         {error && (
           <p className="dashboard-status error">Error loading data: {error}</p>
+        )}
+        {!loading && !error && salesData.length === 0 && (
+          <p className="dashboard-status error">
+            No rows returned from Supabase. Confirm the table has data and that
+            Row Level Security policies allow SELECT for your key.
+          </p>
         )}
 
         <section className="kpi-grid" aria-label="Sales KPI summary">
