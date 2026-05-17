@@ -1,23 +1,37 @@
 import pandas as pd
+import os
 
-# Load dataset
-df = pd.read_csv("dataset/cleaned_for_supabase.csv", encoding='latin1')
+# Set paths
+base_dir = os.path.dirname(__file__)
+input_path = os.path.join(base_dir, "../dataset/raw_sales.csv")
+output_path = os.path.join(base_dir, "../dataset/cleaned_for_supabase.csv")
 
-# 1. Remove missing values
-df = df.dropna()
+# Read CSV
+df = pd.read_csv(input_path, encoding="latin1")
 
-# 2. Convert ORDERDATE to proper format
+# Normalize column names
+df.columns = df.columns.str.strip().str.upper()
+
+# Select only needed columns
+df = df[[
+    'ORDERNUMBER','QUANTITYORDERED','PRICEEACH','SALES','ORDERDATE',
+    'STATUS','QTR_ID','MONTH_ID','YEAR_ID','PRODUCTLINE',
+    'CUSTOMERNAME','COUNTRY','TERRITORY','DEALSIZE'
+]]
+
+# Convert column names to lowercase
+df.columns = df.columns.str.lower()
+
+# Convert ORDERDATE to datetime
 df['orderdate'] = pd.to_datetime(df['orderdate'])
 
-# 3. Normalize SALES column
-df['sales'] = (df['sales'] - df['sales'].mean()) / df['sales'].std()
+# 🔥 ADD PRIMARY KEY COLUMN (IMPORTANT)
+df.insert(0, 'id', range(1, len(df) + 1))
 
-# 4. Remove outliers using IQR
-Q1 = df['sales'].quantile(0.25)
-Q3 = df['sales'].quantile(0.75)
-IQR = Q3 - Q1
+# Ensure output folder exists
+os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-df = df[(df['sales'] >= Q1 - 1.5 * IQR) & (df['sales'] <= Q3 + 1.5 * IQR)]
+# Save cleaned version
+df.to_csv(output_path, index=False)
 
-# 5. Save cleaned dataset
-df.to_csv("dataset/cleaned_sales.csv", index=False)
+print("Cleaned dataset with primary key 'id' created successfully!")
