@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from "react";
-import { supabase, supabaseConfigured } from "./supabaseClient";
+import { supabase, supabaseConfigured, supabaseSalesTable } from "./supabaseClient";
 import KpiCard from "./components/KpiCard";
 import SalesBarChart from "./components/SalesBarChart";
 import MonthlyLineChart from "./components/MonthlyLineChart";
@@ -43,7 +43,7 @@ function App() {
     setError("");
 
     const { data, error: queryError } = await supabase
-      .from("sales")
+      .from(supabaseSalesTable)
       .select("*");
 
     if (queryError) {
