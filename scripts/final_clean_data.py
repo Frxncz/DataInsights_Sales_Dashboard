@@ -25,7 +25,7 @@ df.columns = df.columns.str.lower()
 # Convert ORDERDATE to datetime
 df['orderdate'] = pd.to_datetime(df['orderdate'])
 
-# 🔥 ADD PRIMARY KEY COLUMN (IMPORTANT)
+# ADD PRIMARY KEY COLUMN (IMPORTANT)
 df.insert(0, 'id', range(1, len(df) + 1))
 
 # Ensure output folder exists
