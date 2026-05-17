@@ -6,6 +6,28 @@ import MonthlyLineChart from "./components/MonthlyLineChart";
 import DealSizePieChart from "./components/DealSizePieChart";
 import "./App.css";
 
+const parseNumber = (value) => {
+  if (typeof value === "number") return Number.isFinite(value) ? value : 0;
+  if (typeof value !== "string") return 0;
+
+  const normalized = value.replace(/[$,\s]/g, "");
+  const parsed = Number(normalized);
+  return Number.isFinite(parsed) ? parsed : 0;
+};
+
+const getRowRevenue = (row) => {
+  const salesValue = parseNumber(row?.sales);
+
+  // Heuristic: normalized/z-score sales often sit in a small range like -5..5.
+  // If sales looks normalized, fall back to `priceeach * quantityordered` when available.
+  if (Math.abs(salesValue) >= 10) return salesValue;
+
+  const priceEach = parseNumber(row?.priceeach);
+  const quantity = parseNumber(row?.quantityordered);
+  const computed = priceEach && quantity ? priceEach * quantity : salesValue;
+  return Number.isFinite(computed) ? computed : 0;
+};
+
 const currencyFormatter = new Intl.NumberFormat("en-US", {
   style: "currency",
   currency: "USD",
@@ -57,7 +79,7 @@ function App() {
   };
 
   const totalSales = useMemo(
-    () => salesData.reduce((sum, item) => sum + Number(item.sales || 0), 0),
+    () => salesData.reduce((sum, item) => sum + getRowRevenue(item), 0),
     [salesData],
   );
 
@@ -69,7 +91,8 @@ function App() {
   const monthlyData = useMemo(() => {
     const months = salesData.reduce((acc, item) => {
       const key = Number(item.month_id);
-      acc[key] = (acc[key] || 0) + Number(item.sales || 0);
+      if (!Number.isFinite(key)) return acc;
+      acc[key] = (acc[key] || 0) + getRowRevenue(item);
       return acc;
     }, {});
 
@@ -97,7 +120,7 @@ function App() {
   const productLineArray = useMemo(() => {
     const productLineData = salesData.reduce((acc, item) => {
       const key = item.productline || "Unspecified";
-      acc[key] = (acc[key] || 0) + Number(item.sales || 0);
+      acc[key] = (acc[key] || 0) + getRowRevenue(item);
       return acc;
     }, {});
 
