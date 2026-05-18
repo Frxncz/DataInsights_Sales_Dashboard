@@ -585,16 +585,16 @@ npm run dev
 
 Open your browser and navigate to `http://localhost:5173/`
 
-### AI Insights (Gemini - Free Tier)
+### AI Insights (Groq - Free Tier)
 
 This dashboard includes an **AI Insights** panel that generates a short, data-driven narrative using your live Supabase data.
 
-1. Get a free API key from **Google AI Studio** (Gemini free tier)
+1. Get a free API key from **Groq** (free tier)
 2. Add it to `frontend/.env`:
 
 ```env
-VITE_GEMINI_API_KEY=your_gemini_api_key
-VITE_GEMINI_MODEL=gemini-1.5-flash
+VITE_GROQ_API_KEY=your_groq_api_key
+VITE_GROQ_MODEL=llama-3.1-8b-instant
 ```
 
 Then restart the dev server (`npm run dev`) and click **Generate Insight** in the dashboard.

@@ -4,7 +4,7 @@ import KpiCard from "./components/KpiCard";
 import SalesBarChart from "./components/SalesBarChart";
 import MonthlyLineChart from "./components/MonthlyLineChart";
 import DealSizePieChart from "./components/DealSizePieChart";
-import { geminiConfigured, generateGeminiText } from "./ai/gemini";
+import { groqConfigured, generateGroqText } from "./ai/groq";
 import "./App.css";
 
 const parseNumber = (value) => {
@@ -200,7 +200,7 @@ ${JSON.stringify(context, null, 2)}
 User question (optional):
 ${aiQuestion || "(none)"}`;
 
-      const text = await generateGeminiText({ prompt });
+      const text = await generateGroqText({ prompt });
       setAiAnswer(text);
     } catch (err) {
       setAiError(err?.message || "AI request failed.");
@@ -315,9 +315,9 @@ ${aiQuestion || "(none)"}`;
               </p>
             </div>
 
-            {!geminiConfigured && (
+            {!groqConfigured && (
               <p className="dashboard-status error">
-                Missing AI config. Set <code>VITE_GEMINI_API_KEY</code> in{" "}
+                Missing AI config. Set <code>VITE_GROQ_API_KEY</code> in{" "}
                 <code>frontend/.env</code> to enable AI insights.
               </p>
             )}
@@ -343,10 +343,10 @@ ${aiQuestion || "(none)"}`;
                   className="refresh-button"
                   type="button"
                   onClick={handleGenerateInsight}
-                  disabled={!geminiConfigured || aiLoading || loading || !!error}
+                  disabled={!groqConfigured || aiLoading || loading || !!error}
                   title={
-                    !geminiConfigured
-                      ? "Set VITE_GEMINI_API_KEY in frontend/.env"
+                    !groqConfigured
+                      ? "Set VITE_GROQ_API_KEY in frontend/.env"
                       : undefined
                   }
                 >
