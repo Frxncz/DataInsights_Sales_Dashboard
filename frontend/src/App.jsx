@@ -52,6 +52,7 @@ function App() {
   const [salesData, setSalesData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+  const [selectedProductLine, setSelectedProductLine] = useState("All");
   const [aiQuestion, setAiQuestion] = useState("");
   const [aiAnswer, setAiAnswer] = useState("");
   const [aiLoading, setAiLoading] = useState(false);
@@ -94,18 +95,48 @@ function App() {
     setLoading(false);
   };
 
+  const productLineOptions = useMemo(() => {
+    const values = new Set();
+    for (const row of salesData) {
+      const v =
+        pickFirst(row, [
+          "productline",
+          "PRODUCTLINE",
+          "ProductLine",
+          "product_line",
+        ]) || "";
+      if (String(v).trim()) values.add(String(v));
+    }
+    return ["All", ...Array.from(values).sort((a, b) => a.localeCompare(b))];
+  }, [salesData]);
+
+  const filteredSalesData = useMemo(() => {
+    if (selectedProductLine === "All") return salesData;
+    return salesData.filter((row) => {
+      const v =
+        pickFirst(row, [
+          "productline",
+          "PRODUCTLINE",
+          "ProductLine",
+          "product_line",
+        ]) || "";
+      return String(v) === selectedProductLine;
+    });
+  }, [salesData, selectedProductLine]);
+
   const totalSales = useMemo(
-    () => salesData.reduce((sum, item) => sum + getRowRevenue(item), 0),
-    [salesData],
+    () => filteredSalesData.reduce((sum, item) => sum + getRowRevenue(item), 0),
+    [filteredSalesData],
   );
 
   const avgSales = useMemo(
-    () => (salesData.length ? totalSales / salesData.length : 0),
-    [salesData, totalSales],
+    () =>
+      filteredSalesData.length ? totalSales / filteredSalesData.length : 0,
+    [filteredSalesData, totalSales],
   );
 
   const monthlyData = useMemo(() => {
-    const months = salesData.reduce((acc, item) => {
+    const months = filteredSalesData.reduce((acc, item) => {
       const key = parseNumber(
         pickFirst(item, ["month_id", "MONTH_ID", "MonthId", "month"]),
       );
@@ -120,10 +151,10 @@ function App() {
         monthly_sales,
       }))
       .sort((a, b) => a.month_id - b.month_id);
-  }, [salesData]);
+  }, [filteredSalesData]);
 
   const dealSizeData = useMemo(() => {
-    const deals = salesData.reduce((acc, item) => {
+    const deals = filteredSalesData.reduce((acc, item) => {
       const key =
         pickFirst(item, ["dealsize", "DEALSIZE", "DealSize", "deal_size"]) ||
         "Unknown";
@@ -135,10 +166,10 @@ function App() {
       dealsize,
       count,
     }));
-  }, [salesData]);
+  }, [filteredSalesData]);
 
   const productLineArray = useMemo(() => {
-    const productLineData = salesData.reduce((acc, item) => {
+    const productLineData = filteredSalesData.reduce((acc, item) => {
       const key =
         pickFirst(item, ["productline", "PRODUCTLINE", "ProductLine", "product_line"]) ||
         "Unspecified";
@@ -149,7 +180,7 @@ function App() {
     return Object.entries(productLineData)
       .map(([productline, total_sales]) => ({ productline, total_sales }))
       .sort((a, b) => b.total_sales - a.total_sales);
-  }, [salesData]);
+  }, [filteredSalesData]);
 
   const topProductLine = productLineArray[0];
 
@@ -176,11 +207,12 @@ function App() {
 
       const context = {
         table: supabaseSalesTable,
-        rows: salesData.length,
+        rows: filteredSalesData.length,
+        filter: { productline: selectedProductLine },
         kpis: {
           totalRevenue: Math.round(totalSales),
           averageOrderValue: Math.round(avgSales),
-          totalOrders: salesData.length,
+          totalOrders: filteredSalesData.length,
         },
         topProductLines,
         monthlyTrend,
@@ -246,6 +278,32 @@ ${aiQuestion || "(none)"}`;
           </p>
         )}
 
+        <div style={{ display: "flex", gap: 12, alignItems: "center", flexWrap: "wrap" }}>
+          <label style={{ display: "flex", gap: 10, alignItems: "center" }}>
+            <span style={{ fontWeight: 600 }}>Product line:</span>
+            <select
+              value={selectedProductLine}
+              onChange={(e) => setSelectedProductLine(e.target.value)}
+              style={{
+                padding: "10px 12px",
+                borderRadius: 12,
+                border: "1px solid rgba(15, 23, 42, 0.15)",
+                background: "white",
+              }}
+              aria-label="Filter by product line"
+            >
+              {productLineOptions.map((option) => (
+                <option key={option} value={option}>
+                  {option === "All" ? "All product lines" : option}
+                </option>
+              ))}
+            </select>
+          </label>
+          <p className="dashboard-subtitle" style={{ margin: 0 }}>
+            Showing {filteredSalesData.length} / {salesData.length} rows
+          </p>
+        </div>
+
         <section className="kpi-grid" aria-label="Sales KPI summary">
           <KpiCard
             title="Total Revenue"
@@ -259,7 +317,7 @@ ${aiQuestion || "(none)"}`;
           />
           <KpiCard
             title="Total Orders"
-            value={numberFormatter.format(salesData.length)}
+            value={numberFormatter.format(filteredSalesData.length)}
             helper="Completed orders"
           />
           <KpiCard
