@@ -66,7 +66,7 @@ Yes! The project is cross-platform. All commands work on:
 - macOS (Terminal)
 - Linux (any terminal)
 
-### What if npm install fails?
+### What if npm ci/install fails?
 
 Common solutions:
 
@@ -79,10 +79,10 @@ rm -rf node_modules package-lock.json  # macOS/Linux
 rmdir /s node_modules                   # Windows
 
 # Reinstall
-npm install
+npm ci
 
 # If still failing, try different registry
-npm install --registry https://registry.npmmirror.com
+npm ci --registry https://registry.npmmirror.com
 ```
 
 ---
@@ -199,8 +199,9 @@ netlify deploy --prod --dir=frontend/dist
 # Pull latest changes
 git pull origin main
 
-# Install new dependencies (if any)
-npm install
+# Install dependencies
+cd frontend
+npm ci
 
 # Restart dev server
 npm run dev
@@ -461,8 +462,8 @@ See [Supabase Auth Docs](https://supabase.com/docs/guides/auth)
 
 1. Open browser console (F12)
 2. Check for error messages
-3. Verify Supabase credentials in `.env.local`
-4. Run in Supabase: `SELECT COUNT(*) FROM sales;`
+3. Verify Supabase credentials in `frontend/.env`
+4. Run in Supabase: `SELECT COUNT(*) FROM cleaned_for_supabase;` (or your configured table)
 5. Check network tab for failed requests
 
 ### "Cannot find module 'react'" error
@@ -470,8 +471,8 @@ See [Supabase Auth Docs](https://supabase.com/docs/guides/auth)
 ```bash
 # Reinstall dependencies
 cd frontend
-rm -rf node_modules package-lock.json
-npm install
+rm -rf node_modules
+npm ci
 ```
 
 ### Charts not displaying
@@ -510,7 +511,7 @@ console.log("Data length:", salesData.length);
 
 **Check**:
 
-1. File is `.env.local` (not `.env`)
+1. File is `frontend/.env` (not `.env.local`)
 2. Located in `frontend/` directory
 3. Variables prefixed with `VITE_`
 4. Restarted dev server after changes
@@ -617,7 +618,7 @@ Use services like:
 
 ### Are my credentials safe?
 
-- ✅ `.env.local` is git-ignored (never committed)
+- ✅ `frontend/.env` is git-ignored (never committed)
 - ✅ Keys only exposed to client-side (use RLS in Supabase)
 - ✅ No hardcoded secrets in code
 
@@ -630,7 +631,7 @@ Use services like:
 # In Supabase Dashboard
 # Settings → API → Click rotate icon
 # Copy new key
-# Update .env.local and deployment settings
+# Update frontend/.env and deployment settings
 ```
 
 ### Should I use Row-Level Security (RLS)?

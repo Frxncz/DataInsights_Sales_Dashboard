@@ -153,6 +153,13 @@ DataInsights_Sales_Dashboard/
 
 ```
 
+### Additional scripts added for final requirements
+
+- `scripts/make_submission_dataset.py`: creates a deterministic 1000-row subset (`dataset/submission_raw_sales_1000.csv`) for submission requirements.
+- `scripts/queries.py` and `scripts/queries.sql`: three business queries with printed/output results.
+- `scripts/load_to_supabase.py`: loads a CSV to Supabase using the REST API (PostgREST) with `SUPABASE_URL` and `SUPABASE_KEY`.
+- AI integration uses Groq (`llama-3.1-8b-instant`) and is configured via `VITE_GROQ_API_KEY` in `frontend/.env`.
+
 ---
 
 ## 📋 Prerequisites
@@ -249,6 +256,12 @@ Then add your Supabase credentials:
 ```
 VITE_SUPABASE_URL=your_supabase_url_here
 VITE_SUPABASE_ANON_KEY=your_anon_key_here
+VITE_SUPABASE_PUBLISHABLE_KEY=your_publishable_key_here  # optional
+VITE_SUPABASE_SALES_TABLE=sales                           # optional (set if your table name differs)
+
+# AI (Groq)
+VITE_GROQ_API_KEY=your_groq_api_key
+VITE_GROQ_MODEL=llama-3.1-8b-instant
 ```
 
 **⚠️ Important**: Never commit `.env` to version control. It contains sensitive credentials.
@@ -406,7 +419,7 @@ The project includes two Python scripts for data processing:
 ```python
 import pandas as pd
 
-df = pd.read_csv("raw_sales.csv", encoding='latin1')
+df = pd.read_csv("dataset/raw_sales.csv", encoding="latin1")
 
 # Select only needed columns
 df = df[[
@@ -419,7 +432,7 @@ df = df[[
 df.columns = [col.lower().strip() for col in df.columns]
 
 # Save cleaned version
-df.to_csv("cleaned_for_supabase.csv", index=False)
+df.to_csv("dataset/cleaned_for_supabase.csv", index=False)
 ```
 
 **What it does**:
@@ -981,7 +994,7 @@ Access to XMLHttpRequest blocked by CORS policy
 
 ---
 
-#### Issue 6: "npm install hangs or fails"
+#### Issue 6: "npm ci/install hangs or fails"
 
 **Solutions**:
 
@@ -989,13 +1002,13 @@ Access to XMLHttpRequest blocked by CORS policy
 
    ```bash
    npm cache clean --force
-   npm install
+   npm ci
    ```
 
 2. ✅ Use different registry:
 
    ```bash
-   npm install --registry https://registry.npmmirror.com
+   npm ci --registry https://registry.npmmirror.com
    ```
 
 3. ✅ Check internet connection and try again
