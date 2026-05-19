@@ -56,12 +56,14 @@ def main() -> None:
     outdir = Path(args.outdir)
     outdir.mkdir(parents=True, exist_ok=True)
 
-    # Ensure numeric columns are numeric (coerce invalid to NaN -> 0 for sums).
+    # Ensure numeric columns are numeric (coerce invalid values to NaN).
+    # We keep NaN as-is; pandas will ignore NaNs in sums by default.
     for col in ["sales", "priceeach", "quantityordered", "month_id", "year_id"]:
         if col in df.columns:
             df[col] = pd.to_numeric(df[col], errors="coerce")
 
-    # Query 1: Top 5 product lines by revenue
+    # Query 1 (business question):
+    # "Which product lines contribute the most total revenue?"
     q1 = (
         df.groupby("productline", dropna=False)["sales"]
         .sum(min_count=1)
@@ -73,7 +75,8 @@ def main() -> None:
     print(q1.to_string(index=False))
     q1.to_csv(outdir / "q1_top_productlines.csv", index=False)
 
-    # Query 2: Monthly revenue trend (year + month)
+    # Query 2 (business question):
+    # "How does revenue change over time (monthly trend)?"
     q2 = (
         df.groupby(["year_id", "month_id"], dropna=False)["sales"]
         .sum(min_count=1)
@@ -86,7 +89,8 @@ def main() -> None:
         print(f"... ({len(q2)} rows total; full CSV written to {outdir / 'q2_monthly_revenue.csv'})")
     q2.to_csv(outdir / "q2_monthly_revenue.csv", index=False)
 
-    # Query 3: Deal size distribution
+    # Query 3 (business question):
+    # "What is the distribution of deals by deal size category?"
     q3 = (
         df.groupby("dealsize", dropna=False)
         .size()

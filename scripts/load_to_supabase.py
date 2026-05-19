@@ -64,10 +64,27 @@ def build_parser() -> argparse.ArgumentParser:
 
 
 def chunk_list(items: List[Dict[str, Any]], size: int) -> List[List[Dict[str, Any]]]:
+    """
+    Split a list of row-dicts into fixed-size chunks.
+
+    Supabase REST inserts accept an array payload, but very large arrays may fail,
+    so we upload in batches (default: 500 rows).
+    """
     return [items[i : i + size] for i in range(0, len(items), size)]
 
 
 def post_json(url: str, api_key: str, payload: Any, prefer: str) -> None:
+    """
+    POST JSON to Supabase PostgREST.
+
+    Auth:
+    - `apikey` header is required by Supabase.
+    - `Authorization: Bearer <key>` is required for PostgREST auth.
+
+    Prefer header:
+    - `return=minimal` avoids returning the inserted rows (faster).
+    - upsert mode uses `resolution=merge-duplicates` but requires a unique key.
+    """
     body = json.dumps(payload).encode("utf-8")
     request = Request(
         url,
@@ -106,12 +123,14 @@ def main() -> None:
         raise SystemExit(f"CSV not found: {csv_path}")
 
     df = pd.read_csv(csv_path, encoding="latin1")
-    # Ensure JSON-serializable types and remove NaN values.
+
+    # Ensure JSON-serializable values:
+    # - Convert NaN/NaT to None so json.dumps works and PostgREST accepts nulls.
     df = df.where(pd.notnull(df), None)
     records: List[Dict[str, Any]] = df.to_dict(orient="records")
 
     table = args.table
-    schema = args.schema
+    schema = args.schema  # for logging only (PostgREST uses the default schema via URL)
     endpoint = f"{supabase_url}/rest/v1/{table}"
 
     prefer = "return=minimal"
@@ -129,4 +148,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

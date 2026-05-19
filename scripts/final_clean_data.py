@@ -14,7 +14,6 @@ Submission mode:
 
 from __future__ import annotations
 
-import os
 from pathlib import Path
 
 import pandas as pd
@@ -35,7 +34,7 @@ output_path = (
 
 df = pd.read_csv(input_path, encoding="latin1")
 
-# Ensure lowercase columns for consistency
+# Ensure lowercase columns for consistency across tools (Python + JS + Supabase CSV import).
 df.columns = [c.strip().lower() for c in df.columns]
 
 required_cols = [
@@ -61,19 +60,23 @@ if missing_required:
 
 df = df[required_cols].copy()
 
-# 1) Handle missing values: drop rows with any null in required columns.
+# 1) Handle missing values:
+# Strategy: drop rows that contain nulls in any required column.
+# (This is easy to explain and avoids imputing incorrect business values.)
 before = len(df)
 df = df.dropna()
 after_dropna = len(df)
 
-# 2) Type conversions
+# 2) Type conversions:
+# Coerce invalid values to NaN, then drop rows that cannot be parsed.
 df["orderdate"] = pd.to_datetime(df["orderdate"], errors="coerce")
 df["sales"] = pd.to_numeric(df["sales"], errors="coerce")
 df["priceeach"] = pd.to_numeric(df["priceeach"], errors="coerce")
 df["quantityordered"] = pd.to_numeric(df["quantityordered"], errors="coerce")
 df = df.dropna(subset=["orderdate", "sales"])
 
-# 3) Normalize SALES using z-score (standardization)
+# 3) Normalize SALES using z-score standardization:
+# Adds a new column `sales_zscore` (keeps the original `sales` intact).
 sales_mean = df["sales"].mean()
 sales_std = df["sales"].std()
 if not sales_std or sales_std == 0:
@@ -81,7 +84,8 @@ if not sales_std or sales_std == 0:
 
 df["sales_zscore"] = (df["sales"] - sales_mean) / sales_std
 
-# 4) Outlier filtering using IQR on z-score values
+# 4) Outlier filtering using IQR on z-score values:
+# This removes extreme rows while keeping typical sales behavior.
 q1 = df["sales_zscore"].quantile(0.25)
 q3 = df["sales_zscore"].quantile(0.75)
 iqr = q3 - q1
@@ -89,7 +93,8 @@ lower = q1 - 1.5 * iqr
 upper = q3 + 1.5 * iqr
 df = df[(df["sales_zscore"] >= lower) & (df["sales_zscore"] <= upper)]
 
-# Add a simple primary key column for easier Supabase loading (stable within this export)
+# Add a simple primary key column for easier Supabase loading.
+# Note: This id is stable only within this exported file (not globally unique across different exports).
 df.insert(0, "id", range(1, len(df) + 1))
 
 dataset_dir.mkdir(parents=True, exist_ok=True)
