@@ -37,6 +37,7 @@ DataInsights Sales Dashboard is a comprehensive sales analytics platform designe
 - **Key Performance Indicators**: Dashboard KPI cards for quick insights
 - **Responsive Design**: Works seamlessly across devices
 - **Fast Performance**: Optimized React components with Vite bundling
+- **AI Integrated**: Free Models are utilized for better insight generation
 
 ---
 
@@ -158,7 +159,7 @@ DataInsights_Sales_Dashboard/
 - `scripts/make_submission_dataset.py`: creates a deterministic 1000-row subset (`dataset/submission_raw_sales_1000.csv`) for submission requirements.
 - `scripts/queries.py` and `scripts/queries.sql`: three business queries with printed/output results.
 - `scripts/load_to_supabase.py`: loads a CSV to Supabase using the REST API (PostgREST) with `SUPABASE_URL` and `SUPABASE_KEY`.
-- AI integration uses Groq (`llama-3.1-8b-instant`) and is configured via `VITE_GROQ_API_KEY` in `frontend/.env`.
+- AI integration uses Groq (`llama-3.1-8b-instant`) and is configured via `VITE_GROQ_API_KEY` in `frontend/.env and .env.example`.
 
 ---
 
