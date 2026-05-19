@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data artifacts (generated)
+dataset/submission_*.csv
+docs/query_outputs/
+

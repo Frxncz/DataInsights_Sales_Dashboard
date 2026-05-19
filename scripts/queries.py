@@ -22,7 +22,17 @@ def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description="Run analytical queries on cleaned data.")
     parser.add_argument(
         "--csv",
-        default=os.environ.get("INPUT_CSV", str(Path("dataset") / "cleaned_for_supabase.csv")),
+        default=os.environ.get(
+            "INPUT_CSV",
+            str(
+                Path("dataset")
+                / (
+                    "submission_cleaned_for_supabase_1000.csv"
+                    if (Path("dataset") / "submission_cleaned_for_supabase_1000.csv").exists()
+                    else "cleaned_for_supabase.csv"
+                )
+            ),
+        ),
         help="Path to cleaned CSV (default: dataset/cleaned_for_supabase.csv).",
     )
     parser.add_argument(
@@ -92,4 +102,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
