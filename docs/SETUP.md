@@ -91,13 +91,13 @@ cd DataInsights_Sales_Dashboard
 
 ```bash
 cd frontend
-npm install
+npm ci
 ```
 
 **Troubleshooting**:
 
-- If installation hangs: `npm cache clean --force`
-- If permission denied: Use `sudo npm install` (not recommended)
+- If installation hangs: `npm cache clean --force` then retry `npm ci`
+- If permission denied: fix folder permissions (avoid `sudo npm`)
 
 ### 5. Install Python (Optional - for data processing)
 
@@ -149,16 +149,16 @@ pip install pandas
 
 ## Environment Variables
 
-### Create .env.local
+### Create .env (recommended)
 
 ```bash
 # Navigate to frontend directory
 cd frontend
 
-# Create environment file
-touch .env.local  # macOS/Linux
+# Copy from example (recommended)
+copy .env.example .env  # Windows
 # or
-type nul > .env.local  # Windows (PowerShell)
+cp .env.example .env    # macOS/Linux
 ```
 
 ### Add Configuration
@@ -167,6 +167,12 @@ type nul > .env.local  # Windows (PowerShell)
 # Supabase Configuration (Required)
 VITE_SUPABASE_URL=https://yourproject.supabase.co
 VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+VITE_SUPABASE_PUBLISHABLE_KEY=sb_publishable_...  # optional
+VITE_SUPABASE_SALES_TABLE=cleaned_for_supabase    # optional (if your table isn't "sales")
+
+# AI (Groq)
+VITE_GROQ_API_KEY=your_groq_api_key
+VITE_GROQ_MODEL=llama-3.1-8b-instant
 
 # Optional: Custom Configuration
 # VITE_API_TIMEOUT=30000
@@ -177,8 +183,8 @@ VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 
 ```bash
 # Create .gitignore in frontend (if not exists)
-echo ".env.local" >> .gitignore
-echo ".env.*.local" >> .gitignore
+echo ".env" >> .gitignore
+echo ".env.*" >> .gitignore
 echo "node_modules/" >> .gitignore
 echo "dist/" >> .gitignore
 ```
@@ -391,7 +397,7 @@ npm ls
 
 ```bash
 cd frontend
-npm install
+npm ci
 npm run build
 # Should complete without errors
 ```
@@ -404,7 +410,7 @@ npm run dev
 
 # Open browser console (F12)
 # In console, run:
-fetch('https://yourproject.supabase.co/rest/v1/sales?limit=1', {
+fetch('https://yourproject.supabase.co/rest/v1/cleaned_for_supabase?limit=1', {
   headers: {
     'apikey': 'your-anon-key',
     'Authorization': 'Bearer your-anon-key'
@@ -419,10 +425,11 @@ fetch('https://yourproject.supabase.co/rest/v1/sales?limit=1', {
 
 ```sql
 -- In Supabase SQL Editor
-SELECT COUNT(*) as total_records FROM public.sales;
+-- If your actual table name differs, update the table here (or set VITE_SUPABASE_SALES_TABLE in frontend/.env)
+SELECT COUNT(*) as total_records FROM public.cleaned_for_supabase;
 -- Should return > 0
 
-SELECT * FROM public.sales LIMIT 1;
+SELECT * FROM public.cleaned_for_supabase LIMIT 1;
 -- Should show sample data
 ```
 
@@ -440,8 +447,8 @@ SELECT * FROM public.sales LIMIT 1;
 | ---------------------------- | ------------------------------------------- |
 | "npm not found"              | Reinstall Node.js, restart terminal         |
 | "Port 5173 in use"           | Kill process: `lsof -i :5173 \| kill -9`    |
-| "Module not found"           | Run `npm install` in frontend directory     |
-| "Env variables error"        | Verify `.env.local` path and format         |
+| "Module not found"           | Run `npm ci` in frontend directory          |
+| "Env variables error"        | Verify `frontend/.env` exists and is valid  |
 | "Supabase connection failed" | Check URL and API key in Supabase Dashboard |
 
 ---
@@ -454,7 +461,7 @@ git clone [repo-url]
 cd DataInsights_Sales_Dashboard
 
 # Install dependencies
-cd frontend && npm install && cd ..
+cd frontend && npm ci && cd ..
 
 # Setup Python (optional)
 python -m venv venv
@@ -463,8 +470,9 @@ pip install pandas
 
 # Setup environment
 cd frontend
-echo 'VITE_SUPABASE_URL=...' > .env.local
-echo 'VITE_SUPABASE_ANON_KEY=...' >> .env.local
+copy .env.example .env  # Windows
+# or
+cp .env.example .env    # macOS/Linux
 
 # Start development server
 npm run dev

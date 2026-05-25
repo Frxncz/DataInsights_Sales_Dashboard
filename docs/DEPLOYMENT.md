@@ -21,7 +21,7 @@
 - [ ] No console errors/warnings
 - [ ] ESLint check passes: `npm run lint`
 - [ ] No hardcoded credentials
-- [ ] `.env.local` not committed
+- [ ] `frontend/.env` not committed
 - [ ] All features tested locally
 
 ### Security
@@ -60,8 +60,8 @@
 cd frontend
 
 # Install dependencies (fresh)
-rm -rf node_modules package-lock.json
-npm install
+rm -rf node_modules
+npm ci
 
 # Run linting
 npm run lint

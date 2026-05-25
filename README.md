@@ -37,6 +37,7 @@ DataInsights Sales Dashboard is a comprehensive sales analytics platform designe
 - **Key Performance Indicators**: Dashboard KPI cards for quick insights
 - **Responsive Design**: Works seamlessly across devices
 - **Fast Performance**: Optimized React components with Vite bundling
+- **AI Integrated**: Free Models are utilized for better insight generation
 
 ---
 
@@ -153,6 +154,13 @@ DataInsights_Sales_Dashboard/
 
 ```
 
+### Additional scripts added for final requirements
+
+- `scripts/make_submission_dataset.py`: creates a deterministic 1000-row subset (`dataset/submission_raw_sales_1000.csv`) for submission requirements.
+- `scripts/queries.py` and `scripts/queries.sql`: three business queries with printed/output results.
+- `scripts/load_to_supabase.py`: loads a CSV to Supabase using the REST API (PostgREST) with `SUPABASE_URL` and `SUPABASE_KEY`.
+- AI integration uses Groq (`llama-3.1-8b-instant`) and is configured via `VITE_GROQ_API_KEY` in `frontend/.env and .env.example`.
+
 ---
 
 ## 📋 Prerequisites
@@ -204,7 +212,7 @@ Navigate to the frontend directory and install npm dependencies:
 
 ```bash
 cd frontend
-npm install
+npm ci
 ```
 
 This will install:
@@ -235,14 +243,13 @@ pip install pandas
 
 ### Step 4: Configure Environment Variables
 
-Create a `.env.local` file in the `frontend/` directory with your Supabase credentials:
+Create a `.env` file in the `frontend/` directory with your Supabase credentials (recommended: copy from `.env.example`):
 
 ```bash
 cd frontend
-# Create the environment file
-touch .env.local  # macOS/Linux
+copy .env.example .env  # Windows
 # or
-type nul > .env.local  # Windows
+cp .env.example .env    # macOS/Linux
 ```
 
 Then add your Supabase credentials:
@@ -250,9 +257,15 @@ Then add your Supabase credentials:
 ```
 VITE_SUPABASE_URL=your_supabase_url_here
 VITE_SUPABASE_ANON_KEY=your_anon_key_here
+VITE_SUPABASE_PUBLISHABLE_KEY=your_publishable_key_here  # optional
+VITE_SUPABASE_SALES_TABLE=sales                           # optional (set if your table name differs)
+
+# AI (Groq)
+VITE_GROQ_API_KEY=your_groq_api_key
+VITE_GROQ_MODEL=llama-3.1-8b-instant
 ```
 
-**⚠️ Important**: Never commit `.env.local` to version control. It contains sensitive credentials.
+**⚠️ Important**: Never commit `.env` to version control. It contains sensitive credentials.
 
 ---
 
@@ -279,7 +292,7 @@ VITE_SUPABASE_ANON_KEY=your_anon_key_here
 
 Variables prefixed with `VITE_` are automatically exposed to the client-side code during build time. Other variables remain private.
 
-### .env.local Structure
+### .env Structure
 
 ```
 # Supabase Configuration
@@ -311,7 +324,7 @@ VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 2. Copy:
    - **Project URL** → `VITE_SUPABASE_URL`
    - **anon public** key → `VITE_SUPABASE_ANON_KEY`
-3. Store these in `.env.local`
+3. Store these in `.env`
 
 ### Step 3: Create Database Table
 
@@ -355,6 +368,18 @@ CREATE INDEX idx_sales_productline ON public.sales(productline);
    - This allows public read-only access
 5. Click **Review** → **Save**
 
+**Note**: If RLS is enabled and you do not have a `SELECT` policy for your client key (`anon`), the dashboard will connect successfully but return **0 rows** (all metrics will show `0`/`N/A`).
+
+Development-only SQL example:
+
+```sql
+create policy "Public read"
+on public.sales
+for select
+to anon, authenticated
+using (true);
+```
+
 ### Step 5: Load Data into Supabase
 
 See the [Data Loading Guide](#data-loading-guide) section below for detailed instructions.
@@ -395,7 +420,7 @@ The project includes two Python scripts for data processing:
 ```python
 import pandas as pd
 
-df = pd.read_csv("raw_sales.csv", encoding='latin1')
+df = pd.read_csv("dataset/raw_sales.csv", encoding="latin1")
 
 # Select only needed columns
 df = df[[
@@ -408,7 +433,7 @@ df = df[[
 df.columns = [col.lower().strip() for col in df.columns]
 
 # Save cleaned version
-df.to_csv("cleaned_for_supabase.csv", index=False)
+df.to_csv("dataset/cleaned_for_supabase.csv", index=False)
 ```
 
 **What it does**:
@@ -573,6 +598,22 @@ npm run dev
 ```
 
 Open your browser and navigate to `http://localhost:5173/`
+
+### AI Insights (Groq - Free Tier)
+
+This dashboard includes an **AI Insights** panel that generates a short, data-driven narrative using your live Supabase data.
+
+1. Get a free API key from **Groq** (free tier)
+2. Add it to `frontend/.env`:
+
+```env
+VITE_GROQ_API_KEY=your_groq_api_key
+VITE_GROQ_MODEL=llama-3.1-8b-instant
+```
+
+Then restart the dev server (`npm run dev`) and click **Generate Insight** in the dashboard.
+
+**Note**: This is a client-side demo integration (for coursework). Do not expose production secrets in a frontend app.
 
 ### Features in Development Mode
 
@@ -822,7 +863,7 @@ Set VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY in .env
 
 **Solutions**:
 
-1. ✅ Create `.env.local` file in `frontend/` directory
+1. ✅ Create `frontend/.env` from `frontend/.env.example`
 2. ✅ Add both `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY`
 3. ✅ Restart dev server: `npm run dev`
 4. ✅ Verify credentials in Supabase Dashboard → Settings → API
@@ -830,12 +871,12 @@ Set VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY in .env
 **Verification**:
 
 ```bash
-# Check if .env.local exists
-ls -la frontend/.env.local  # macOS/Linux
-dir frontend\.env.local     # Windows
+# Check if frontend/.env exists
+ls -la frontend/.env  # macOS/Linux
+dir frontend\.env     # Windows
 
 # Verify file contents (check for typos)
-cat frontend/.env.local
+cat frontend/.env
 ```
 
 ---
@@ -850,12 +891,12 @@ Error: Cannot find module 'react'
 
 **Solutions**:
 
-1. ✅ Install dependencies: `npm install`
+1. ✅ Install dependencies: `npm ci`
 2. ✅ Delete `node_modules` and reinstall:
    ```bash
-   rm -rf node_modules package-lock.json  # macOS/Linux
-   rmdir /s node_modules                   # Windows
-   npm install
+   rm -rf node_modules   # macOS/Linux
+   rmdir /s node_modules # Windows
+   npm ci
    ```
 3. ✅ Check Node version: `node --version` (should be v16+)
 
@@ -885,7 +926,7 @@ Error: Cannot find module 'react'
    - Verify it has data: `SELECT COUNT(*) FROM sales;`
 
 3. ✅ **Check API credentials**:
-   - Verify `.env.local` has correct credentials
+   - Verify `frontend/.env` has correct credentials
    - Compare with Supabase Dashboard → Settings → API
 
 4. ✅ **Check browser console**:
@@ -954,7 +995,7 @@ Access to XMLHttpRequest blocked by CORS policy
 
 ---
 
-#### Issue 6: "npm install hangs or fails"
+#### Issue 6: "npm ci/install hangs or fails"
 
 **Solutions**:
 
@@ -962,13 +1003,13 @@ Access to XMLHttpRequest blocked by CORS policy
 
    ```bash
    npm cache clean --force
-   npm install
+   npm ci
    ```
 
 2. ✅ Use different registry:
 
    ```bash
-   npm install --registry https://registry.npmmirror.com
+   npm ci --registry https://registry.npmmirror.com
    ```
 
 3. ✅ Check internet connection and try again
@@ -1068,8 +1109,8 @@ If issues persist:
 
 ⚠️ **Environment Variables**
 
-- Never commit `.env.local` to git
-- Add `.env.local` to `.gitignore`
+- Never commit `.env` / `.env.local` to git
+- Ensure `.env` is ignored by `.gitignore`
 - Keep credentials confidential
 - Rotate keys periodically
 

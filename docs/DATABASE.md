@@ -282,7 +282,7 @@ In Supabase Dashboard:
 2. Under "Project API keys"
 3. Click rotate icon next to "anon public"
 4. Confirm rotation
-5. Update `.env.local` in your application
+5. Update `frontend/.env` in your application
 
 ### Data Privacy
 

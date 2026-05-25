@@ -44,12 +44,12 @@ git checkout -b feature/your-feature-name
 ```bash
 # Install dependencies
 cd frontend
-npm install
+npm ci
 
-# Create .env.local
-cp .env.local.example .env.local  # Or create manually
-echo "VITE_SUPABASE_URL=your_url" >> .env.local
-echo "VITE_SUPABASE_ANON_KEY=your_key" >> .env.local
+# Create .env
+copy .env.example .env  # Windows
+# or
+cp .env.example .env    # macOS/Linux
 
 # Start development server
 npm run dev
@@ -359,7 +359,7 @@ Before submitting, ensure:
 - [ ] Changes are documented
 - [ ] No console errors/warnings
 - [ ] Responsive design tested
-- [ ] `.env.local` not committed
+- [ ] `.env` not committed
 - [ ] No hardcoded credentials
 
 ### PR Title Format
